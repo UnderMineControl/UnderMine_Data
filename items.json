@@ -3517,84 +3517,140 @@
   "f2b806ffefcc4fd0b61b445852b877a9": {
     "guid": "f2b806ffefcc4fd0b61b445852b877a9",
     "name": "Nether1",
+    "displayName": "Nether",
+    "wiki": "Nether",
+    "description": "",
+    "effect": "Required for entering Othermine",
     "slot": "none",
     "attributes": ["resource", "common"]
   },
   "f8fb72103e9a438f926e217453b28cfd": {
     "guid": "f8fb72103e9a438f926e217453b28cfd",
     "name": "Thorium1",
+    "displayName": "Thorium",
+    "wiki": "Thorium",
+    "description": "",
+    "effect": "",
     "slot": "none",
     "attributes": ["resource", "common"]
   },
   "c7a81d457dcf42c38c8dd72207b304b2": {
     "guid": "c7a81d457dcf42c38c8dd72207b304b2",
     "name": "Thorium3",
+    "displayName": "Thorium",
+    "wiki": "Thorium",
+    "description": "",
+    "effect": "",
     "slot": "none",
     "attributes": ["resource", "common"]
   },
   "b73596fd5c1a49caa17ca13558b1e11f": {
     "guid": "b73596fd5c1a49caa17ca13558b1e11f",
     "name": "Gold5",
+    "displayName": "Gold",
+    "wiki": "Gold",
+    "description": "",
+    "effect": "",
     "slot": "none",
     "attributes": ["resource", "common"]
   },
   "d49248f7a1bd44e7be78e9ccfb2a6315": {
     "guid": "d49248f7a1bd44e7be78e9ccfb2a6315",
     "name": "Gold10",
+    "displayName": "Gold",
+    "wiki": "Gold",
+    "description": "",
+    "effect": "",
     "slot": "none",
     "attributes": ["resource", "common"]
   },
   "29855133382b4e61acbcd4911af89b41": {
     "guid": "29855133382b4e61acbcd4911af89b41",
     "name": "Gold25",
+    "displayName": "Gold",
+    "wiki": "Gold",
+    "description": "",
+    "effect": "",
     "slot": "none",
     "attributes": ["resource", "common"]
   },
   "2cff1ebcf6a248f98d0fa069885de582": {
     "guid": "2cff1ebcf6a248f98d0fa069885de582",
     "name": "Gold50",
+    "displayName": "Gold",
+    "wiki": "Gold",
+    "description": "",
+    "effect": "",
     "slot": "none",
     "attributes": ["resource", "common"]
   },
   "9dd5b8c0b6204e958835c6280ab8cfec": {
     "guid": "9dd5b8c0b6204e958835c6280ab8cfec",
     "name": "Gold100",
+    "displayName": "Gold",
+    "wiki": "Gold",
+    "description": "",
+    "effect": "",
     "slot": "none",
     "attributes": ["resource", "common"]
   },
   "e8172f00b9794a3f9bea5691a202ee43": {
     "guid": "e8172f00b9794a3f9bea5691a202ee43",
     "name": "Gold500",
+    "displayName": "Gold",
+    "wiki": "Gold",
+    "description": "",
+    "effect": "",
     "slot": "none",
     "attributes": ["resource", "common"]
   },
   "9c353123e650445aab33a7184a0e75a7": {
     "guid": "9c353123e650445aab33a7184a0e75a7",
     "name": "HealthSGolden",
+    "displayName": "Golden Steak",
+    "wiki": "Golden_Steak",
+    "description": "Not particularly appetizing, but can buy something that is.",
+    "effect": "Gain some gold",
     "slot": "food",
     "attributes": ["resource", "item", "health", "common"]
   },
   "2d660fbac8f74974bb37b2ebb02a305d": {
     "guid": "2d660fbac8f74974bb37b2ebb02a305d",
     "name": "HealthMGolden",
+    "displayName": "Golden Fish",
+    "wiki": "Golden_Fish",
+    "description": "Fish colored of gold belong in the sea, not in the belly.",
+    "effect": "Gain even more gold",
     "slot": "food",
     "attributes": ["resource", "item", "health", "common"]
   },
   "f44c5301ab9442378690d17cee43074b": {
     "guid": "f44c5301ab9442378690d17cee43074b",
     "name": "GoldSandwich",
+    "displayName": "Gold",
+    "wiki": "Gold",
+    "description": "",
+    "effect": "",
     "slot": "none",
     "attributes": ["resource", "common"]
   },
   "5d26fe1e897249d080d4875b0c88fe66": {
     "guid": "5d26fe1e897249d080d4875b0c88fe66",
     "name": "HealthLGolden",
+    "displayName": "Golden Ham",
+    "wiki": "Golden_Ham",
+    "description": "Not to be confused with a honey baked ham.",
+    "effect": "Gain even more gold",
     "slot": "food",
     "attributes": ["resource", "item", "health", "common"]
   },
   "038c0066e235445a84153e8c9c450522": {
     "guid": "038c0066e235445a84153e8c9c450522",
     "name": "PeasantJournal",
+    "displayName": "Journal",
+    "wiki": "Journal",
+    "description": "A blank journal enchanted by Arkanos. It automatically inscribes everything its bearer senses, so there is no need to put pen to paper. It is passed on to new peasants by the canary along with the goldsack. This way peasants can know what their predecessors witnessed, and maybe not share in their fate.",
+    "effect": "An enchanted journal",
     "slot": "artifact",
     "attributes": ["item", "artifact", "rare"]
   },
