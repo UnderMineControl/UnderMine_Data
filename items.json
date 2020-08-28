@@ -3317,120 +3317,200 @@
   "e9015ba93a0448daa19dcee8a34bc5da": {
     "guid": "e9015ba93a0448daa19dcee8a34bc5da",
     "name": "Penance",
+    "displayName": "Penance",
+    "wiki": "Penance",
+    "description": "Attunement begets atonement",
+    "effect": "Removes a curse",
     "slot": "blessing",
     "attributes": ["blessing", "common"]
   },
   "e6e2ae7e3aca49e685346f00c6fb7964": {
     "guid": "e6e2ae7e3aca49e685346f00c6fb7964",
     "name": "Balance",
+    "displayName": "Balance",
+    "wiki": "Balance",
+    "description": "A firm stance, and controlled movements do wonders to improve one's throwing capabilities.",
+    "effect": "Deal more throw damage",
     "slot": "blessing",
     "attributes": ["blessing", "common"]
   },
   "b050811163a0484fae8b0cbfd0c3a249": {
     "guid": "b050811163a0484fae8b0cbfd0c3a249",
     "name": "Vigor",
+    "displayName": "Vigor",
+    "wiki": "Vigor",
+    "description": "Brandood, champion pickaxe thrower of the hovels always said it wasn't about size, but a combination of speed and form.",
+    "effect": "Increase throw speed",
     "slot": "blessing",
     "attributes": ["blessing", "common"]
   },
   "c03f30d5004249e094562277dd286e8a": {
     "guid": "c03f30d5004249e094562277dd286e8a",
     "name": "Gust",
+    "displayName": "Gust",
+    "wiki": "Gust",
+    "description": "A tribe in the Storm Hills use a hunting technique that stuns animals with the force radiating from their arrows. Why they intentionally miss the animal is a mystery.",
+    "effect": "Increase throw attack size",
     "slot": "blessing",
     "attributes": ["blessing", "rare"]
   },
   "535a312a1fec48b985eb491d5ac20571": {
     "guid": "535a312a1fec48b985eb491d5ac20571",
     "name": "MightyHurl",
+    "displayName": "Mighty Hurl",
+    "wiki": "Mighty_Hurl",
+    "description": "\"Some say it's a disadvantage, I say 'there's no problem if you hit your target.'\" - Gronk, Champion Pickaxe Thrower",
+    "effect": "Increases throw range",
     "slot": "blessing",
     "attributes": ["blessing", "common"]
   },
   "68b9197b9def414dba65f8cbf877aadc": {
     "guid": "68b9197b9def414dba65f8cbf877aadc",
     "name": "Strength",
+    "displayName": "Strength",
+    "wiki": "Strength",
+    "description": "Some are blessed with intelligence, but that's not going to help you when staring down a raging Bobo.",
+    "effect": "Deal more swing damage",
     "slot": "blessing",
     "attributes": ["blessing", "common"]
   },
   "db1d12a9bf644b819343cfdda0c9ca6c": {
     "guid": "db1d12a9bf644b819343cfdda0c9ca6c",
     "name": "Exuberance",
+    "displayName": "Exuberance",
+    "wiki": "Exuberance",
+    "description": "Get pumped up, to pump those arms as fast as you can.",
+    "effect": "Faster swing speed",
     "slot": "blessing",
     "attributes": ["blessing", "common"]
   },
   "986a533421c64132b8fee6890e1e7cc7": {
     "guid": "986a533421c64132b8fee6890e1e7cc7",
     "name": "Cleave",
+    "displayName": "Cleave",
+    "wiki": "Cleave",
+    "description": "An old prayer, spoken to old gods, grants blades the ability to cut down swaths of men. It works for pickaxes too.",
+    "effect": "Increase swing attack size",
     "slot": "blessing",
     "attributes": ["blessing", "rare"]
   },
   "6c6b1f43ea8d43e0ba473b4080c5dac6": {
     "guid": "6c6b1f43ea8d43e0ba473b4080c5dac6",
     "name": "Savagery",
+    "displayName": "Savagery",
+    "wiki": "Savagery",
+    "description": "Channel the lust for blood. Aim it at an enemy. Destroy them entirely.",
+    "effect": "Increase chance to critical strike",
     "slot": "blessing",
     "attributes": ["blessing", "common"]
   },
   "6a9bf05e698d44e6b99a7b065b67cfc6": {
     "guid": "6a9bf05e698d44e6b99a7b065b67cfc6",
     "name": "Ferocity",
+    "displayName": "Ferocity",
+    "wiki": "Ferocity",
+    "description": "\"Despite all my rage, I'm still just a rat in a cage.\"",
+    "effect": "Increase critical strike damage",
     "slot": "blessing",
     "attributes": ["blessing", "common"]
   },
   "d572e250b86c4d11a512955553be4d9b": {
     "guid": "d572e250b86c4d11a512955553be4d9b",
     "name": "Demolition",
+    "displayName": "Demolition",
+    "wiki": "Demolition",
+    "description": "Be careful what you pray for.",
+    "effect": "Increases bomb size",
     "slot": "blessing",
     "attributes": ["blessing", "common"]
   },
   "5a4ec614cb1e4e5e8a0aafcd0c0374e7": {
     "guid": "5a4ec614cb1e4e5e8a0aafcd0c0374e7",
     "name": "Explosiveness",
+    "displayName": "Explosiveness",
+    "wiki": "Explosiveness",
+    "description": "\"Explosive\" can mean a lot of things, like being fast on foot, but here it is quite literal.",
+    "effect": "Deal more bomb damage",
     "slot": "blessing",
     "attributes": ["blessing", "common"]
   },
   "69fb1736d021409899690bdb5905dddd": {
     "guid": "69fb1736d021409899690bdb5905dddd",
     "name": "Fortitude",
+    "displayName": "Fortitude",
+    "wiki": "Fortitude",
+    "description": "Peasants develop a strong constitution and thick skin as part of everyday life.",
+    "effect": "Receive less damage",
     "slot": "blessing",
     "attributes": ["blessing", "rare"]
   },
   "7a431a1136014ef88efe8a530a2716b3": {
     "guid": "7a431a1136014ef88efe8a530a2716b3",
     "name": "Toughness",
+    "displayName": "Toughness",
+    "wiki": "Toughness",
+    "description": "An important attribute for when the raging Bobo barrels over you.",
+    "effect": "Increased maximum health",
     "slot": "blessing",
     "attributes": ["blessing", "common"]
   },
   "ad0424584fae467c9f89f7a9e4bdf0d7": {
     "guid": "ad0424584fae467c9f89f7a9e4bdf0d7",
     "name": "Heartiness",
+    "displayName": "Heartiness",
+    "wiki": "Heartiness",
+    "description": "Normally a healthy lifestyle makes for a healthy body, but peasants make due with what they got.",
+    "effect": "Healing is more effective",
     "slot": "blessing",
     "attributes": ["blessing", "common"]
   },
   "870f3fd76f934065b98fa75d5b237f12": {
     "guid": "870f3fd76f934065b98fa75d5b237f12",
     "name": "SlowMetabolism",
+    "displayName": "Slow Metabolism",
+    "wiki": "Slow_Metabolism",
+    "description": "Slowly burning calories, and maintaining the effects of drinks can only be considered a blessing for a peasant.",
+    "effect": "Increase potion duration",
     "slot": "blessing",
     "attributes": ["blessing", "common"]
   },
   "49178cd284e948f0b89f0dfb9a2847bb": {
     "guid": "49178cd284e948f0b89f0dfb9a2847bb",
     "name": "Regeneration",
+    "displayName": "Regeneration",
+    "wiki": "Regeneration",
+    "description": "Curiosity and exploration can rejuvenate the soul.",
+    "effect": "Heal through adventure",
     "slot": "blessing",
     "attributes": ["blessing", "common"]
   },
   "5ec9f182735e418bb6dcb7f9186cc953": {
     "guid": "5ec9f182735e418bb6dcb7f9186cc953",
     "name": "Craftsmanship",
+    "displayName": "Craftsmanship",
+    "wiki": "Craftsmanship",
+    "description": "A deft hand and some quality string can save you a fortune in the end.",
+    "effect": "Lose less gold on death",
     "slot": "blessing",
     "attributes": ["blessing", "common"]
   },
   "aa7de59e30cd473783df2d2e1879cdde": {
     "guid": "aa7de59e30cd473783df2d2e1879cdde",
     "name": "Wealth",
+    "displayName": "Wealth",
+    "wiki": "Wealth",
+    "description": "The prospector has always understood the true value of the earth.",
+    "effect": "Increase gold income",
     "slot": "blessing",
     "attributes": ["blessing", "rare"]
   },
   "d182cd977e1f4946b935c5e45acc8bee": {
     "guid": "d182cd977e1f4946b935c5e45acc8bee",
     "name": "Loyalty",
+    "displayName": "Loyalty",
+    "wiki": "Loyalty",
+    "description": "Pilfers always remember a face, and they enjoy the familiar.",
+    "effect": "Reduces the cost of shop items",
     "slot": "blessing",
     "attributes": ["blessing", "common"]
   },
