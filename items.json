@@ -2697,324 +2697,540 @@
   "a6d6119f24ab44b5ac3e292c66b039c3": {
     "guid": "a6d6119f24ab44b5ac3e292c66b039c3",
     "name": "BlessingEater",
+    "displayName": "Blessing Eater",
+    "wiki": "Blessing_Eater",
+    "description": "A spiteful curse that hungers for favor.",
+    "effect": "Killing enemies destroys a blessing",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "3cebb72f2cb94342aa1c6c2d455fa8f8": {
     "guid": "3cebb72f2cb94342aa1c6c2d455fa8f8",
     "name": "ItemEater",
+    "displayName": "Item Eater",
+    "wiki": "Item_Eater",
+    "description": "A more mundane curse, settling for the simpler things.",
+    "effect": "Killing enemies destroys items",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "861f2ce31df64b76b15c9e143c60be23": {
     "guid": "861f2ce31df64b76b15c9e143c60be23",
     "name": "Tariffs",
+    "displayName": "Tariffs",
+    "wiki": "Tariffs",
+    "description": "There is a price for everything, and that price can be increased.",
+    "effect": "Double all costs",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "18c02d8c98514cd7b3a6e35683a63462": {
     "guid": "18c02d8c98514cd7b3a6e35683a63462",
     "name": "Inflation",
+    "displayName": "Inflation",
+    "wiki": "Inflation",
+    "description": "The relationship with the Pilfers is tenuous and fickle. Scorn them and suffer the consequences.",
+    "effect": "Increases the cost of shop items",
     "slot": "minor_curse",
     "attributes": ["curse", "minor", "common"]
   },
   "f127a5676b15448cb31eef774e4866a3": {
     "guid": "f127a5676b15448cb31eef774e4866a3",
     "name": "MarketCrash",
+    "displayName": "Market Crash",
+    "wiki": "Market_Crash",
+    "description": "A pioneering Noble once attempted to raise the price of potatoes by hoarding them, only for them to rot in his cellar.",
+    "effect": "Increases the cost of shop items",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "2ee178171a0542c1b0b33c3638bc882b": {
     "guid": "2ee178171a0542c1b0b33c3638bc882b",
     "name": "Poverty",
+    "displayName": "Poverty",
+    "wiki": "Poverty",
+    "description": "\"Hasn't anyone told you it costs more to be poor?\" - Black Rabbit",
+    "effect": "Decrease the amount of gold received",
     "slot": "minor_curse",
     "attributes": ["curse", "minor", "common"]
   },
   "00724b8396b24ddda26cac3b27ca8d41": {
     "guid": "00724b8396b24ddda26cac3b27ca8d41",
     "name": "LowStock",
+    "displayName": "Low Stock",
+    "wiki": "Low_Stock",
+    "description": "Supply chains have been crushed, and the kingdom's river of goods run dry.",
+    "effect": "Reduced shop options",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "5c58a6d3e7184a0c9b5a31ca08a5ee12": {
     "guid": "5c58a6d3e7184a0c9b5a31ca08a5ee12",
     "name": "BloodPact",
+    "displayName": "Blood Pact",
+    "wiki": "Blood_Pact",
+    "description": "Toil is the act of trading health for something tangible.",
+    "effect": "Costs health to plant bombs",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "c222d9dab4f4499a9ed5f894b172e5f8": {
     "guid": "c222d9dab4f4499a9ed5f894b172e5f8",
     "name": "PowderShortage",
+    "displayName": "Powder Shortage",
+    "wiki": "Powder_Shortage",
+    "description": "A generation ago, three sulfur mines ran dry almost simultaneously. Bomb smiths made due, but mining operations slowed down considerably.",
+    "effect": "Dropping a bomb costs 2 bombs",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "f8c5ec2536e648989e3ee6aa6b08b57d": {
     "guid": "f8c5ec2536e648989e3ee6aa6b08b57d",
     "name": "RainOfFire",
+    "displayName": "Rain of Fire",
+    "wiki": "Rain_of_Fire",
+    "description": "Targon, the Bold was cursed with fire and brimstone after having severed the great Firelord's tail.",
+    "effect": "Droplets of fire fall from the sky",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "3f24c4e8d3254df8b6d13b0cd38acf3f": {
     "guid": "3f24c4e8d3254df8b6d13b0cd38acf3f",
     "name": "WakingLight",
+    "displayName": "Waking Light",
+    "wiki": "Waking_Light",
+    "description": "The lanterns, the torches, and the braziers watch on and they hunt with a fiery vengeance.",
+    "effect": "Torches and lanterns fire fireballs",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "4d7cb97a86be4113b6fe61a97550247b": {
     "guid": "4d7cb97a86be4113b6fe61a97550247b",
     "name": "SalamandersWrath",
+    "displayName": "Salamander's Wrath",
+    "wiki": "Salamander%27s_Wrath",
+    "description": "The moment Seer's tail was severed the creature set out a roar so fierce that rock shattered and iron was set ablaze.",
+    "effect": "All enemies ignite the peasant",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "b578c14ad2b4493a8e8187c46e675f16": {
     "guid": "b578c14ad2b4493a8e8187c46e675f16",
     "name": "FastMetabolism",
+    "displayName": "Fast Metabolism",
+    "wiki": "Fast_Metabolism",
+    "description": "Blessed with a cut jawline and sinewy limbs, but cursed with the inability to maintain a buzz.",
+    "effect": "Decreases potion duration",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "9d0586c51fb540aabe6a58e6064aa991": {
     "guid": "9d0586c51fb540aabe6a58e6064aa991",
     "name": "Venomous",
+    "displayName": "Venomous",
+    "wiki": "Venomous",
+    "description": "Now it is not just the spiders and the serpents you must be weary of, for all creatures carry fate in their fangs.",
+    "effect": "All enemies inflict poison",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "beeaeaf000bf435683c5c5293932c496": {
     "guid": "beeaeaf000bf435683c5c5293932c496",
     "name": "Plague",
+    "displayName": "Plague",
+    "wiki": "Plague",
+    "description": "\"We knew the food was tainted, but we had no other choice.\" Survivor of the Lingering Miasma",
+    "effect": "Uncooked food is less effective and has a chance to poison",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "1533ba9d0d294c1f8c93ed4ae245e9df": {
     "guid": "1533ba9d0d294c1f8c93ed4ae245e9df",
     "name": "Tenderfoot",
+    "displayName": "Tenderfoot",
+    "wiki": "Tenderfoot",
+    "description": "Peasants are issued one pair of boots a year. The boots never last an entire year.",
+    "effect": "Take damage when you jump",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "bd9d1797ebd8411aa82ba727cb8a6e94": {
     "guid": "bd9d1797ebd8411aa82ba727cb8a6e94",
     "name": "EmptyCoffers",
+    "displayName": "Empty Coffers",
+    "wiki": "Empty_Coffers",
+    "description": "\"In my version of the story, the hare wins.\" - Black Rabbit",
+    "effect": "Chests are sometimes empty",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "32f39a9ff9f54295a3fe7c42e5b2ad5d": {
     "guid": "32f39a9ff9f54295a3fe7c42e5b2ad5d",
     "name": "Rigged",
+    "displayName": "Rigged",
+    "wiki": "Rigged",
+    "description": "\"You win some, you lose... a lot? Is that how it goes?\" - Black Rabbit",
+    "effect": "Chests are trapped more often",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "4d5eb4480bdc4ab3b36087fbc9926e69": {
     "guid": "4d5eb4480bdc4ab3b36087fbc9926e69",
     "name": "TheCrumbles",
+    "displayName": "The Crumbles",
+    "wiki": "The_Crumbles",
+    "description": "Catching a case of the crumbles is clearly a cause for concern!",
+    "effect": "Items become extra fragile",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "682d41064792492b9cf351de9bd8a405": {
     "guid": "682d41064792492b9cf351de9bd8a405",
     "name": "PoisonMushroom",
+    "displayName": "Poison Mushroom",
+    "wiki": "Poison_Mushroom",
+    "description": "One makes you larger, and one makes you small.",
+    "effect": "Lose maximum health when killing enemies",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "8138983272d648e9b47995a8c7b5324c": {
     "guid": "8138983272d648e9b47995a8c7b5324c",
     "name": "HauntedLocks",
+    "displayName": "Haunted Locks",
+    "wiki": "Haunted_Locks",
+    "description": "Peering through the keyhole reveals a colorful and twisting gateway into another realm.",
+    "effect": "Costs health to use a key",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "852d2b8abf6446ad81e078472f503b2d": {
     "guid": "852d2b8abf6446ad81e078472f503b2d",
     "name": "Lethargy",
+    "displayName": "Lethargy",
+    "wiki": "Lethargy",
+    "description": "The heart is willing but the arms are weak and lifeless.",
+    "effect": "Deal less swing damage",
     "slot": "minor_curse",
     "attributes": ["curse", "minor", "common"]
   },
   "d0cc30fbf196423ea49170a2995e0549": {
     "guid": "d0cc30fbf196423ea49170a2995e0549",
     "name": "Weakness",
+    "displayName": "Weakness",
+    "wiki": "Weakness",
+    "description": "Palms are sweaty, knees weak, arms are heavy. There is vomit on the tunic already.",
+    "effect": "Deal less swing damage",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "7dc2f7af7fd34fe3b6d5d92f30d20acd": {
     "guid": "7dc2f7af7fd34fe3b6d5d92f30d20acd",
     "name": "Imbalance",
+    "displayName": "Imbalance",
+    "wiki": "Imbalance",
+    "description": "Every wobbly step, every flinch of the arm worms its way into the brain and feeds a lack of confidence.",
+    "effect": "Deal less throw damage",
     "slot": "minor_curse",
     "attributes": ["curse", "minor", "common"]
   },
   "0ff4a9c19f294ce4ba489c447ad8df43": {
     "guid": "0ff4a9c19f294ce4ba489c447ad8df43",
     "name": "Wobbly",
+    "displayName": "Wobbly",
+    "wiki": "Wobbly",
+    "description": "Every wobbly step, every flinch of the arm worms its way into the brain and feeds a lack of confidence.",
+    "effect": "Deal less throw damage",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "f4b43b06f1c34576820b596a38dd4a17": {
     "guid": "f4b43b06f1c34576820b596a38dd4a17",
     "name": "Mediocrity",
+    "displayName": "Mediocrity",
+    "wiki": "Mediocrity",
+    "description": "Live up to the challenge, or die in mediocrity.",
+    "effect": "Can no longer critical strike",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "2976adb134a24dd9bce3cdcc1837fc81": {
     "guid": "2976adb134a24dd9bce3cdcc1837fc81",
     "name": "Frailty",
+    "displayName": "Frailty",
+    "wiki": "Frailty",
+    "description": "Complacency can turn that which is tough, hearty, and strong into something as delicate and fragile as an eggshell.",
+    "effect": "Reduced maximum health",
     "slot": "minor_curse",
     "attributes": ["curse", "minor", "common"]
   },
   "70c32c9d2d394c40bfca62485390363b": {
     "guid": "70c32c9d2d394c40bfca62485390363b",
     "name": "Enfeebled",
+    "displayName": "Enfeebled",
+    "wiki": "Enfeebled",
+    "description": "Age catches up with us all.",
+    "effect": "Reduced maximum health",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "1e7be481409349c9bfd91d83372ca68b": {
     "guid": "1e7be481409349c9bfd91d83372ca68b",
     "name": "Illness",
+    "displayName": "Illness",
+    "wiki": "Illness",
+    "description": "Even the mightiest of kings succumbs to illness.",
+    "effect": "Healing is less effective",
     "slot": "minor_curse",
     "attributes": ["curse", "minor", "common"]
   },
   "6d39054e84bf4b909ed76e6112921e4a": {
     "guid": "6d39054e84bf4b909ed76e6112921e4a",
     "name": "Fever",
+    "displayName": "Fever",
+    "wiki": "Fever",
+    "description": "Peasants are accustomed to being hot and sweaty, but not like this.",
+    "effect": "Healing is less effective",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "31fa6f68d67349c0a54e1fae385a4b9a": {
     "guid": "31fa6f68d67349c0a54e1fae385a4b9a",
     "name": "Clumsiness",
+    "displayName": "Clumsiness",
+    "wiki": "Clumsiness",
+    "description": "It is easy to come between a fool and his gold. It is especially easy when the fool leaves the gold lying around.",
+    "effect": "Lose more gold on death",
     "slot": "minor_curse",
     "attributes": ["curse", "minor", "common"]
   },
   "e8cff42469714a73b49def4009b3dfd9": {
     "guid": "e8cff42469714a73b49def4009b3dfd9",
     "name": "Ineptitude",
+    "displayName": "Ineptitude",
+    "wiki": "Ineptitude",
+    "description": "\"Where did I leave my goldsack?\" - Unemployed peasant",
+    "effect": "Lose more gold on death",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "6e21a8d6949f41a5b91e7f3c15db231a": {
     "guid": "6e21a8d6949f41a5b91e7f3c15db231a",
     "name": "Brittleness",
+    "displayName": "Brittleness",
+    "wiki": "Brittleness",
+    "description": "A sense of fragility clouds the mind, and it feels as if the lightest of impacts will break the body.",
+    "effect": "Receive more damage",
     "slot": "minor_curse",
     "attributes": ["curse", "minor", "common"]
   },
   "a99c2000ab1b4b6bb2d655e83fa30fca": {
     "guid": "a99c2000ab1b4b6bb2d655e83fa30fca",
     "name": "Vulnerable",
+    "displayName": "Vulnerable",
+    "wiki": "Vulnerable",
+    "description": "It's okay to be vurnerable, but not right now.",
+    "effect": "Recieve more damage",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "b3da0dca60f54906a6ea1db94d4b75ef": {
     "guid": "b3da0dca60f54906a6ea1db94d4b75ef",
     "name": "Blisters",
+    "displayName": "Blisters",
+    "wiki": "Blisters",
+    "description": "The wear and tear from constant toil have left the hands bloody, broken, and riddled with pain.",
+    "effect": "Decreases throw speed",
     "slot": "minor_curse",
     "attributes": ["curse", "minor", "common"]
   },
   "1515f76a45c8453cbcb0b3b952d42c90": {
     "guid": "1515f76a45c8453cbcb0b3b952d42c90",
     "name": "MinersShoulder",
+    "displayName": "Miner's Shoulder",
+    "wiki": "Miner%27s_Shoulder",
+    "description": "Sometimes called \"searing hot pain.\"",
+    "effect": "Decreases throw speed",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "15b3dd56f7074a699c94628b4701ecba": {
     "guid": "15b3dd56f7074a699c94628b4701ecba",
     "name": "JointPain",
+    "displayName": "Joint Pain",
+    "wiki": "Joint_Pain",
+    "description": "Every miner reaches an age when they consider hanging up their pickaxe.",
+    "effect": "Decreases swing speed",
     "slot": "minor_curse",
     "attributes": ["curse", "minor", "common"]
   },
   "bbc5177fbd0b491fa5656d64ae532644": {
     "guid": "bbc5177fbd0b491fa5656d64ae532644",
     "name": "Arthritis",
+    "displayName": "Arthritis",
+    "wiki": "Arthritis",
+    "description": "The pains of time crawl through the bones, slowing the once quick reflexes of youth.",
+    "effect": "Decreases swing speed",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "feb2d714e03142aeb48fdde2afc25fd1": {
     "guid": "feb2d714e03142aeb48fdde2afc25fd1",
     "name": "SpatialSickness",
+    "displayName": "SpatialSickness",
+    "wiki": "Spatial_Sickness",
+    "description": "A curse devised by a bored demon that enjoyed watching his victims throw-up in confusion.",
+    "effect": "Teleport when hit",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "8396a93bb7214647a3dc381a94ca193d": {
     "guid": "8396a93bb7214647a3dc381a94ca193d",
     "name": "BottleBlight",
+    "displayName": "Bottle Blight",
+    "wiki": "Bottle_Blight",
+    "description": "An odd affliction that takes issue with bottle substances. Or is it the bottles themselves?",
+    "effect": "Take damage for each of your potions, each room",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "905c0ea8343d4feeb7957191761d8338": {
     "guid": "905c0ea8343d4feeb7957191761d8338",
     "name": "Compulsion",
+    "displayName": "Compulsion",
+    "wiki": "Compulsion",
+    "description": "They say \"a healthy life is one of moderation,\" but they also say \"you only live once.\"",
+    "effect": "All potions automatically drink on pickup",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "9e441be8838144b285b6e6923f8ba8b8": {
     "guid": "9e441be8838144b285b6e6923f8ba8b8",
     "name": "BottleStopper",
+    "displayName": "Bottle Stopper",
+    "wiki": "Bottle_Stopper",
+    "description": "Derived by a straight-edge wizard that enjoyed ruining everyone's fun.",
+    "effect": "Carry fewer potions",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "5a07ac0e26914e5ab472cc79e9a97fe8": {
     "guid": "5a07ac0e26914e5ab472cc79e9a97fe8",
     "name": "Mutation",
+    "displayName": "Mutation",
+    "wiki": "Mutation",
+    "description": "There is a good kind of mutation, and a bad kind. This is the bad kind.",
+    "effect": "Relics are turned into potions",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "d07217e8683c4309a16192b22cda8add": {
     "guid": "d07217e8683c4309a16192b22cda8add",
     "name": "Secrecy",
+    "displayName": "Secrecy",
+    "wiki": "Secrecy",
+    "description": "Secrets are only secrets when few people know of them.",
+    "effect": "Secret rooms are even more secret",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "fe4f7657e9a643aab2030836e77fb571": {
     "guid": "fe4f7657e9a643aab2030836e77fb571",
     "name": "SecurityTheater",
+    "displayName": "Security Theater",
+    "wiki": "Security_Theater",
+    "description": "Being secure isn't important. It's the illusion of being secure that matters.",
+    "effect": "The shop is locked up tight",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "cbb64a4dc4da4587b3273a50c2a53cc3": {
     "guid": "cbb64a4dc4da4587b3273a50c2a53cc3",
     "name": "ExplosiveDecompression",
+    "displayName": "Explosive Decompression",
+    "wiki": "Explosive_Decompression",
+    "description": "The explosion can be heard by Pilfers for miles.",
+    "effect": "All ore is mined when entering a room",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "bc80dc90e70d46d299f4cb8566a8a777": {
     "guid": "bc80dc90e70d46d299f4cb8566a8a777",
     "name": "Vertigo",
+    "displayName": "Vertigo",
+    "wiki": "Vertigo",
+    "description": "Staring into the abyss, the mind races, the eyes grow bleary, and the knees weaken.",
+    "effect": "Receive increased fall damage",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "66435b8332c74c03b06d5039e2962a99": {
     "guid": "66435b8332c74c03b06d5039e2962a99",
     "name": "Nullification",
+    "displayName": "Nullification",
+    "wiki": "Nullification",
+    "description": "A hex used by Aevyn battle mages against invading paladins during the assault of their wooded homeland.",
+    "effect": "Disables 2 relics",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "ffc9fe14d44d434a96624680938fd416": {
     "guid": "ffc9fe14d44d434a96624680938fd416",
     "name": "DarkCloud",
+    "displayName": "Dark Cloud",
+    "wiki": "Dark_Cloud",
+    "description": "It hangs over the cursed, making the world appear dark and dreary not matter the situation.",
+    "effect": "Disables 2 blessings"
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "4b2977e42e734855acf1e71deefa8e63": {
     "guid": "4b2977e42e734855acf1e71deefa8e63",
     "name": "Uncreative",
+    "displayName": "Uncreative",
+    "wiki": "Uncreative",
+    "description": "The Djinn rolled his eyes as the fifteenth owner of the lamp wished for more wishes.",
+    "effect": "Only one blessing is available at altars",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "56e0afaaf92f45d1ba97f83547bd8b23": {
     "guid": "56e0afaaf92f45d1ba97f83547bd8b23",
     "name": "MaliciousIntent",
+    "displayName": "Malicious Intent",
+    "wiki": "Malicious_Intent",
+    "description": "Atonement begins with an earnest look at oneself and one's mistakes.",
+    "effect": "The cost of Penance is doubled",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "09d0e4e531c64e7e8e29ba73fb6b7c11": {
     "guid": "09d0e4e531c64e7e8e29ba73fb6b7c11",
     "name": "BloodiedLocks",
+    "displayName": "Bloodied Locks",
+    "wiki": "Bloodied_Locks",
+    "description": "In the catacombs many walls have shallow ruts in the shape of a hand, and dozens of spines facing outwards at the base of those ruts.",
+    "effect": "Lock costs are converted to health",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "b68c50e2d9584edea52fae690c472ee7": {
     "guid": "b68c50e2d9584edea52fae690c472ee7",
     "name": "BloodOffering",
+    "displayName": "Blood Offering",
+    "wiki": "Blood_Offering",
+    "description": "The pilfers have grown tired of gold and now demand a greater sacrifice for their wares.",
+    "effect": "Shop costs are converted to health",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
   "d08db904b48e4c2f9a35f8d8fc5dbaab": {
     "guid": "d08db904b48e4c2f9a35f8d8fc5dbaab",
     "name": "Debt",
+    "displayName": "Debt",
+    "wiki": "Debt",
+    "description": "Not all debt is bad, but this one certainly is. If only there were a quick way to repay it?",
+    "effect": "Unpaid debt to the pilfers",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
