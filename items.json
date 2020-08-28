@@ -3237,48 +3237,80 @@
   "1a2a4e79b6834973b87a62c056b55b1a": {
     "guid": "1a2a4e79b6834973b87a62c056b55b1a",
     "name": "Chaos",
+    "displayName": "Chaotic Offering",
+    "wiki": "Chaotic_Offering",
+    "description": "Item shapes shift and morph like an ephemeral haze. Their form eludes the senses, as if the eyes and ears cannot focus.",
+    "effect": "All items are hidden",
     "slot": "hex",
     "attributes": ["hex", "common"]
   },
   "186668076c6e4532a6451703d17a83c7": {
     "guid": "186668076c6e4532a6451703d17a83c7",
     "name": "Fog",
+    "displayName": "Dreadful Fog",
+    "wiki": "Dreadful_Fog",
+    "description": "A mist winds its way through the Undermine. It breaths deadly life into the hollow's inhabitants.",
+    "effect": "Enemies have double health and damage",
     "slot": "hex",
     "attributes": ["hex", "common"]
   },
   "6873f352cbeb489eb050bd6fb47a1372": {
     "guid": "6873f352cbeb489eb050bd6fb47a1372",
     "name": "Greed",
+    "displayName": "Red-Hot Nuggets",
+    "wiki": "Red-Hot_Nuggets",
+    "description": "Hot to the touch, as if they were plucked from the oven.",
+    "effect": "Take damage when picking up gold",
     "slot": "hex",
     "attributes": ["hex", "common"]
   },
   "7a78e1580ae34f9c908fc2cb74cc5e81": {
     "guid": "7a78e1580ae34f9c908fc2cb74cc5e81",
     "name": "Delight",
+    "displayName": "Rogue's Ultimatum",
+    "wiki": "Rogue%27s_Ultimatum",
+    "description": "To truly be deemed a rogue, one must rely on their wits, and their wits alone.",
+    "effect": "Disables permanent upgrades",
     "slot": "hex",
     "attributes": ["hex", "common"]
   },
   "ae2c9f624b104e1b807bb002eeafec9a": {
     "guid": "ae2c9f624b104e1b807bb002eeafec9a",
     "name": "Torment",
+    "displayName": "Siegfried's Torment",
+    "wiki": "Siegfried%27s_Torment",
+    "description": "While his shield may be purified, the memory of the nightmare lives on.",
+    "effect": "Adds an indestructible curse on every floor",
     "slot": "hex",
     "attributes": ["hex", "common"]
   },
   "91517ccfe5f94e0386f4c40fa30938d5": {
     "guid": "91517ccfe5f94e0386f4c40fa30938d5",
     "name": "Frostbite",
+    "displayName": "Frostbite",
+    "wiki": "Frostbite",
+    "description": "\"The bite of cold penetrates the body entirely. A curse? No, this is a nightmare.\" - Unknown",
+    "effect": "Cannot heal",
     "slot": "hex",
     "attributes": ["hex", "common"]
   },
   "319cab181142408cae02ade562c5ff14": {
     "guid": "319cab181142408cae02ade562c5ff14",
     "name": "Peril",
+    "displayName": "Adventurer's Peril",
+    "wiki": "Adventurer%27s_Peril",
+    "description": "Preparation, training, and fortitude are not enough. One must be a combination of perfect and lucky to avoid catastrophe.",
+    "effect": "One health point",
     "slot": "hex",
     "attributes": ["hex", "common"]
   },
   "15a5a17ac6824e32aa375755f3119c7c": {
     "guid": "15a5a17ac6824e32aa375755f3119c7c",
     "name": "Freedom",
+    "displayName": "Unending Desolation",
+    "wiki": "Unending_Desolation",
+    "description": "\"What do you do when the glittery trinkets are taken away, and are left to rely on your skill alone?\" - Valeen, the Crone",
+    "effect": "Floors no longer have relic rooms",
     "slot": "hex",
     "attributes": ["hex", "common"]
   },
