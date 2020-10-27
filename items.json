@@ -3180,7 +3180,7 @@
     "displayName": "Dark Cloud",
     "wiki": "Dark_Cloud",
     "description": "It hangs over the cursed, making the world appear dark and dreary not matter the situation.",
-    "effect": "Disables 2 blessings"
+    "effect": "Disables 2 blessings",
     "slot": "curse",
     "attributes": ["curse", "major", "common"]
   },
