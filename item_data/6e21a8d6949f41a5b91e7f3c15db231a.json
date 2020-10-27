@@ -1,0 +1,14 @@
+{
+  "guid": "6e21a8d6949f41a5b91e7f3c15db231a",
+  "name": "Brittleness",
+  "displayName": "Brittleness",
+  "wiki": "Brittleness",
+  "description": "A sense of fragility clouds the mind, and it feels as if the lightest of impacts will break the body.",
+  "effect": "Receive more damage",
+  "slot": "minor_curse",
+  "attributes": [
+    "curse",
+    "minor",
+    "common"
+  ]
+}

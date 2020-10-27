@@ -1,0 +1,15 @@
+{
+  "guid": "12784fa0c4a949fdadf21288bc5ec170",
+  "name": "FireballPotion",
+  "displayName": "Fury Potion",
+  "wiki": "Fury_Potion",
+  "description": "Peering into the bottle reveals a vortex of fireballs, writhing in furor.",
+  "effect": "Fire some fireballs",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

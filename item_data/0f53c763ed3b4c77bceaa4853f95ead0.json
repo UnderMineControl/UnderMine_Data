@@ -1,0 +1,15 @@
+{
+  "guid": "0f53c763ed3b4c77bceaa4853f95ead0",
+  "name": "BombBag",
+  "displayName": "Bag O' Bombs",
+  "wiki": "Bag_O%27_Bombs",
+  "description": "A well worn bag, full of bombs, and covered in black powder.",
+  "effect": "Full of bombs",
+  "slot": "item",
+  "attributes": [
+    "bomb",
+    "item",
+    "basic",
+    "common"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "e56c7298c19e47d990140eceb14b95cc",
+  "name": "BombDoubler",
+  "displayName": "Bomb Doubler",
+  "wiki": "Bomb_Doubler",
+  "description": "In a parallel universe, somebody is missing a lot of bombs.",
+  "effect": "Sometimes drop a new bomb when using an old bomb",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

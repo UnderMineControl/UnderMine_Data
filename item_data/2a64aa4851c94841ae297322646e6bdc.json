@@ -1,0 +1,15 @@
+{
+  "guid": "2a64aa4851c94841ae297322646e6bdc",
+  "name": "WetBlanket",
+  "displayName": "Wet Blanket",
+  "wiki": "Wet_Blanket",
+  "description": "Mining near the Golden Core required fire safety such as this blanket. Not a great sleep aid.",
+  "effect": "Puts out fires immediately, but requires water charges",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

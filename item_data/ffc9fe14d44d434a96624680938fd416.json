@@ -1,0 +1,14 @@
+{
+  "guid": "ffc9fe14d44d434a96624680938fd416",
+  "name": "DarkCloud",
+  "displayName": "Dark Cloud",
+  "wiki": "Dark_Cloud",
+  "description": "It hangs over the cursed, making the world appear dark and dreary not matter the situation.",
+  "effect": "Disables 2 blessings",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

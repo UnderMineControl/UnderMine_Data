@@ -1,0 +1,15 @@
+{
+  "guid": "ca58b2a9d6cc4f56ae0699e33578a2e2",
+  "name": "Doll",
+  "displayName": "Doll",
+  "wiki": "Doll",
+  "description": "Placed in the beds of young children to protect them from the horrors of the night.",
+  "effect": "Blocks the next few curses.",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

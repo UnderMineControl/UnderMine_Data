@@ -1,0 +1,15 @@
+{
+  "guid": "c3cf34b72ca743f7986c53215ec3a358",
+  "name": "U235",
+  "displayName": "U-235",
+  "wiki": "U-235",
+  "description": "A strange, glowing rock that emits a warm and comforting aura.",
+  "effect": "Bomb damage is proportional to the number of carried bombs, +5 bombs",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "9c707dd6871a44b7b7326ad378f41a38",
+  "name": "GoldTooth",
+  "displayName": "Gold Tooth",
+  "wiki": "Gold_Tooth",
+  "description": "A morbid trinket picked off a prospector who lived way beyond his years.",
+  "effect": "Sustain yourself on gold",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

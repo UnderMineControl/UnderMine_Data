@@ -1,0 +1,10 @@
+{
+  "guid": "b70e6c76523f42c7a0f2394fe8b015ef",
+  "name": "PrisonerKey",
+  "slot": "artifact",
+  "attributes": [
+    "item",
+    "artifact",
+    "rare"
+  ]
+}

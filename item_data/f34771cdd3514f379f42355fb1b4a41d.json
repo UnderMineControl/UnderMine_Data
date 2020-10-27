@@ -1,0 +1,15 @@
+{
+  "guid": "f34771cdd3514f379f42355fb1b4a41d",
+  "name": "SwapPotion",
+  "displayName": "Impish Key Bomb",
+  "wiki": "Impish_Key_Bomb",
+  "description": "\"I'm not sure if it actually changes your items, or if it just messes you up so bad you think it did.\" - Dirk, The Alchemist",
+  "effect": "Swap your items around",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "4673c7f91a7b4d35b8ebe30a16ce650a",
+  "name": "ImmolatePotion",
+  "displayName": "Immolation Potion",
+  "wiki": "Immolation_Potion",
+  "description": "Douse yourself in a living flame that only has hunger for your enemies.",
+  "effect": "Burns nearby enemies",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

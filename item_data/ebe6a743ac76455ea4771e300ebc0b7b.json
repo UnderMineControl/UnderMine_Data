@@ -1,0 +1,15 @@
+{
+  "guid": "ebe6a743ac76455ea4771e300ebc0b7b",
+  "name": "GoldenDelicious",
+  "displayName": "Golden Delicious",
+  "wiki": "Golden_Delicious",
+  "description": "A cursed apple, turned to gold by a fool who didn't know what they were wishing for.",
+  "effect": "All food is golden and extra delicious",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

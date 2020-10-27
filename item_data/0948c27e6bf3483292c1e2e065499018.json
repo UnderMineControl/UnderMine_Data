@@ -1,0 +1,15 @@
+{
+  "guid": "0948c27e6bf3483292c1e2e065499018",
+  "name": "LightningBombs",
+  "displayName": "Lightning Bomb",
+  "wiki": "Lightning_Bomb",
+  "description": "Alchemists took the liquefied remains of the lightning bug and weaponized it... even more so.",
+  "effect": "Bomb explosions chain lightning",
+  "slot": "bomb",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

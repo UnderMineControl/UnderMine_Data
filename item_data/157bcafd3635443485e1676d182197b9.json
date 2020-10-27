@@ -1,0 +1,15 @@
+{
+  "guid": "157bcafd3635443485e1676d182197b9",
+  "name": "Lesser_demon",
+  "displayName": "Lesser Demon",
+  "wiki": "Lesser_Demon",
+  "description": "Lesser demons lack the immense power of their greater cousins, but don't make the mistake of thinking they're toothless.",
+  "effect": "Looks up to greater demons",
+  "slot": "none",
+  "attributes": [
+    "egg",
+    "item",
+    "familiar",
+    "rare"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "35ccd3bee9604d10988601bfecb53a3a",
+  "name": "Mushroom",
+  "displayName": "Mushroom",
+  "wiki": "Mushroom",
+  "description": "When logic and proportion have fallen sloppy dead, and the white knight is talking backwards.",
+  "effect": "Gain maximum health when killing enemies",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

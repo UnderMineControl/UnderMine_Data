@@ -1,0 +1,15 @@
+{
+  "guid": "4c8d7e3454124c4aab32c45bf05edc8b",
+  "name": "PangolinPotion",
+  "displayName": "Pangolin Potion",
+  "wiki": "Pangolin_Potion",
+  "description": "In case of imminent danger curl up and form a ball. Step two, roll on away from that danger.",
+  "effect": "Refils four armor points",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

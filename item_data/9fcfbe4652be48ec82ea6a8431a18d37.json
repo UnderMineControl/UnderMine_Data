@@ -1,0 +1,15 @@
+{
+  "guid": "9fcfbe4652be48ec82ea6a8431a18d37",
+  "name": "UrsineRing",
+  "displayName": "Ursine Ring",
+  "wiki": "Ursine_Ring",
+  "description": "\"The bear is a symbol of power, strength, and overall badassery.\" - Toadvine, Guard Captain",
+  "effect": "Increase health",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

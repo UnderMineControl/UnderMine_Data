@@ -1,0 +1,15 @@
+{
+  "guid": "67aea971b4214697bb0cf4bdc4e904aa",
+  "name": "ThrowingStar",
+  "displayName": "Throwing Star",
+  "wiki": "Throwing_Star",
+  "description": "An easily concealed weapon employed by assassins of the eastern kingdoms.",
+  "effect": "Thrown pickaxe penetrates enemies and objects",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

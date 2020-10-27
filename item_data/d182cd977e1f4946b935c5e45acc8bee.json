@@ -1,0 +1,13 @@
+{
+  "guid": "d182cd977e1f4946b935c5e45acc8bee",
+  "name": "Loyalty",
+  "displayName": "Loyalty",
+  "wiki": "Loyalty",
+  "description": "Pilfers always remember a face, and they enjoy the familiar.",
+  "effect": "Reduces the cost of shop items",
+  "slot": "blessing",
+  "attributes": [
+    "blessing",
+    "common"
+  ]
+}

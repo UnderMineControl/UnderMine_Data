@@ -1,0 +1,15 @@
+{
+  "guid": "db3a699d040b4fd6a4a64399f1275d61",
+  "name": "CureAllPotion",
+  "displayName": "Cure All",
+  "wiki": "Cure_All",
+  "description": "\"You get healed, and you get healed... you all get healed!\" - Black Rabbit",
+  "effect": "Create a circle of healing",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

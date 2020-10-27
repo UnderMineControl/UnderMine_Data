@@ -1,0 +1,14 @@
+{
+  "guid": "2d68178db5d0482c8919cc676f87a57c",
+  "name": "HealthLCooked",
+  "displayName": "Roasted Ham Shank",
+  "wiki": "Roasted_Ham_Shank",
+  "description": "Roasted to perfection. First verbally, and then physically.",
+  "effect": "Restores a large amount of health",
+  "slot": "food",
+  "attributes": [
+    "item",
+    "health",
+    "common"
+  ]
+}

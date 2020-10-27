@@ -1,0 +1,15 @@
+{
+  "guid": "fe0fbfc6bceb4a2f91ea280ba82f7d38",
+  "name": "GustSerumPotion",
+  "displayName": "Cyclonic Serum",
+  "wiki": "Cyclonic_Serum",
+  "description": "The brewing process begins with capturing a powerful gust of wind from atop Mt. Thessal.",
+  "effect": "Temporarily increases throw size",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

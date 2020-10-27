@@ -1,0 +1,15 @@
+{
+  "guid": "dd44a1f545ad48cda6d653cb6b5eaafb",
+  "name": "NullStone",
+  "displayName": "Nullstone",
+  "wiki": "Nullstone",
+  "description": "\"Being invincible once in a while is better than never at all.\" - Proverb",
+  "effect": "Block a hit once in a while",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

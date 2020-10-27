@@ -1,0 +1,15 @@
+{
+  "guid": "b7a8798a25ca4137a95538358085f2f4",
+  "name": "GlassCannon",
+  "displayName": "Glass Cannon",
+  "wiki": "Glass_Cannon",
+  "description": "You can only fire it once. If fired true at its target, another shot will not be necessary.",
+  "effect": "Increases damage, but decreases maximum health",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

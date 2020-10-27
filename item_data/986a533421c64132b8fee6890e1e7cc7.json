@@ -1,0 +1,13 @@
+{
+  "guid": "986a533421c64132b8fee6890e1e7cc7",
+  "name": "Cleave",
+  "displayName": "Cleave",
+  "wiki": "Cleave",
+  "description": "An old prayer, spoken to old gods, grants blades the ability to cut down swaths of men. It works for pickaxes too.",
+  "effect": "Increase swing attack size",
+  "slot": "blessing",
+  "attributes": [
+    "blessing",
+    "rare"
+  ]
+}

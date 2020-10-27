@@ -1,0 +1,10 @@
+{
+  "guid": "ff7bebf7fd3c4504922e69d4573c9268",
+  "name": "TokenMortar",
+  "slot": "artifact",
+  "attributes": [
+    "item",
+    "artifact",
+    "rare"
+  ]
+}

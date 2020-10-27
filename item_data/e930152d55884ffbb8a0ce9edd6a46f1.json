@@ -1,0 +1,15 @@
+{
+  "guid": "e930152d55884ffbb8a0ce9edd6a46f1",
+  "name": "Greaves",
+  "displayName": "Greaves",
+  "wiki": "Greaves",
+  "description": "They won't make you lightning fast, but they will help when you drop a hammer on your foot.",
+  "effect": "Adds a point of armor to the health bar",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

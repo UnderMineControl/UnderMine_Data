@@ -1,0 +1,15 @@
+{
+  "guid": "70965440d15240d1a7ac7c8ddff4c9b2",
+  "name": "ItemPopcorn",
+  "displayName": "Popcorn",
+  "wiki": "Popcorn",
+  "description": "An ordinary kernel of corn, enchanted by a wizard who thought it would be a fun party trick.",
+  "effect": "Items will sometimes duplicate themselves",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

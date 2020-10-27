@@ -1,0 +1,13 @@
+{
+  "guid": "1a2a4e79b6834973b87a62c056b55b1a",
+  "name": "Chaos",
+  "displayName": "Chaotic Offering",
+  "wiki": "Chaotic_Offering",
+  "description": "Item shapes shift and morph like an ephemeral haze. Their form eludes the senses, as if the eyes and ears cannot focus.",
+  "effect": "All items are hidden",
+  "slot": "hex",
+  "attributes": [
+    "hex",
+    "common"
+  ]
+}

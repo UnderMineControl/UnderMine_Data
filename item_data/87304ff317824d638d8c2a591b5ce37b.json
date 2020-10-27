@@ -1,0 +1,15 @@
+{
+  "guid": "87304ff317824d638d8c2a591b5ce37b",
+  "name": "NitroglycerinPotion",
+  "displayName": "Nitroglycerin",
+  "wiki": "Nitroglycerin",
+  "description": "Ultra miniaturization and rapid enlargement are two critical fields of study in alchemy. They are both taught at the Arcane Sanctum.",
+  "effect": "Drop bombs continuously",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

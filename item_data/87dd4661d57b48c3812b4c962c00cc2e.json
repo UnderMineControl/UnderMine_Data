@@ -1,0 +1,15 @@
+{
+  "guid": "87dd4661d57b48c3812b4c962c00cc2e",
+  "name": "CreditCardBlack",
+  "displayName": "Pilfer Credit Card Black Edition",
+  "wiki": "Pilfer_Credit_Card_Black_Edition",
+  "description": "For prefered customers who have proven to have upstanding credit.",
+  "effect": "7,500 limit and 5% cash back!",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

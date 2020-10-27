@@ -1,0 +1,15 @@
+{
+  "guid": "5178abb3de614cb59411b8144fd2dc32",
+  "name": "SavagryPotion",
+  "displayName": "Savagery Serum",
+  "wiki": "Savagery_Serum",
+  "description": "There is no secret to this potion. It is simply orc blood, extracted while under the influence of bloodlust. That doesn't make it easy to come by though.",
+  "effect": "Temporarily increases critical chance",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

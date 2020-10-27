@@ -1,0 +1,12 @@
+{
+  "guid": "b0840502088a4087b27e621c60fd808e",
+  "name": "CurseEater",
+  "displayName": "Curse Eater",
+  "wiki": "Lesser_Demon",
+  "effect": "Removes a curse after defeating enemies and stores it for later.",
+  "slot": "none",
+  "attributes": [
+    "misc",
+    "common"
+  ]
+}

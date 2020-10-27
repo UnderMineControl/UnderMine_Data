@@ -1,0 +1,15 @@
+{
+  "guid": "ca4e94bdc2cc43329474ef40230aca52",
+  "name": "Pillow",
+  "displayName": "Hoodie's Pillow",
+  "wiki": "Hoodie%27s_Pillow",
+  "description": "Just an ordinary sleeping pillow, yellowed from years of drool marks.",
+  "effect": "Reduces physical damage",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

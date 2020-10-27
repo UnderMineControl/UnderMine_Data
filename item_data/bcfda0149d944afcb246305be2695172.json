@@ -1,0 +1,15 @@
+{
+  "guid": "bcfda0149d944afcb246305be2695172",
+  "name": "ShopPotion",
+  "displayName": "Shop in a Bottle",
+  "wiki": "Shop_in_a_Bottle",
+  "description": "Miniature wizards miniaturized a shop and put it in a regular sized bottle.",
+  "effect": "Discover the secret shop",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

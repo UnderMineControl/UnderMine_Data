@@ -1,0 +1,15 @@
+{
+  "guid": "0248a19ceeb042c096a827dbcb5b10de",
+  "name": "CrownKings",
+  "displayName": "King's Crown",
+  "wiki": "King%27s_Crown",
+  "description": "While a monarchy by definition has a single ruler, the King and Queen are two halves of a whole.",
+  "effect": "Increase swing damage, throw size, and throw speed",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

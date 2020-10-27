@@ -1,0 +1,10 @@
+{
+  "guid": "427ec4504c1f460696ced20c4fe48152",
+  "name": "MapDungeon",
+  "slot": "artifact",
+  "attributes": [
+    "item",
+    "artifact",
+    "rare"
+  ]
+}

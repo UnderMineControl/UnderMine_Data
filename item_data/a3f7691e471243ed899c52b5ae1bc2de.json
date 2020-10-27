@@ -1,0 +1,15 @@
+{
+  "guid": "a3f7691e471243ed899c52b5ae1bc2de",
+  "name": "CoffeePotion",
+  "displayName": "Coffee",
+  "wiki": "Coffee",
+  "description": "Peasants often drink something called miner's coffee. Brewed in a process you don't want to know.",
+  "effect": "Recover health proportional to missing health",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

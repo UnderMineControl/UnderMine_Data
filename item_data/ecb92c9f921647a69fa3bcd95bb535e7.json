@@ -1,0 +1,15 @@
+{
+  "guid": "ecb92c9f921647a69fa3bcd95bb535e7",
+  "name": "SeltsEgg",
+  "displayName": "Selt's Egg",
+  "wiki": "Selt%27s_Egg",
+  "description": "Ejected from Selt's dying body, this egg continues to produce her spawn.",
+  "effect": "Spawn larvae on entrance",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "6e754dce0fcb4e14bc31cdedd7d322ad",
+  "name": "HealthSCooked",
+  "displayName": "Well Done Steak",
+  "wiki": "Well_Done_Steak",
+  "description": "\"Bleh!\" - Griswold, the Collector",
+  "effect": "Restores a small amount of health",
+  "slot": "food",
+  "attributes": [
+    "item",
+    "health",
+    "common"
+  ]
+}

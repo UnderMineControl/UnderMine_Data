@@ -1,0 +1,14 @@
+{
+  "guid": "1515f76a45c8453cbcb0b3b952d42c90",
+  "name": "MinersShoulder",
+  "displayName": "Miner's Shoulder",
+  "wiki": "Miner%27s_Shoulder",
+  "description": "Sometimes called \"searing hot pain.\"",
+  "effect": "Decreases throw speed",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

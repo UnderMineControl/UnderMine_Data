@@ -1,0 +1,15 @@
+{
+  "guid": "a7ae4ce21346402ca6fe2ad0c09b1c14",
+  "name": "HeliosBoots",
+  "displayName": "Helios Boots",
+  "wiki": "Helios_Boots",
+  "description": "You might as well be walkin' on the sun.",
+  "effect": "Fire patches last for much longer and deal more damage",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

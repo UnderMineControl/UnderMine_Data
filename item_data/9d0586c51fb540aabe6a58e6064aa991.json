@@ -1,0 +1,14 @@
+{
+  "guid": "9d0586c51fb540aabe6a58e6064aa991",
+  "name": "Venomous",
+  "displayName": "Venomous",
+  "wiki": "Venomous",
+  "description": "Now it is not just the spiders and the serpents you must be weary of, for all creatures carry fate in their fangs.",
+  "effect": "All enemies inflict poison",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

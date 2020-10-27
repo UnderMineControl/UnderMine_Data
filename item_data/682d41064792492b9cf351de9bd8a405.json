@@ -1,0 +1,14 @@
+{
+  "guid": "682d41064792492b9cf351de9bd8a405",
+  "name": "PoisonMushroom",
+  "displayName": "Poison Mushroom",
+  "wiki": "Poison_Mushroom",
+  "description": "One makes you larger, and one makes you small.",
+  "effect": "Lose maximum health when killing enemies",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

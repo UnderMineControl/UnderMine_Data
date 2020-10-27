@@ -1,0 +1,15 @@
+{
+  "guid": "079a976e3dd24ea8819941b9f81259c2",
+  "name": "TransmutagenBombs",
+  "displayName": "Transmutagen Blast",
+  "wiki": "Transmutagen_Blast",
+  "description": "The powder has been soaked in Transmutagen, causing anything caught in the blast to be violently changed.",
+  "effect": "Transforms items",
+  "slot": "bomb",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

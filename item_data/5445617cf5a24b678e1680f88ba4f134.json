@@ -1,0 +1,16 @@
+{
+  "guid": "5445617cf5a24b678e1680f88ba4f134",
+  "name": "HotCrossBun",
+  "displayName": "Hot Cross Bun",
+  "wiki": "Hot_Cross_Bun",
+  "description": "\"Just like mom used to bake.\" - Wayland",
+  "effect": "Increases maximum health, very slightly",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "misc",
+    "common"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "31fa6f68d67349c0a54e1fae385a4b9a",
+  "name": "Clumsiness",
+  "displayName": "Clumsiness",
+  "wiki": "Clumsiness",
+  "description": "It is easy to come between a fool and his gold. It is especially easy when the fool leaves the gold lying around.",
+  "effect": "Lose more gold on death",
+  "slot": "minor_curse",
+  "attributes": [
+    "curse",
+    "minor",
+    "common"
+  ]
+}

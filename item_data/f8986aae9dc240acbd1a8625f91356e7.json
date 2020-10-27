@@ -1,0 +1,10 @@
+{
+  "guid": "f8986aae9dc240acbd1a8625f91356e7",
+  "name": "SummoningStone",
+  "slot": "artifact",
+  "attributes": [
+    "item",
+    "artifact",
+    "rare"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "fdf3edb47a594d0f870acabb1d82d433",
+  "name": "Map",
+  "displayName": "Map",
+  "wiki": "Map",
+  "description": "\"Discover the secrets of the UnderMine!\" is written in playful lettering, on the front.",
+  "effect": "Get a peep at your surroundings",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "fe3880cccffb46a6ba510453822df02b",
+  "name": "ButchersCleaver",
+  "displayName": "Butcher's Cleaver",
+  "wiki": "Butcher%27s_Cleaver",
+  "description": "Once belonged to the King's personal butcher. Pudge was ejected from the Kingdom when he developed a taste for the flesh of the dead.",
+  "effect": "Sometimes drop meat from your enemies",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

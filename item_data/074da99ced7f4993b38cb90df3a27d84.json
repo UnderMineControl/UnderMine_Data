@@ -1,0 +1,15 @@
+{
+  "guid": "074da99ced7f4993b38cb90df3a27d84",
+  "name": "MealTicket",
+  "displayName": "Meal Ticket",
+  "wiki": "Meal_Ticket",
+  "description": "Illegible due to indiscernible scribbles, but has a crude drawing of a sandwich.",
+  "effect": "Free food at the shop, right now!",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

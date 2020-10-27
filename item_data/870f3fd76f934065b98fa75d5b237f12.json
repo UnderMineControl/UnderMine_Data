@@ -1,0 +1,13 @@
+{
+  "guid": "870f3fd76f934065b98fa75d5b237f12",
+  "name": "SlowMetabolism",
+  "displayName": "Slow Metabolism",
+  "wiki": "Slow_Metabolism",
+  "description": "Slowly burning calories, and maintaining the effects of drinks can only be considered a blessing for a peasant.",
+  "effect": "Increase potion duration",
+  "slot": "blessing",
+  "attributes": [
+    "blessing",
+    "common"
+  ]
+}

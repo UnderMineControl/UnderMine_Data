@@ -1,0 +1,14 @@
+{
+  "guid": "f8c5ec2536e648989e3ee6aa6b08b57d",
+  "name": "RainOfFire",
+  "displayName": "Rain of Fire",
+  "wiki": "Rain_of_Fire",
+  "description": "Targon, the Bold was cursed with fire and brimstone after having severed the great Firelord's tail.",
+  "effect": "Droplets of fire fall from the sky",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

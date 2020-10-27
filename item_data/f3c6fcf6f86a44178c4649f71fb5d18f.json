@@ -1,0 +1,15 @@
+{
+  "guid": "f3c6fcf6f86a44178c4649f71fb5d18f",
+  "name": "TincturePotion",
+  "displayName": "Tincture",
+  "wiki": "Tincture",
+  "description": "Made from dissolving ground, dried canaba leaf in alcohol.",
+  "effect": "Recovers health",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

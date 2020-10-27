@@ -1,0 +1,14 @@
+{
+  "guid": "5a07ac0e26914e5ab472cc79e9a97fe8",
+  "name": "Mutation",
+  "displayName": "Mutation",
+  "wiki": "Mutation",
+  "description": "There is a good kind of mutation, and a bad kind. This is the bad kind.",
+  "effect": "Relics are turned into potions",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

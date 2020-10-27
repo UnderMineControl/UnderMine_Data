@@ -1,0 +1,14 @@
+{
+  "guid": "d08db904b48e4c2f9a35f8d8fc5dbaab",
+  "name": "Debt",
+  "displayName": "Debt",
+  "wiki": "Debt",
+  "description": "Not all debt is bad, but this one certainly is. If only there were a quick way to repay it?",
+  "effect": "Unpaid debt to the pilfers",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

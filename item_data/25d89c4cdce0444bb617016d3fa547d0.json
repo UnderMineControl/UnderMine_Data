@@ -1,0 +1,15 @@
+{
+  "guid": "25d89c4cdce0444bb617016d3fa547d0",
+  "name": "SonicBoom",
+  "displayName": "Sonic Boom",
+  "wiki": "Sonic_Boom",
+  "description": "Used by champion pickaxe tossers.",
+  "effect": "Throw really fast",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

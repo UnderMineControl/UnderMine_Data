@@ -1,0 +1,15 @@
+{
+  "guid": "01e0ef72372d4531a4a1cdb3cc265f97",
+  "name": "PhantasmalAxe",
+  "displayName": "Phantasmal Axe",
+  "wiki": "Phantasmal_Axe",
+  "description": "The axe is voracious and aggressively seeks new blood.",
+  "effect": "Thrown pickaxes duplicate themselves",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

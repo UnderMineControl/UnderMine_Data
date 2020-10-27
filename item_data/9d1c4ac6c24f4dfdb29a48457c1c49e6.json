@@ -1,0 +1,15 @@
+{
+  "guid": "9d1c4ac6c24f4dfdb29a48457c1c49e6",
+  "name": "Chaos",
+  "displayName": "Chaos Spawn",
+  "wiki": "Chaos_Spawn",
+  "description": "Chaos Spawn do not care for order. They have only one allegiance, and that is to entropy.",
+  "effect": "A child of the god Arengee",
+  "slot": "none",
+  "attributes": [
+    "egg",
+    "item",
+    "familiar",
+    "rare"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "24e76c8b632c48f78b0a3060d4d1f786",
+  "name": "CursedAegis",
+  "displayName": "Siegfried's Aegis",
+  "wiki": "Siegfried%27s_Aegis",
+  "description": "The paladin Siegfried sacrificed his soul to Sho'guul for the salvation of his family and thus was forever cursed.",
+  "effect": "Inflicts pain on the bearer",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

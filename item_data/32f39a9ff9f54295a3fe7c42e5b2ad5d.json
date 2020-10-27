@@ -1,0 +1,14 @@
+{
+  "guid": "32f39a9ff9f54295a3fe7c42e5b2ad5d",
+  "name": "Rigged",
+  "displayName": "Rigged",
+  "wiki": "Rigged",
+  "description": "\"You win some, you lose... a lot? Is that how it goes?\" - Black Rabbit",
+  "effect": "Chests are trapped more often",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

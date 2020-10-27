@@ -1,0 +1,15 @@
+{
+  "guid": "f568bbf4ecb54daf9d7d472f06d97521",
+  "name": "Suneater",
+  "displayName": "Suneater",
+  "wiki": "Suneater",
+  "description": "A legendary mace that consumes all the light around it, creating an area of perpetual darkness.",
+  "effect": "Consumes all current and future blessings and converts them to swing damage",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

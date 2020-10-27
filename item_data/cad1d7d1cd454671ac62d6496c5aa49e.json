@@ -1,0 +1,15 @@
+{
+  "guid": "cad1d7d1cd454671ac62d6496c5aa49e",
+  "name": "GoldenBombs",
+  "displayName": "Golden Powder",
+  "wiki": "Golden_Powder",
+  "description": "\"Any alchemist can turn lead into gold. Stone to gold is an entirely different matter.\" -Dirk, the alchemist.",
+  "effect": "Turns rock into gold",
+  "slot": "bomb",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

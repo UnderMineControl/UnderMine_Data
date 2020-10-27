@@ -1,0 +1,15 @@
+{
+  "guid": "9c0401cc3c9a4188a6b3c800215b557d",
+  "name": "NumbingCream",
+  "displayName": "Numbing Cream",
+  "wiki": "Numbing_Cream",
+  "description": "Particularly useful after a hard day in the goldmine, or during a hard day in the goldmine.",
+  "effect": "Reduce incoming damage",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "2d5d75f5824242b781e8295d5f25b996",
+  "name": "BattleAxe",
+  "displayName": "Battle Axe",
+  "wiki": "Battle_Axe",
+  "description": "A common weapon in the Orcish army. Basic, but to the point.",
+  "effect": "Increases swing size, but slightly decreases swing damage",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

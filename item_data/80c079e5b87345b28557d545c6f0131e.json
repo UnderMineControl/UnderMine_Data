@@ -1,0 +1,15 @@
+{
+  "guid": "80c079e5b87345b28557d545c6f0131e",
+  "name": "BishopBombs",
+  "displayName": "Bishop's Bomb",
+  "wiki": "Bishop%27s_Bomb",
+  "description": "Bishop was strong and independent. He left home at an early age after studying bomb smithing with his mother.",
+  "effect": "Death at forty five degrees",
+  "slot": "bomb",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

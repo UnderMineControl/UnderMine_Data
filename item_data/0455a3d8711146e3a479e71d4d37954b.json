@@ -1,0 +1,15 @@
+{
+  "guid": "0455a3d8711146e3a479e71d4d37954b",
+  "name": "GoldPopcornPotion",
+  "displayName": "Golden Kernels",
+  "wiki": "Golden_Kernels",
+  "description": "A vial of golden popcorn kernels. They vibrate with anticipation.",
+  "effect": "Duplicate all gold in the room",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

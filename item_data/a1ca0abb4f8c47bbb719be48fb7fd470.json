@@ -1,0 +1,15 @@
+{
+  "guid": "a1ca0abb4f8c47bbb719be48fb7fd470",
+  "name": "SoulGuard",
+  "displayName": "Soul Guard",
+  "wiki": "Soul_Guard",
+  "description": "A powerful defensive option that wears on the soul.",
+  "effect": "Reduces and redirects damage to your max HP",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

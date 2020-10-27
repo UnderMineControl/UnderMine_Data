@@ -1,0 +1,15 @@
+{
+  "guid": "2945df6b2ea043dd94c67ba09aefbe2b",
+  "name": "ObsidianKnife",
+  "displayName": "Obsidian Knife",
+  "wiki": "Obsidian_Knife",
+  "description": "The sharpest blade in the known world, but also the most fragile.",
+  "effect": "Dramatically increases damage, but breaks when hit",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

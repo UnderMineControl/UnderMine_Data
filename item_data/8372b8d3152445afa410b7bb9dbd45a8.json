@@ -1,0 +1,15 @@
+{
+  "guid": "8372b8d3152445afa410b7bb9dbd45a8",
+  "name": "PotionofPlenty",
+  "displayName": "Potion of Plenty",
+  "wiki": "Potion_of_Plenty",
+  "description": "\"Be prepared for any situation.\" - Norin, the Responsible",
+  "effect": "Drop some useful things",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

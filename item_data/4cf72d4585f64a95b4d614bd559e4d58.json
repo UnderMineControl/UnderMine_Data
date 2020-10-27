@@ -1,0 +1,15 @@
+{
+  "guid": "4cf72d4585f64a95b4d614bd559e4d58",
+  "name": "LockPick",
+  "displayName": "Lockpick",
+  "wiki": "Lockpick",
+  "description": "This thief's tool bears the engraving of a rabbit. Also, an engraving that reads \"Black Rabbit's, hands off!\" Further down it also reads \"Seriously!\"",
+  "effect": "Open locks for free, but for how long?",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

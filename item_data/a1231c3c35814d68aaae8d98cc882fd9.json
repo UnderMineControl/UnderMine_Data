@@ -1,0 +1,15 @@
+{
+  "guid": "a1231c3c35814d68aaae8d98cc882fd9",
+  "name": "RemoteDetonator",
+  "displayName": "Remote Detonator",
+  "wiki": "Remote_Detonator",
+  "description": "Provided increased safety to miners, but deemed too costly and an unnecessary expense by management.",
+  "effect": "Detonate bombs when you feel like it",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

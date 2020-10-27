@@ -1,0 +1,14 @@
+{
+  "guid": "3f24c4e8d3254df8b6d13b0cd38acf3f",
+  "name": "WakingLight",
+  "displayName": "Waking Light",
+  "wiki": "Waking_Light",
+  "description": "The lanterns, the torches, and the braziers watch on and they hunt with a fiery vengeance.",
+  "effect": "Torches and lanterns fire fireballs",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

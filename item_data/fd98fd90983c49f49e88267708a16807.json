@@ -1,0 +1,15 @@
+{
+  "guid": "fd98fd90983c49f49e88267708a16807",
+  "name": "CaptureSphere",
+  "displayName": "Capture Sphere",
+  "wiki": "Capture_Sphere",
+  "description": "The lifeforce of slain enemies is converted and saved for later.",
+  "effect": "Bomb kills permanently increase bomb damage",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

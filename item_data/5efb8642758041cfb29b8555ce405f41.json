@@ -1,0 +1,15 @@
+{
+  "guid": "5efb8642758041cfb29b8555ce405f41",
+  "name": "CrownEmperors",
+  "displayName": "Emperor's Crown",
+  "wiki": "Emperor%27s_Crown",
+  "description": "Kings and Queens are anointed by the divine will, but Emperors... well they are the divine will.",
+  "effect": "Increases stats and receive a blessing",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

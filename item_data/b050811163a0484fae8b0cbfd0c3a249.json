@@ -1,0 +1,13 @@
+{
+  "guid": "b050811163a0484fae8b0cbfd0c3a249",
+  "name": "Vigor",
+  "displayName": "Vigor",
+  "wiki": "Vigor",
+  "description": "Brandood, champion pickaxe thrower of the hovels always said it wasn't about size, but a combination of speed and form.",
+  "effect": "Increase throw speed",
+  "slot": "blessing",
+  "attributes": [
+    "blessing",
+    "common"
+  ]
+}

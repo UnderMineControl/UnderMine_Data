@@ -1,0 +1,13 @@
+{
+  "guid": "555eebcb91dd42bc8aef0c1e22e6bcfa",
+  "name": "UrsaMajorBuff",
+  "displayName": "Ursa Major",
+  "wiki": "Ursa_Major",
+  "description": "Consume now, for the winter is long and the landscape desolate.",
+  "effect": "Increases max health after eating food",
+  "slot": "none",
+  "attributes": [
+    "misc",
+    "common"
+  ]
+}

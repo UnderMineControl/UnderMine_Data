@@ -1,0 +1,14 @@
+{
+  "guid": "56e0afaaf92f45d1ba97f83547bd8b23",
+  "name": "MaliciousIntent",
+  "displayName": "Malicious Intent",
+  "wiki": "Malicious_Intent",
+  "description": "Atonement begins with an earnest look at oneself and one's mistakes.",
+  "effect": "The cost of Penance is doubled",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

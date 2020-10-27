@@ -1,0 +1,15 @@
+{
+  "guid": "a8d3215241a94555866450ab791bc7e3",
+  "name": "Resurrection",
+  "displayName": "Resurrection",
+  "wiki": "Resurrection",
+  "description": "To be blessed by Din is to have deep pockets or know someone who does.",
+  "effect": "Resurrect on death",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

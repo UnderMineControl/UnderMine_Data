@@ -1,0 +1,15 @@
+{
+  "guid": "96b62be9e4f04a329eed69ab143957aa",
+  "name": "RookBombs",
+  "displayName": "Rook's Bomb",
+  "wiki": "Rook%27s_Bomb",
+  "description": "Rook learned bomb smithing from his mother, but always had a special relationship with his father.",
+  "effect": "Death at ninety degrees",
+  "slot": "bomb",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

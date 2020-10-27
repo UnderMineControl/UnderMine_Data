@@ -1,0 +1,15 @@
+{
+  "guid": "5e270234064d40d08b17881eee751dfd",
+  "name": "BloodBomb",
+  "displayName": "Blood Bomb",
+  "wiki": "Blood_Bomb",
+  "description": "A cursed item, made with black powder and the blood of a lesser demon.",
+  "effect": "Leeches life from enemies slain by bombs",
+  "slot": "bomb",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

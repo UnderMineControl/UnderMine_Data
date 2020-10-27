@@ -1,0 +1,15 @@
+{
+  "guid": "c82f660a0fbd4eb983e98d5896253e09",
+  "name": "Key",
+  "displayName": "Key",
+  "wiki": "Key",
+  "description": "Inscribed with the crest of the Kingdom of Delvemore: a rampant liger.",
+  "effect": "Unlocks chests, doors and other locked objects",
+  "slot": "item",
+  "attributes": [
+    "key",
+    "item",
+    "basic",
+    "common"
+  ]
+}

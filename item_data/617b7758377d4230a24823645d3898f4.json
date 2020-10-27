@@ -1,0 +1,15 @@
+{
+  "guid": "617b7758377d4230a24823645d3898f4",
+  "name": "HealthSerumPotion",
+  "displayName": "Durability Serum",
+  "wiki": "Durability_Serum",
+  "description": "The first, unrefined versions were made by coastal trolls that would mix crushed turtle shells with their own blood.",
+  "effect": "Temporarily increases health",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "66b7f22d45354e549d2a4a18ce9792f7",
+  "name": "TwistedBlade",
+  "displayName": "Twisted Blade",
+  "wiki": "Twisted_Blade",
+  "description": "A dagger with a blade curled around like a helix. Doesn't appear to be a weapon suited for combat.",
+  "effect": "Increases critical strike chance for each carried curse",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

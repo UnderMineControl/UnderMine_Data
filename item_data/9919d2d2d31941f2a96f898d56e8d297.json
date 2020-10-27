@@ -1,0 +1,15 @@
+{
+  "guid": "9919d2d2d31941f2a96f898d56e8d297",
+  "name": "LegendaryBlade",
+  "displayName": "Master Pickaxe",
+  "wiki": "Master_Pickaxe",
+  "description": "Only worthy champions can find their way through the foggy woods where this weapon rests.",
+  "effect": "Fire projectiles at full health",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

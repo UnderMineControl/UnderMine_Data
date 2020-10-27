@@ -1,0 +1,15 @@
+{
+  "guid": "42c02406d29049eba350c408a44bd699",
+  "name": "Djinn",
+  "displayName": "Djinn",
+  "wiki": "Djinn",
+  "description": "Djinn are creatures that make the clouds their home. They are highly intelligent and have a devious sense of humor.",
+  "effect": "A cunning ally that sees through deception",
+  "slot": "none",
+  "attributes": [
+    "egg",
+    "item",
+    "familiar",
+    "common"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "0ff4a9c19f294ce4ba489c447ad8df43",
+  "name": "Wobbly",
+  "displayName": "Wobbly",
+  "wiki": "Wobbly",
+  "description": "Every wobbly step, every flinch of the arm worms its way into the brain and feeds a lack of confidence.",
+  "effect": "Deal less throw damage",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

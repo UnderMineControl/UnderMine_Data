@@ -1,0 +1,15 @@
+{
+  "guid": "623c929400f44c05b07827fef3426e60",
+  "name": "GordonsTunic",
+  "displayName": "Gordon's Tunic",
+  "wiki": "Gordon%27s_Tunic",
+  "description": "This tunic protected the alchemist Gordon during the catastrophe at the far away Black Mesa laboratory.",
+  "effect": "Reduces elemental damage",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "15b3dd56f7074a699c94628b4701ecba",
+  "name": "JointPain",
+  "displayName": "Joint Pain",
+  "wiki": "Joint_Pain",
+  "description": "Every miner reaches an age when they consider hanging up their pickaxe.",
+  "effect": "Decreases swing speed",
+  "slot": "minor_curse",
+  "attributes": [
+    "curse",
+    "minor",
+    "common"
+  ]
+}

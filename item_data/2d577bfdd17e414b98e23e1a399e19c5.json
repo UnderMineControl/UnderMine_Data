@@ -1,0 +1,10 @@
+{
+  "guid": "2d577bfdd17e414b98e23e1a399e19c5",
+  "name": "CavernKey",
+  "slot": "artifact",
+  "attributes": [
+    "item",
+    "artifact",
+    "rare"
+  ]
+}

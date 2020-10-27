@@ -1,0 +1,14 @@
+{
+  "guid": "18c02d8c98514cd7b3a6e35683a63462",
+  "name": "Inflation",
+  "displayName": "Inflation",
+  "wiki": "Inflation",
+  "description": "The relationship with the Pilfers is tenuous and fickle. Scorn them and suffer the consequences.",
+  "effect": "Increases the cost of shop items",
+  "slot": "minor_curse",
+  "attributes": [
+    "curse",
+    "minor",
+    "common"
+  ]
+}

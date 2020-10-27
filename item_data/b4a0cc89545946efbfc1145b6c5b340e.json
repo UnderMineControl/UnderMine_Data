@@ -1,0 +1,10 @@
+{
+  "guid": "b4a0cc89545946efbfc1145b6c5b340e",
+  "name": "PickaxeBasic",
+  "displayName": "Pickaxe",
+  "slot": "none",
+  "attributes": [
+    "misc",
+    "common"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "42ce36751420492584d4a447c129e30c",
+  "name": "Arachnophobia",
+  "displayName": "Arachnophobia",
+  "wiki": "Arachnophobia",
+  "description": "It is understandable to have a fear of spiders, if after a hard fought battle the reward is more spiders.",
+  "effect": "Enemies release spiders on death",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "27b4611c53e04c0a9d771b76d47d7deb",
+  "name": "ApprenticesTincturePotion",
+  "displayName": "Apprentice's Tincture",
+  "wiki": "Apprentice%27s_Tincture",
+  "description": "A healing potion created by an apprentice who hasn't quite perfected their craft.",
+  "effect": "Recovers a random amount of health",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

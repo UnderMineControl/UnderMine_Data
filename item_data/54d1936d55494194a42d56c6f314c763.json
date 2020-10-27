@@ -1,0 +1,15 @@
+{
+  "guid": "54d1936d55494194a42d56c6f314c763",
+  "name": "DirksHammer",
+  "displayName": "Dirk's Hammer",
+  "wiki": "Dirk%27s_Hammer",
+  "description": "Get what you want through ingenuity, or sheer brute force.",
+  "effect": "Transmute an item by hitting it",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

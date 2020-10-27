@@ -1,0 +1,15 @@
+{
+  "guid": "1981b4af04434077afafc78691056387",
+  "name": "WaylandsBoots",
+  "displayName": "Wayland's Boots",
+  "wiki": "Wayland%27s_Boots",
+  "description": "Steel-toed and steel-soled, not to be confused with Toadvine, the Steel-Souled Steel-Toad.",
+  "effect": "Break spikes, take names",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

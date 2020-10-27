@@ -1,0 +1,14 @@
+{
+  "guid": "d0cc30fbf196423ea49170a2995e0549",
+  "name": "Weakness",
+  "displayName": "Weakness",
+  "wiki": "Weakness",
+  "description": "Palms are sweaty, knees weak, arms are heavy. There is vomit on the tunic already.",
+  "effect": "Deal less swing damage",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

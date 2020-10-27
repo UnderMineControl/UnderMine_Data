@@ -1,0 +1,15 @@
+{
+  "guid": "2caf27e525fa4787bd629282ef202094",
+  "name": "HolyGlaze",
+  "displayName": "Holy Glaze",
+  "wiki": "Holy_Glaze",
+  "description": "Peasants that don't diversify their skill sets often end up terminated. Killed that is.",
+  "effect": "Average the levels of all blessings",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "1533ba9d0d294c1f8c93ed4ae245e9df",
+  "name": "Tenderfoot",
+  "displayName": "Tenderfoot",
+  "wiki": "Tenderfoot",
+  "description": "Peasants are issued one pair of boots a year. The boots never last an entire year.",
+  "effect": "Take damage when you jump",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

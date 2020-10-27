@@ -1,0 +1,15 @@
+{
+  "guid": "cd5580348c4d4a3cbcba94eafc169f4a",
+  "name": "OthermineConduit",
+  "displayName": "Othermine Conduit",
+  "wiki": "Othermine_Conduit",
+  "description": "Relics that communicate with the Othermine are rare and mystify even the most learned scholars of the land.",
+  "effect": "Ghastly hands will attack the enemy",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

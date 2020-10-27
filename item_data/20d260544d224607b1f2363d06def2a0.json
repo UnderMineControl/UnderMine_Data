@@ -1,0 +1,15 @@
+{
+  "guid": "20d260544d224607b1f2363d06def2a0",
+  "name": "IronGlazePotion",
+  "displayName": "Iron Glaze",
+  "wiki": "Iron_Glaze",
+  "description": "Instantly reacts with iron, making it pliable without increasing its temperature.",
+  "effect": "Average the number of held keys and bombs",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

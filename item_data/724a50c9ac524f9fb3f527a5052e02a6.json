@@ -1,0 +1,15 @@
+{
+  "guid": "724a50c9ac524f9fb3f527a5052e02a6",
+  "name": "Guantes",
+  "displayName": "Guantes",
+  "wiki": "Guantes",
+  "description": "Warm and cozy gloves that keep you separated from the chilling touch of winter.",
+  "effect": "Throw that pickaxe a bit harder",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

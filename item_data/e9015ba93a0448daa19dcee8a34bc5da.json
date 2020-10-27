@@ -1,0 +1,13 @@
+{
+  "guid": "e9015ba93a0448daa19dcee8a34bc5da",
+  "name": "Penance",
+  "displayName": "Penance",
+  "wiki": "Penance",
+  "description": "Attunement begets atonement",
+  "effect": "Removes a curse",
+  "slot": "blessing",
+  "attributes": [
+    "blessing",
+    "common"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "b367a2746211405a8dda8d560f88b6d3",
+  "name": "Breastplate",
+  "displayName": "Breastplate",
+  "wiki": "Breastplate",
+  "description": "Comes with complimentary breastplate stretcher for the more rotund wearer.",
+  "effect": "Adds a point of armor to the health bar",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

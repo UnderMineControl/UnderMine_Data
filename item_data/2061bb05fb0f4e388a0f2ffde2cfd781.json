@@ -1,0 +1,10 @@
+{
+  "guid": "2061bb05fb0f4e388a0f2ffde2cfd781",
+  "name": "CoreKey",
+  "slot": "artifact",
+  "attributes": [
+    "item",
+    "artifact",
+    "rare"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "d6045725bae4407ea8492ff1e4fa7c3f",
+  "name": "TotemOfLife",
+  "displayName": "Totem of Life",
+  "wiki": "Totem_of_Life",
+  "description": "A totem depicting an ancient god of life and the natural order.",
+  "effect": "Sustain yourself through adventure",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

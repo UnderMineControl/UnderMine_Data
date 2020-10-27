@@ -1,0 +1,15 @@
+{
+  "guid": "2380817a345d4458b5630768a38f35a1",
+  "name": "DillonsClaw",
+  "displayName": "Dillon's Claw",
+  "wiki": "Dillon%27s_Claw",
+  "description": "This insatiable and eager beast approaches with distinct and distributing fuss.",
+  "effect": "Deal even more damage when you critical strike",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

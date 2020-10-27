@@ -1,0 +1,13 @@
+{
+  "guid": "db1d12a9bf644b819343cfdda0c9ca6c",
+  "name": "Exuberance",
+  "displayName": "Exuberance",
+  "wiki": "Exuberance",
+  "description": "Get pumped up, to pump those arms as fast as you can.",
+  "effect": "Faster swing speed",
+  "slot": "blessing",
+  "attributes": [
+    "blessing",
+    "common"
+  ]
+}

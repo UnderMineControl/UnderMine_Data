@@ -1,0 +1,15 @@
+{
+  "guid": "15ca0afa442849328a5a8ff6411b301a",
+  "name": "AmbrosiaPotion",
+  "displayName": "Ambrosia",
+  "wiki": "Ambrosia",
+  "description": "Actually a very secular drink, made with blended grass and orange juice.",
+  "effect": "Double the level of a random blessing",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

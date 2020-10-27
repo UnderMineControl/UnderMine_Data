@@ -1,0 +1,15 @@
+{
+  "guid": "4f9154518bfe4a0ebd09e57aef8ebdf9",
+  "name": "KissSuccubusPotion",
+  "displayName": "Kiss of the Succubus",
+  "wiki": "Kiss_of_the_Succubus",
+  "description": "Made with the blood of a succubus, which is incredibly hard to come by.",
+  "effect": "Kill all enemies and steal their health",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

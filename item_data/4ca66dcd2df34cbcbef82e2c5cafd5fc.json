@@ -1,0 +1,15 @@
+{
+  "guid": "4ca66dcd2df34cbcbef82e2c5cafd5fc",
+  "name": "CanisMajor",
+  "displayName": "Canis Major",
+  "wiki": "Canis_Major",
+  "description": "The dogs of dogs. Strong, loyal, and above all else, fierce.",
+  "effect": "Crits temporarily increase crit chance",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

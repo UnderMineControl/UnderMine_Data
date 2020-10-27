@@ -1,0 +1,15 @@
+{
+  "guid": "aede3a51037549b9b0eeeec881d5168e",
+  "name": "CripplingPoison",
+  "displayName": "Crippling Poison",
+  "wiki": "Crippling_Poison",
+  "description": "A rare poison collected in the bogs of Moor.",
+  "effect": "Chance on hit to poison your enemies",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

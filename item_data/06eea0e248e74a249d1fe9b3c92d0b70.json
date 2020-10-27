@@ -1,0 +1,15 @@
+{
+  "guid": "06eea0e248e74a249d1fe9b3c92d0b70",
+  "name": "SwapAllRelicPotion",
+  "displayName": "Mighty Metamorphim",
+  "wiki": "Mighty_Metamorphim",
+  "description": "The Metamorphim change is a five step process. Mighty Metamorphim combines those into a single, more efficient process.",
+  "effect": "Transmute all carried relics",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

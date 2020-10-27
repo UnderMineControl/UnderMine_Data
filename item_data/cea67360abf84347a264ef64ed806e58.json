@@ -1,0 +1,15 @@
+{
+  "guid": "cea67360abf84347a264ef64ed806e58",
+  "name": "SalvagingSludgePotion",
+  "displayName": "Salvaging Sludge",
+  "wiki": "Salvaging_Sludge",
+  "description": "The liquid moves slowly. Often requiring a knife be inserted into the bottle to get things moving.",
+  "effect": "Recover health for each carried curse",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

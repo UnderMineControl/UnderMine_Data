@@ -1,0 +1,15 @@
+{
+  "guid": "31d2663fef3248c8af2d6727453a83ef",
+  "name": "Firebird",
+  "displayName": "Firebird",
+  "wiki": "Firebird",
+  "description": "A legendary bird, worshiped as a demigod in the deserts to the far east.",
+  "effect": "A hot tempered bird",
+  "slot": "none",
+  "attributes": [
+    "egg",
+    "item",
+    "familiar",
+    "common"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "b29ea427f7f64aa3a06c8e19a0495648",
+  "name": "SimpleChest",
+  "displayName": "Simple Chest",
+  "wiki": "Simple_Chest",
+  "description": "Just an ordinary chest used to deliver items.",
+  "effect": "Overstocks the shop",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

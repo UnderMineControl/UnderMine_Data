@@ -1,0 +1,15 @@
+{
+  "guid": "145bde979116479fabc648bebf584e32",
+  "name": "FreeloaderPotion",
+  "displayName": "Freeloader Draught",
+  "wiki": "Freeloader_Draught",
+  "description": "\"You can't always get what you want. But if you try sometimes, you might just find, you get it for free.\" - Proverb",
+  "effect": "Get something for nothing",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

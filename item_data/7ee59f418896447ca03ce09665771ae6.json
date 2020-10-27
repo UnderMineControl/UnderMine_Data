@@ -1,0 +1,15 @@
+{
+  "guid": "7ee59f418896447ca03ce09665771ae6",
+  "name": "LavaWalkers",
+  "displayName": "Lava Walkers",
+  "wiki": "Lava_Walkers",
+  "description": "Wayland was asked to equip an expedition of peasants sent to the Golden Core. They didn't survive, but the boots did.",
+  "effect": "Walk on fire",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "6b18a3a60fe342f1833aff1526898e11",
+  "name": "GoldPopcorn",
+  "displayName": "Golden Popcorn",
+  "wiki": "Golden_Popcorn",
+  "description": "The wizard enchanted a second kernel, this one just slightly more golden in color.",
+  "effect": "Gold will sometimes duplicate itself",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

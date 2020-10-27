@@ -1,0 +1,15 @@
+{
+  "guid": "839ad2905954481cb294f4b6cd01ff34",
+  "name": "Thunderbird",
+  "displayName": "Thunderbird",
+  "wiki": "Thunderbird",
+  "description": "During the rainy season, Thunderbirds bring storms to the highland plateau.",
+  "effect": "A shockingly short tempered bird",
+  "slot": "none",
+  "attributes": [
+    "egg",
+    "item",
+    "familiar",
+    "common"
+  ]
+}

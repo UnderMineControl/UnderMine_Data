@@ -1,0 +1,14 @@
+{
+  "guid": "4d7cb97a86be4113b6fe61a97550247b",
+  "name": "SalamandersWrath",
+  "displayName": "Salamander's Wrath",
+  "wiki": "Salamander%27s_Wrath",
+  "description": "The moment Seer's tail was severed the creature set out a roar so fierce that rock shattered and iron was set ablaze.",
+  "effect": "All enemies ignite the peasant",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

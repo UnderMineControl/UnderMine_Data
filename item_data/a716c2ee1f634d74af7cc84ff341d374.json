@@ -1,0 +1,15 @@
+{
+  "guid": "a716c2ee1f634d74af7cc84ff341d374",
+  "name": "BlessedBlend",
+  "displayName": "Blessed Blend",
+  "wiki": "Blessed_Blend",
+  "description": "Carried by the priests of the sanctum, just in case.",
+  "effect": "Drops a blessing",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

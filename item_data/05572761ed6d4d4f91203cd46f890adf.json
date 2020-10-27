@@ -1,0 +1,15 @@
+{
+  "guid": "05572761ed6d4d4f91203cd46f890adf",
+  "name": "PickledPilferPotion",
+  "displayName": "Bottled Pilfer",
+  "wiki": "Bottled_Pilfer",
+  "description": "A bottle containing one Hoarding Pilfer, dozens of axe pomels, and countless smooth rocks.",
+  "effect": "Releases a Hoarding Pilfer",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

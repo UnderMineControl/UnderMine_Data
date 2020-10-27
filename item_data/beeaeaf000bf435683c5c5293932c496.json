@@ -1,0 +1,14 @@
+{
+  "guid": "beeaeaf000bf435683c5c5293932c496",
+  "name": "Plague",
+  "displayName": "Plague",
+  "wiki": "Plague",
+  "description": "\"We knew the food was tainted, but we had no other choice.\" Survivor of the Lingering Miasma",
+  "effect": "Uncooked food is less effective and has a chance to poison",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

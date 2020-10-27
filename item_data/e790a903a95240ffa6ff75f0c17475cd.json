@@ -1,0 +1,15 @@
+{
+  "guid": "e790a903a95240ffa6ff75f0c17475cd",
+  "name": "IronBranch",
+  "displayName": "Iron Branch",
+  "wiki": "Iron_Branch",
+  "description": "A strange branch with strange properties. For instance, planting one in the ground will grow a small tree instantaneously.",
+  "effect": "Increase health, swing damage, and attack speed",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

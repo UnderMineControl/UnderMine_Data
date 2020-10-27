@@ -1,0 +1,14 @@
+{
+  "guid": "6d39054e84bf4b909ed76e6112921e4a",
+  "name": "Fever",
+  "displayName": "Fever",
+  "wiki": "Fever",
+  "description": "Peasants are accustomed to being hot and sweaty, but not like this.",
+  "effect": "Healing is less effective",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

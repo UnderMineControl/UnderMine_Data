@@ -1,0 +1,15 @@
+{
+  "guid": "a6587dfd53e54a20ab1a167bc2b40e4a",
+  "name": "PaladinShield",
+  "displayName": "Paladin Shield",
+  "wiki": "Paladin_Shield",
+  "description": "Siegfried's shield, rid of its agonizing curse. Purified by a nameless wanderer. His legacy redeemed.",
+  "effect": "Increases stats",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

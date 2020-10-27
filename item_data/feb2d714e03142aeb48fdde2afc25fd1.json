@@ -1,0 +1,14 @@
+{
+  "guid": "feb2d714e03142aeb48fdde2afc25fd1",
+  "name": "SpatialSickness",
+  "displayName": "SpatialSickness",
+  "wiki": "Spatial_Sickness",
+  "description": "A curse devised by a bored demon that enjoyed watching his victims throw-up in confusion.",
+  "effect": "Teleport when hit",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

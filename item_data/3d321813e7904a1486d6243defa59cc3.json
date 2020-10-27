@@ -1,0 +1,15 @@
+{
+  "guid": "3d321813e7904a1486d6243defa59cc3",
+  "name": "BirthingPod",
+  "displayName": "Birthing Pod",
+  "wiki": "Birthing_Pod",
+  "description": "This chamber that greedily consumes any and all nearby nutrition, diverting it to the embryo inside.",
+  "effect": "Consumes all healing until birth",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

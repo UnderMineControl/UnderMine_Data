@@ -1,0 +1,15 @@
+{
+  "guid": "5638e38a67e04f4eaec6473d5042890f",
+  "name": "WhiplashPotion",
+  "displayName": "Whiplash Serum",
+  "wiki": "Whiplash_Serum",
+  "description": "Wrix developed a potion that matches one's throwing form perfectly with that of the goblin bat riders of Urr.",
+  "effect": "Temporarily increases throw damage",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

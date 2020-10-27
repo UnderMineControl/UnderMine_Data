@@ -1,0 +1,15 @@
+{
+  "guid": "2f342d2da24340b383d49f1fb9374e5a",
+  "name": "Gauntlets",
+  "displayName": "Gauntlets",
+  "wiki": "Gauntlets",
+  "description": "It is very difficult to wield a sword, or any other weapons without fingers.",
+  "effect": "Adds a point of armor to the health bar",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

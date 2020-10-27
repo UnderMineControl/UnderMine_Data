@@ -1,0 +1,14 @@
+{
+  "guid": "a99c2000ab1b4b6bb2d655e83fa30fca",
+  "name": "Vulnerable",
+  "displayName": "Vulnerable",
+  "wiki": "Vulnerable",
+  "description": "It's okay to be vurnerable, but not right now.",
+  "effect": "Recieve more damage",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

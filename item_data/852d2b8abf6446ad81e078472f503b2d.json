@@ -1,0 +1,14 @@
+{
+  "guid": "852d2b8abf6446ad81e078472f503b2d",
+  "name": "Lethargy",
+  "displayName": "Lethargy",
+  "wiki": "Lethargy",
+  "description": "The heart is willing but the arms are weak and lifeless.",
+  "effect": "Deal less swing damage",
+  "slot": "minor_curse",
+  "attributes": [
+    "curse",
+    "minor",
+    "common"
+  ]
+}

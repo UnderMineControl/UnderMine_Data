@@ -1,0 +1,14 @@
+{
+  "guid": "d07217e8683c4309a16192b22cda8add",
+  "name": "Secrecy",
+  "displayName": "Secrecy",
+  "wiki": "Secrecy",
+  "description": "Secrets are only secrets when few people know of them.",
+  "effect": "Secret rooms are even more secret",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "b3da0dca60f54906a6ea1db94d4b75ef",
+  "name": "Blisters",
+  "displayName": "Blisters",
+  "wiki": "Blisters",
+  "description": "The wear and tear from constant toil have left the hands bloody, broken, and riddled with pain.",
+  "effect": "Decreases throw speed",
+  "slot": "minor_curse",
+  "attributes": [
+    "curse",
+    "minor",
+    "common"
+  ]
+}

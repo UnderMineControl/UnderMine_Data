@@ -1,0 +1,15 @@
+{
+  "guid": "5a5b61097a034cfeb6858d2d6c809af0",
+  "name": "LuckyCharm",
+  "displayName": "Lucky Charm",
+  "wiki": "Lucky_Charm",
+  "description": "Many have wondered how the street urchin Olivia avoided meeting her end in the Crawl, a dangerous slum of the capital.",
+  "effect": "A chance at avoiding death",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

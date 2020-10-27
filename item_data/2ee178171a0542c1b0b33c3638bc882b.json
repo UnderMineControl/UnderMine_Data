@@ -1,0 +1,14 @@
+{
+  "guid": "2ee178171a0542c1b0b33c3638bc882b",
+  "name": "Poverty",
+  "displayName": "Poverty",
+  "wiki": "Poverty",
+  "description": "\"Hasn't anyone told you it costs more to be poor?\" - Black Rabbit",
+  "effect": "Decrease the amount of gold received",
+  "slot": "minor_curse",
+  "attributes": [
+    "curse",
+    "minor",
+    "common"
+  ]
+}

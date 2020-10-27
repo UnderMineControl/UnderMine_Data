@@ -1,0 +1,14 @@
+{
+  "guid": "2976adb134a24dd9bce3cdcc1837fc81",
+  "name": "Frailty",
+  "displayName": "Frailty",
+  "wiki": "Frailty",
+  "description": "Complacency can turn that which is tough, hearty, and strong into something as delicate and fragile as an eggshell.",
+  "effect": "Reduced maximum health",
+  "slot": "minor_curse",
+  "attributes": [
+    "curse",
+    "minor",
+    "common"
+  ]
+}

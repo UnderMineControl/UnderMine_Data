@@ -1,0 +1,14 @@
+{
+  "guid": "fe4f7657e9a643aab2030836e77fb571",
+  "name": "SecurityTheater",
+  "displayName": "Security Theater",
+  "wiki": "Security_Theater",
+  "description": "Being secure isn't important. It's the illusion of being secure that matters.",
+  "effect": "The shop is locked up tight",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

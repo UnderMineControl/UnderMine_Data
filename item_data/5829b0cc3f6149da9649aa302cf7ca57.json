@@ -1,0 +1,15 @@
+{
+  "guid": "5829b0cc3f6149da9649aa302cf7ca57",
+  "name": "AllPotion",
+  "displayName": "All-Potion",
+  "wiki": "All-Potion",
+  "description": "Dirk's crowning achievement as an alchemist. A potion so powerful the recipe needed to be divided amongst laboratories to keep it hidden.",
+  "effect": "Is whatever you need it to be",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "f7eca5455bdf49fe9d2dafd4ec32d1e7",
+  "name": "Miniaturizer",
+  "displayName": "Miniaturizer",
+  "wiki": "Miniaturizer",
+  "description": "Several years ago there was a craze in the wizarding community to make tiny versions of everything. It has since gone out of style.",
+  "effect": "Find small boxes in big boxes",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

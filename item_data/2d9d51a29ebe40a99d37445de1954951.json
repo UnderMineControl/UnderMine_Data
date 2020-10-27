@@ -1,0 +1,15 @@
+{
+  "guid": "2d9d51a29ebe40a99d37445de1954951",
+  "name": "PurificationPotion",
+  "displayName": "Purification Potion",
+  "wiki": "Purification_Potion",
+  "description": "To obtain absolution, one must purge themselves of all worldly attachments.",
+  "effect": "Removes all curses, bombs, keys, and sets health to 1",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

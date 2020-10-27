@@ -1,0 +1,13 @@
+{
+  "guid": "319cab181142408cae02ade562c5ff14",
+  "name": "Peril",
+  "displayName": "Adventurer's Peril",
+  "wiki": "Adventurer%27s_Peril",
+  "description": "Preparation, training, and fortitude are not enough. One must be a combination of perfect and lucky to avoid catastrophe.",
+  "effect": "One health point",
+  "slot": "hex",
+  "attributes": [
+    "hex",
+    "common"
+  ]
+}

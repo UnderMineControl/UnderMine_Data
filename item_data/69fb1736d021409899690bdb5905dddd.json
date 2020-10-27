@@ -1,0 +1,13 @@
+{
+  "guid": "69fb1736d021409899690bdb5905dddd",
+  "name": "Fortitude",
+  "displayName": "Fortitude",
+  "wiki": "Fortitude",
+  "description": "Peasants develop a strong constitution and thick skin as part of everyday life.",
+  "effect": "Receive less damage",
+  "slot": "blessing",
+  "attributes": [
+    "blessing",
+    "rare"
+  ]
+}

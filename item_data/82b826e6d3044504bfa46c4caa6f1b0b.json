@@ -1,0 +1,15 @@
+{
+  "guid": "82b826e6d3044504bfa46c4caa6f1b0b",
+  "name": "Recycler",
+  "displayName": "Recycler",
+  "wiki": "Recycler",
+  "description": "Sometimes people hide things in a false bottom. There is only one way to know for sure.",
+  "effect": "Destroy empty chests for items",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "66435b8332c74c03b06d5039e2962a99",
+  "name": "Nullification",
+  "displayName": "Nullification",
+  "wiki": "Nullification",
+  "description": "A hex used by Aevyn battle mages against invading paladins during the assault of their wooded homeland.",
+  "effect": "Disables 2 relics",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

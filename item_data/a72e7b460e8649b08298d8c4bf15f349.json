@@ -1,0 +1,15 @@
+{
+  "guid": "a72e7b460e8649b08298d8c4bf15f349",
+  "name": "SwapRelicPotion",
+  "displayName": "Metamorphim",
+  "wiki": "Metamorphim",
+  "description": "Dropping any object into this shifting liquid will quickly mutate it into something familiar but different.",
+  "effect": "Transmute a carried relic",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

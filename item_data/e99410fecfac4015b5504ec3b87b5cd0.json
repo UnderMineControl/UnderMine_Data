@@ -1,0 +1,15 @@
+{
+  "guid": "e99410fecfac4015b5504ec3b87b5cd0",
+  "name": "PurgePotion",
+  "displayName": "Purge Potion",
+  "wiki": "Purge_Potion",
+  "description": "Sometimes the good must suffer in order for evil to be purged from the world.",
+  "effect": "Removes a curse and deals 75 damage.",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "guid": "186668076c6e4532a6451703d17a83c7",
+  "name": "Fog",
+  "displayName": "Dreadful Fog",
+  "wiki": "Dreadful_Fog",
+  "description": "A mist winds its way through the Undermine. It breaths deadly life into the hollow's inhabitants.",
+  "effect": "Enemies have double health and damage",
+  "slot": "hex",
+  "attributes": [
+    "hex",
+    "common"
+  ]
+}

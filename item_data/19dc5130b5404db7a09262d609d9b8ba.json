@@ -1,0 +1,15 @@
+{
+  "guid": "19dc5130b5404db7a09262d609d9b8ba",
+  "name": "ShieldofQuills",
+  "displayName": "Shield of Quills",
+  "wiki": "Shield_of_Quills",
+  "description": "Barbarians lack defensive discipline, but they make up for it with offensive prowess.",
+  "effect": "Gain two points of armor, armor increases damage",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

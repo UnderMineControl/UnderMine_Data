@@ -1,0 +1,14 @@
+{
+  "guid": "861f2ce31df64b76b15c9e143c60be23",
+  "name": "Tariffs",
+  "displayName": "Tariffs",
+  "wiki": "Tariffs",
+  "description": "There is a price for everything, and that price can be increased.",
+  "effect": "Double all costs",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

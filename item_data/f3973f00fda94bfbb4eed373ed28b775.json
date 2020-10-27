@@ -1,0 +1,15 @@
+{
+  "guid": "f3973f00fda94bfbb4eed373ed28b775",
+  "name": "RabbitGloves",
+  "displayName": "Rabbit Gloves",
+  "wiki": "Rabbit_Gloves",
+  "description": "\"Who pilfers the pilfers? I do.\" - Black Rabbit",
+  "effect": "Get a free item in every shop",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

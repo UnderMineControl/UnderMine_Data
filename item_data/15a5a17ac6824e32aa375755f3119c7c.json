@@ -1,0 +1,13 @@
+{
+  "guid": "15a5a17ac6824e32aa375755f3119c7c",
+  "name": "Freedom",
+  "displayName": "Unending Desolation",
+  "wiki": "Unending_Desolation",
+  "description": "\"What do you do when the glittery trinkets are taken away, and are left to rely on your skill alone?\" - Valeen, the Crone",
+  "effect": "Floors no longer have relic rooms",
+  "slot": "hex",
+  "attributes": [
+    "hex",
+    "common"
+  ]
+}

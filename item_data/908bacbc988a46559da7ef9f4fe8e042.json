@@ -1,0 +1,15 @@
+{
+  "guid": "908bacbc988a46559da7ef9f4fe8e042",
+  "name": "FoodPopcornPotion",
+  "displayName": "Seasoned Kernels",
+  "wiki": "Seasoned_Kernels",
+  "description": "A vial of well seasoned popcorn kernels. They vibrate with anticipation.",
+  "effect": "Duplicate all food in the room",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

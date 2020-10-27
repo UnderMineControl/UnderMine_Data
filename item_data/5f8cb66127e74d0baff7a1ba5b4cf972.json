@@ -1,0 +1,15 @@
+{
+  "guid": "5f8cb66127e74d0baff7a1ba5b4cf972",
+  "name": "ReverseDamagePotion",
+  "displayName": "Antimatter",
+  "wiki": "Antimatter",
+  "description": "The most brutal axe cleave becomes a soothing bath of vitality in what can only be described as magic.",
+  "effect": "The next time you would take damage, gain that much health instead",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

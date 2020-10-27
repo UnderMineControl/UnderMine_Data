@@ -1,0 +1,14 @@
+{
+  "guid": "4d5eb4480bdc4ab3b36087fbc9926e69",
+  "name": "TheCrumbles",
+  "displayName": "The Crumbles",
+  "wiki": "The_Crumbles",
+  "description": "Catching a case of the crumbles is clearly a cause for concern!",
+  "effect": "Items become extra fragile",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

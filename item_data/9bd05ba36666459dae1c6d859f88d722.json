@@ -1,0 +1,13 @@
+{
+  "guid": "9bd05ba36666459dae1c6d859f88d722",
+  "name": "AraBuff",
+  "displayName": "Ara",
+  "wiki": "Ara",
+  "description": "Also known as \"The Altar.\" This constellation protects against bad omens, for a while.",
+  "effect": "Consumes a future curse after praying",
+  "slot": "none",
+  "attributes": [
+    "misc",
+    "common"
+  ]
+}

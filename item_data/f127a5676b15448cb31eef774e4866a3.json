@@ -1,0 +1,14 @@
+{
+  "guid": "f127a5676b15448cb31eef774e4866a3",
+  "name": "MarketCrash",
+  "displayName": "Market Crash",
+  "wiki": "Market_Crash",
+  "description": "A pioneering Noble once attempted to raise the price of potatoes by hoarding them, only for them to rot in his cellar.",
+  "effect": "Increases the cost of shop items",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

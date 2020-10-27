@@ -1,0 +1,13 @@
+{
+  "guid": "91517ccfe5f94e0386f4c40fa30938d5",
+  "name": "Frostbite",
+  "displayName": "Frostbite",
+  "wiki": "Frostbite",
+  "description": "\"The bite of cold penetrates the body entirely. A curse? No, this is a nightmare.\" - Unknown",
+  "effect": "Cannot heal",
+  "slot": "hex",
+  "attributes": [
+    "hex",
+    "common"
+  ]
+}

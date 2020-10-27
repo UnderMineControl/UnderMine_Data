@@ -1,0 +1,15 @@
+{
+  "guid": "2d660fbac8f74974bb37b2ebb02a305d",
+  "name": "HealthMGolden",
+  "displayName": "Golden Fish",
+  "wiki": "Golden_Fish",
+  "description": "Fish colored of gold belong in the sea, not in the belly.",
+  "effect": "Gain even more gold",
+  "slot": "food",
+  "attributes": [
+    "resource",
+    "item",
+    "health",
+    "common"
+  ]
+}

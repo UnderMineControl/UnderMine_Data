@@ -1,0 +1,15 @@
+{
+  "guid": "830216e9492c484489ef90c303f07b68",
+  "name": "Chakram",
+  "displayName": "Chakram",
+  "wiki": "Chakram",
+  "description": "A tool that seems oddly good at cutting down trees, but what's it doing underground?",
+  "effect": "Throw a whirling blade of death",
+  "slot": "gloves",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

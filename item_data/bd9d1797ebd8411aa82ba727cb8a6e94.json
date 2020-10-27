@@ -1,0 +1,14 @@
+{
+  "guid": "bd9d1797ebd8411aa82ba727cb8a6e94",
+  "name": "EmptyCoffers",
+  "displayName": "Empty Coffers",
+  "wiki": "Empty_Coffers",
+  "description": "\"In my version of the story, the hare wins.\" - Black Rabbit",
+  "effect": "Chests are sometimes empty",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

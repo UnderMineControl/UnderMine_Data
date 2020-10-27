@@ -1,0 +1,15 @@
+{
+  "guid": "2725a7b0032447a98b7604d29395317a",
+  "name": "Immolate",
+  "displayName": "Large Ember",
+  "wiki": "Large_Ember",
+  "description": "An ember, kicked from a bonfire in the depths of the UnderMine.",
+  "effect": "Light nearby enemies on fire",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

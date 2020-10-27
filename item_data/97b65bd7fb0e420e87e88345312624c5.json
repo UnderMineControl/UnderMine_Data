@@ -1,0 +1,15 @@
+{
+  "guid": "97b65bd7fb0e420e87e88345312624c5",
+  "name": "Eidolon",
+  "displayName": "Eidolon",
+  "wiki": "Eidolon",
+  "description": "One of many fallen soldiers that have not yet made peace. It dawns the same armor it wore in life.",
+  "effect": "A haunted suit of armor",
+  "slot": "none",
+  "attributes": [
+    "egg",
+    "item",
+    "familiar",
+    "rare"
+  ]
+}

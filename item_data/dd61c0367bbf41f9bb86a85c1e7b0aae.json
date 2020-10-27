@@ -1,0 +1,15 @@
+{
+  "guid": "dd61c0367bbf41f9bb86a85c1e7b0aae",
+  "name": "Talisman",
+  "displayName": "Talisman",
+  "wiki": "Talisman",
+  "description": "A blessed trinket that wards off spirits, demons, and other nasty things.",
+  "effect": "Removes a curse",
+  "slot": "item",
+  "attributes": [
+    "item",
+    "talisman",
+    "basic",
+    "common"
+  ]
+}

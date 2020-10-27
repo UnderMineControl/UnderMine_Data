@@ -1,0 +1,15 @@
+{
+  "guid": "91f466ecbb87497b943eabd77f6e4681",
+  "name": "HungrySpirit",
+  "displayName": "Hungry Ghost",
+  "wiki": "Hungry_Ghost",
+  "description": "The spirit of a selfish and vindictive king. He remains selfish and vindictive in death.",
+  "effect": "Leach the life of your enemies",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

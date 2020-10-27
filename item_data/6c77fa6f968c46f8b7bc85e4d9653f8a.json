@@ -1,0 +1,10 @@
+{
+  "guid": "6c77fa6f968c46f8b7bc85e4d9653f8a",
+  "name": "TokenSelt",
+  "slot": "artifact",
+  "attributes": [
+    "item",
+    "artifact",
+    "rare"
+  ]
+}

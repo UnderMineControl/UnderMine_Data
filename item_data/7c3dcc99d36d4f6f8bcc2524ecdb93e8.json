@@ -1,0 +1,15 @@
+{
+  "guid": "7c3dcc99d36d4f6f8bcc2524ecdb93e8",
+  "name": "Intensifier",
+  "displayName": "Intensifier",
+  "wiki": "Intensifier",
+  "description": "An arrogant stone that disobeys the laws of thermodynamics.",
+  "effect": "Increases damage when killing enemies",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

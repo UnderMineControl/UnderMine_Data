@@ -1,0 +1,15 @@
+{
+  "guid": "82d1d9ec3cb74d019e07ac5750e5433d",
+  "name": "ClusterBombs",
+  "displayName": "Bombushka",
+  "wiki": "Bombushka",
+  "description": "\"Bombs were losing their excitement, and then this came along.\" - Bishop, the Bomb Smith",
+  "effect": "Bombs, in bombs, in bombs",
+  "slot": "bomb",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

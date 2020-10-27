@@ -1,0 +1,15 @@
+{
+  "guid": "a596ffca42664024be1aeba28ad46f24",
+  "name": "SkullShield",
+  "displayName": "Skull Shield",
+  "wiki": "Skull_Shield",
+  "description": "Skulls animated by some long dead necromancer.",
+  "effect": "A shield that blocks projectiles, most of the time",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

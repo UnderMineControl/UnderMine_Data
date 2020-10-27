@@ -1,0 +1,15 @@
+{
+  "guid": "ebb2f31ddd77460196d44fabcd18f57a",
+  "name": "PocketGrill",
+  "displayName": "Pocket Grill",
+  "wiki": "Pocket_Grill",
+  "description": "A cooking grill, miniaturized by a wizard that enjoyed backpacking in The Enchantments.",
+  "effect": "Cooks all your food",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

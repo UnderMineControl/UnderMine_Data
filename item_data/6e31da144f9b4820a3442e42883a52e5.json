@@ -1,0 +1,15 @@
+{
+  "guid": "6e31da144f9b4820a3442e42883a52e5",
+  "name": "PilferRing",
+  "displayName": "Pilfer Ring",
+  "wiki": "Pilfer_Ring",
+  "description": "A token of friendship between the pilfers and peasants of Delvemore.",
+  "effect": "Soak up gold and get a discount at the shop",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

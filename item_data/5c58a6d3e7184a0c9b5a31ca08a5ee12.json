@@ -1,0 +1,14 @@
+{
+  "guid": "5c58a6d3e7184a0c9b5a31ca08a5ee12",
+  "name": "BloodPact",
+  "displayName": "Blood Pact",
+  "wiki": "Blood_Pact",
+  "description": "Toil is the act of trading health for something tangible.",
+  "effect": "Costs health to plant bombs",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "0682d92aff14474d895c2e91f8826f25",
+  "name": "FanOfKnives",
+  "displayName": "Fan of Knives",
+  "wiki": "Fan_of_Knives",
+  "description": "A devious contraption, invented by a woman who once killed a king. It took the guards an entire hour to figure out what had happened.",
+  "effect": "Release a spray of daggers when you throw",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

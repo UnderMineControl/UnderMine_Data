@@ -1,0 +1,13 @@
+{
+  "guid": "49178cd284e948f0b89f0dfb9a2847bb",
+  "name": "Regeneration",
+  "displayName": "Regeneration",
+  "wiki": "Regeneration",
+  "description": "Curiosity and exploration can rejuvenate the soul.",
+  "effect": "Heal through adventure",
+  "slot": "blessing",
+  "attributes": [
+    "blessing",
+    "common"
+  ]
+}

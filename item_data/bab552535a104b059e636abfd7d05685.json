@@ -1,0 +1,15 @@
+{
+  "guid": "bab552535a104b059e636abfd7d05685",
+  "name": "PocketOfHolding",
+  "displayName": "Pocket of Holding",
+  "wiki": "Pocket_of_Holding",
+  "description": "A pocket of normal size, but enormous carrying capacity.",
+  "effect": "Get some temporary bombs each room",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

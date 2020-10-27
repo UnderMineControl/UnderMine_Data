@@ -1,0 +1,14 @@
+{
+  "guid": "3cebb72f2cb94342aa1c6c2d455fa8f8",
+  "name": "ItemEater",
+  "displayName": "Item Eater",
+  "wiki": "Item_Eater",
+  "description": "A more mundane curse, settling for the simpler things.",
+  "effect": "Killing enemies destroys items",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

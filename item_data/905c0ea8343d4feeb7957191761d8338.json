@@ -1,0 +1,14 @@
+{
+  "guid": "905c0ea8343d4feeb7957191761d8338",
+  "name": "Compulsion",
+  "displayName": "Compulsion",
+  "wiki": "Compulsion",
+  "description": "They say \"a healthy life is one of moderation,\" but they also say \"you only live once.\"",
+  "effect": "All potions automatically drink on pickup",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

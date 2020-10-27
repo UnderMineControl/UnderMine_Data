@@ -1,0 +1,15 @@
+{
+  "guid": "48f2bb8ba1f742ca830edfaa91772625",
+  "name": "Fork",
+  "displayName": "Fork",
+  "wiki": "Fork",
+  "description": "An enchanted rune that was originally used to win trickshot competitions in the annual fair.",
+  "effect": "Splits your ranged attacks",
+  "slot": "gloves",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "f05bebbd21e04c468299c7763704f332",
+  "name": "AltarInABottle",
+  "displayName": "Altar in a Bottle",
+  "wiki": "Altar_in_a_Bottle",
+  "description": "Traveling monks often carried these in case they had to perform an emergency blessing.",
+  "effect": "Spawn an altar",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "3771da94280f49959634ebc9bc7098a4",
+  "name": "HealthS",
+  "displayName": "Medium Rare Steak",
+  "wiki": "Medium_Rare_Steak",
+  "description": "\"Only a heathen would order meat well done.\" - Griswold, The Collector",
+  "effect": "Restores a small amount of health",
+  "slot": "food",
+  "attributes": [
+    "item",
+    "health",
+    "common"
+  ]
+}

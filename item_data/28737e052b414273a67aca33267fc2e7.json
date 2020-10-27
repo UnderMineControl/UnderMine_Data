@@ -1,0 +1,15 @@
+{
+  "guid": "28737e052b414273a67aca33267fc2e7",
+  "name": "Absolution",
+  "displayName": "Absolution",
+  "wiki": "Absolution",
+  "description": "A powerful potion that works under oddly specific conditions.",
+  "effect": "If you have exactly 5 curses, removes 5 curses",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

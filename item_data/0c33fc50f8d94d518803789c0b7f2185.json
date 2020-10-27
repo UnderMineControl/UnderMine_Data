@@ -1,0 +1,15 @@
+{
+  "guid": "0c33fc50f8d94d518803789c0b7f2185",
+  "name": "CrackedOrb",
+  "displayName": "Cracked Orb",
+  "wiki": "Cracked_Orb",
+  "description": "Pain and misery ooze from the cracks of this dark orb.",
+  "effect": "Curse enemies with increased damage",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

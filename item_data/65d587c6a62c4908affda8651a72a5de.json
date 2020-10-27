@@ -1,0 +1,10 @@
+{
+  "guid": "65d587c6a62c4908affda8651a72a5de",
+  "name": "TokenSeer",
+  "slot": "artifact",
+  "attributes": [
+    "item",
+    "artifact",
+    "rare"
+  ]
+}

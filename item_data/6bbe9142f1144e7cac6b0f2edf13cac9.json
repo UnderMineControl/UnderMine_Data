@@ -1,0 +1,15 @@
+{
+  "guid": "6bbe9142f1144e7cac6b0f2edf13cac9",
+  "name": "Catalyst",
+  "displayName": "Catalyst",
+  "wiki": "Catalyst",
+  "description": "A strange stone that radiates warmth and a sense of comfort.",
+  "effect": "When healed, heal again",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

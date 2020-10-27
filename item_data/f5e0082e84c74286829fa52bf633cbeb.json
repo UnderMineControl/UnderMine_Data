@@ -1,0 +1,15 @@
+{
+  "guid": "f5e0082e84c74286829fa52bf633cbeb",
+  "name": "KurtzStache",
+  "displayName": "Kurtz' Stache",
+  "wiki": "Kurtz%27_Stache",
+  "description": "Before his party was lost, Kurtz had the foresight to stash away some things for safe keeping.",
+  "effect": "A mysterious box that invites calamity",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

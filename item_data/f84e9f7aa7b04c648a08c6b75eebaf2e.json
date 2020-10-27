@@ -1,0 +1,15 @@
+{
+  "guid": "f84e9f7aa7b04c648a08c6b75eebaf2e",
+  "name": "ElixirPotion",
+  "displayName": "Elixir",
+  "wiki": "Elixir",
+  "description": "A potion of such extreme value that they are often hoarded and never used.",
+  "effect": "Restores all missing health",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

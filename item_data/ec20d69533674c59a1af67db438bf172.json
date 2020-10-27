@@ -1,0 +1,15 @@
+{
+  "guid": "ec20d69533674c59a1af67db438bf172",
+  "name": "PilfersGift",
+  "displayName": "Pilfer's Gift",
+  "wiki": "Pilfer%27s_Gift",
+  "description": "\"I'm still not sure what these pilfers are up to, but hooboy, two relics!\" - Black Rabbit",
+  "effect": "Be blessed with two gifts from the pilfers",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

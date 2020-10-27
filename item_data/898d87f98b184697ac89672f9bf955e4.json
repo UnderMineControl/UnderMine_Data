@@ -1,0 +1,15 @@
+{
+  "guid": "898d87f98b184697ac89672f9bf955e4",
+  "name": "CreditCardSilver",
+  "displayName": "Pilfer Credit Card Silver",
+  "wiki": "Pilfer Credit Card Silver",
+  "description": "Pilfers have unusually long memories so try not to leave your debt for the next guy.",
+  "effect": "A 2,500 limit at 0% interest",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

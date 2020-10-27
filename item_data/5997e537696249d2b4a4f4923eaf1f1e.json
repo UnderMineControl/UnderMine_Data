@@ -1,0 +1,13 @@
+{
+  "guid": "5997e537696249d2b4a4f4923eaf1f1e",
+  "name": "BasicBombs",
+  "displayName": "Bombs",
+  "wiki": "Bomb",
+  "description": "There is a warning label affixed to the bottom that reads, \"Use under adult supervision.\"",
+  "effect": "Deals damage and destroys rocks, as well as other objects",
+  "slot": "bomb",
+  "attributes": [
+    "misc",
+    "common"
+  ]
+}

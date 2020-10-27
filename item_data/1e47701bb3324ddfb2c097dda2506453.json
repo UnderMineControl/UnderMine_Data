@@ -1,0 +1,15 @@
+{
+  "guid": "1e47701bb3324ddfb2c097dda2506453",
+  "name": "Lunchbox",
+  "displayName": "Lunchbox",
+  "wiki": "Lunchbox",
+  "description": "The best time of day is midday when the pickaxes are down and the sandwiches are up.",
+  "effect": "Store a piece of food for later",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

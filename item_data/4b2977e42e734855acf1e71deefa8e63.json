@@ -1,0 +1,14 @@
+{
+  "guid": "4b2977e42e734855acf1e71deefa8e63",
+  "name": "Uncreative",
+  "displayName": "Uncreative",
+  "wiki": "Uncreative",
+  "description": "The Djinn rolled his eyes as the fifteenth owner of the lamp wished for more wishes.",
+  "effect": "Only one blessing is available at altars",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

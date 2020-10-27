@@ -1,0 +1,15 @@
+{
+  "guid": "d537cbb8584b4a3fbe45f0ceef4f2ef1",
+  "name": "PetrifiedRock",
+  "displayName": "Petrified Rock",
+  "wiki": "Petrified_Rock",
+  "description": "Simply touching this rock makes one feel luckier.",
+  "effect": "Increase drop rate of items from rocks",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

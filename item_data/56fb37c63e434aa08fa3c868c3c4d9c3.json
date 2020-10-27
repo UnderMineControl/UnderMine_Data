@@ -1,0 +1,15 @@
+{
+  "guid": "56fb37c63e434aa08fa3c868c3c4d9c3",
+  "name": "Aegis",
+  "displayName": "Aegis",
+  "wiki": "Aegis",
+  "description": "The Knight Toadvine defended his loyal companion against orders and was subsequently demoted to Guard Captain for his disobedience.",
+  "effect": "Increase defense at critical health",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

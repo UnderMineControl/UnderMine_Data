@@ -1,0 +1,15 @@
+{
+  "guid": "4f2ebf67c2ab4103bba07ae33f8fce10",
+  "name": "Canary",
+  "displayName": "Canary",
+  "wiki": "Canary",
+  "description": "In a weird change of pace, this canary seems to outlive the miners it works with.",
+  "effect": "A miner's best friend",
+  "slot": "none",
+  "attributes": [
+    "egg",
+    "item",
+    "familiar",
+    "rare"
+  ]
+}

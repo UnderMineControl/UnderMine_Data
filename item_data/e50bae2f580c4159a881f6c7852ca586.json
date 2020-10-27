@@ -1,0 +1,15 @@
+{
+  "guid": "e50bae2f580c4159a881f6c7852ca586",
+  "name": "EagleEyePotion",
+  "displayName": "Potion of True Sight",
+  "wiki": "Potion_of_True_Sight",
+  "description": "Nicknamed the \"peeper's potion\" for obvious reasons.",
+  "effect": "Discover nearby secrets",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

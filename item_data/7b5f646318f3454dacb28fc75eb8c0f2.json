@@ -1,0 +1,15 @@
+{
+  "guid": "7b5f646318f3454dacb28fc75eb8c0f2",
+  "name": "Inverter",
+  "displayName": "Inverter",
+  "wiki": "Inverter",
+  "description": "An ingenious inventor came to the faith late, and made the most of his second life.",
+  "effect": "Lost curses become blessings",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

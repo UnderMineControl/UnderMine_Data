@@ -1,0 +1,15 @@
+{
+  "guid": "630bd51306d34a9c9de7b041f1a3caee",
+  "name": "BlastSuit",
+  "displayName": "Blast Suit",
+  "wiki": "Blast Suit",
+  "description": "A ridiculous suit of armor that looks reminiscent of an onion.",
+  "effect": "Invulnerability to friendly bomb blasts and increases bomb damage",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

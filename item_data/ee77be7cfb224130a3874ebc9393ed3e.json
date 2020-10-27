@@ -1,0 +1,10 @@
+{
+  "guid": "ee77be7cfb224130a3874ebc9393ed3e",
+  "name": "MapCavern",
+  "slot": "artifact",
+  "attributes": [
+    "item",
+    "artifact",
+    "rare"
+  ]
+}

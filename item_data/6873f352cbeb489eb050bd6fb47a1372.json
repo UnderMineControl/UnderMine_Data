@@ -1,0 +1,13 @@
+{
+  "guid": "6873f352cbeb489eb050bd6fb47a1372",
+  "name": "Greed",
+  "displayName": "Red-Hot Nuggets",
+  "wiki": "Red-Hot_Nuggets",
+  "description": "Hot to the touch, as if they were plucked from the oven.",
+  "effect": "Take damage when picking up gold",
+  "slot": "hex",
+  "attributes": [
+    "hex",
+    "common"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "bc80dc90e70d46d299f4cb8566a8a777",
+  "name": "Vertigo",
+  "displayName": "Vertigo",
+  "wiki": "Vertigo",
+  "description": "Staring into the abyss, the mind races, the eyes grow bleary, and the knees weaken.",
+  "effect": "Receive increased fall damage",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "e218308da36941de8705ba950e0455f3",
+  "name": "HealthL",
+  "displayName": "Ham Shank",
+  "wiki": "Ham_Shank",
+  "description": "Meat from a wall always tastes better than meat you have to earn yourself.",
+  "effect": "Restores a large amount of health",
+  "slot": "food",
+  "attributes": [
+    "item",
+    "health",
+    "common"
+  ]
+}

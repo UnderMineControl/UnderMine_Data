@@ -1,0 +1,15 @@
+{
+  "guid": "95c9369deaba40caa44b1b48989a6a17",
+  "name": "WarPaint",
+  "displayName": "War Paint",
+  "wiki": "War_Paint",
+  "description": "Intimidate your enemies with dark lines and blacked out eye sockets. Or maybe just some cute whiskers?",
+  "effect": "Increase attack damage and speed when killing enemies",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

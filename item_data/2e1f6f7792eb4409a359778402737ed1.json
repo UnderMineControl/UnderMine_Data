@@ -1,0 +1,15 @@
+{
+  "guid": "2e1f6f7792eb4409a359778402737ed1",
+  "name": "Glaive",
+  "displayName": "Glaive",
+  "wiki": "Glaive",
+  "description": "Elven riders go into battle on large cats. The glaive is their prefered weapon.",
+  "effect": "Increases throw size, but slightly decreases throw damage",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

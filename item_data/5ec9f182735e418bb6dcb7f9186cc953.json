@@ -1,0 +1,13 @@
+{
+  "guid": "5ec9f182735e418bb6dcb7f9186cc953",
+  "name": "Craftsmanship",
+  "displayName": "Craftsmanship",
+  "wiki": "Craftsmanship",
+  "description": "A deft hand and some quality string can save you a fortune in the end.",
+  "effect": "Lose less gold on death",
+  "slot": "blessing",
+  "attributes": [
+    "blessing",
+    "common"
+  ]
+}

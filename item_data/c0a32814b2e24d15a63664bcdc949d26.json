@@ -1,0 +1,15 @@
+{
+  "guid": "c0a32814b2e24d15a63664bcdc949d26",
+  "name": "WitchsBrew",
+  "displayName": "Witch's Brew",
+  "wiki": "Witch%27s_Brew",
+  "description": "Baba, during her apprenticeship, accidentally brewed this cursed potion. She tried to bury her shame, but it refused to remain hidden.",
+  "effect": "Become cursed",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

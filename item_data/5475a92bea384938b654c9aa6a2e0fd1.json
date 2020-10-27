@@ -1,0 +1,14 @@
+{
+  "guid": "5475a92bea384938b654c9aa6a2e0fd1",
+  "name": "MapDungeonWarp",
+  "displayName": "Dungeon Map",
+  "wiki": "Dungeon_Map",
+  "description": "Located at the bottom of the goldmine is a secret entrance to the dungeon of Delvemore Castle. This is the only entrance, and it has been assigned Guard Captain Toadvine and his partner, the priest Bathcat, as its guards. Many criminals from throughout the kingdom are locked away in the dungeon. For especially dangerous criminals, or those that commit acts that particularly upset the king, special subfloor cells have been constructed.",
+  "effect": "Unlocks fast travel to The Delvemore Dungeon",
+  "slot": "artifact",
+  "attributes": [
+    "item",
+    "artifact",
+    "common"
+  ]
+}

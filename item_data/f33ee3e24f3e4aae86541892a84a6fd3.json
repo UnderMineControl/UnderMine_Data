@@ -1,0 +1,12 @@
+{
+  "guid": "f33ee3e24f3e4aae86541892a84a6fd3",
+  "name": "Radiance",
+  "displayName": "Radiance",
+  "wiki": "Sol%27s_Phoenix",
+  "effect": "Whenever the Phoenix heals the peasant it applies an immolation effect that burns nearby enemies",
+  "slot": "none",
+  "attributes": [
+    "misc",
+    "common"
+  ]
+}

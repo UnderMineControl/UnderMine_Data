@@ -1,0 +1,13 @@
+{
+  "guid": "7a78e1580ae34f9c908fc2cb74cc5e81",
+  "name": "Delight",
+  "displayName": "Rogue's Ultimatum",
+  "wiki": "Rogue%27s_Ultimatum",
+  "description": "To truly be deemed a rogue, one must rely on their wits, and their wits alone.",
+  "effect": "Disables permanent upgrades",
+  "slot": "hex",
+  "attributes": [
+    "hex",
+    "common"
+  ]
+}

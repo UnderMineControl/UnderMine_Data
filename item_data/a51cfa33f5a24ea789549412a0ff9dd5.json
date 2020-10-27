@@ -1,0 +1,10 @@
+{
+  "guid": "a51cfa33f5a24ea789549412a0ff9dd5",
+  "name": "BasicSack",
+  "displayName": "Sack",
+  "slot": "none",
+  "attributes": [
+    "misc",
+    "common"
+  ]
+}

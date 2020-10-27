@@ -1,0 +1,15 @@
+{
+  "guid": "5abbafb002b04ee495f179afdb550ffa",
+  "name": "KeyDoubler",
+  "displayName": "Key Doubler",
+  "wiki": "Key_Doubler",
+  "description": "\"Yes sir! This little doozy will copy any key you need.\" - Dibble, the Merchant",
+  "effect": "Sometimes drop a new key when using an old key",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

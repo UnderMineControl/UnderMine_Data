@@ -1,0 +1,15 @@
+{
+  "guid": "2e8dd836a09f4e47b57e23b4d00f16ec",
+  "name": "SoulCannon",
+  "displayName": "Soul Cannon",
+  "wiki": "Soul_Cannon",
+  "description": "A void in space that fires powerful bolts which seem to react to the velocity of attacks.",
+  "effect": "Fire a projectile while swinging",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

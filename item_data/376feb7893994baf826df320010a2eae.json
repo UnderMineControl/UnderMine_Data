@@ -1,0 +1,15 @@
+{
+  "guid": "376feb7893994baf826df320010a2eae",
+  "name": "AdventurersWhip",
+  "displayName": "Adventurer's Whip",
+  "wiki": "Adventurer%27s_Whip",
+  "description": "A whip is an impractical weapon. For example, it often hits enemies behind you as often as it does in front.",
+  "effect": "Discover more treasure rooms",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

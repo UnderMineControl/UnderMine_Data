@@ -1,0 +1,15 @@
+{
+  "guid": "b12beb42d1b549e392b00d00a01520c9",
+  "name": "Transmutagen",
+  "displayName": "Transmutagen",
+  "wiki": "Transmutagen",
+  "description": "It's unclear whether we will ever learn the secret of this ooze.",
+  "effect": "Transforms all relics in the room",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

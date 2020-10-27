@@ -1,0 +1,15 @@
+{
+  "guid": "0b736c7fe4974e65a08cd5c0ab189929",
+  "name": "BloodChalice",
+  "displayName": "Blood Chalice",
+  "wiki": "Blood_Chalice",
+  "description": "A golden goblet with flecks of crimson. It rewards those willing to pay a sacrifice.",
+  "effect": "Consumes 25% health, drops items and sometimes another blood chalice.",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "200012b4fdb74289b228f292193cf146",
+  "name": "UnholyStrengthPotion",
+  "displayName": "Berserker's Brew",
+  "wiki": "Berserker%27s_Brew",
+  "description": "A brew that stirs the drinker into a ferocious rage, making them dangerous to their enemies and themselves.",
+  "effect": "Deal and take more damage",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "7aedab48d5ca4e5b8d9f33a292ef38ef",
+  "name": "Circinus",
+  "displayName": "Circinus",
+  "wiki": "Circinus",
+  "description": "An explorer's tool that reveals any and all secrets.",
+  "effect": "Temporarily reveals secret rooms, secret rooms can have secret rooms",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

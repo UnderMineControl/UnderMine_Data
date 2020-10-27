@@ -1,0 +1,15 @@
+{
+  "guid": "d42df1015fa04546bfd1cc0958cfc34b",
+  "name": "FloatPotion",
+  "displayName": "Float Potion",
+  "wiki": "Float_Potion",
+  "description": "Warning: Make sure to be on firm ground when the effects wear off.",
+  "effect": "Avoid falling into holes",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

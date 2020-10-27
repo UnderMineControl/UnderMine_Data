@@ -1,0 +1,15 @@
+{
+  "guid": "6910c28b900043d48911f9ae27e343cf",
+  "name": "ShadowsFang",
+  "displayName": "Shadow's Fang",
+  "wiki": "Shadow%27s_Fang",
+  "description": "A brindled and dark beast. Perfect camouflage for stalking the periphery of your vision.",
+  "effect": "Higher chance to critical strike",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

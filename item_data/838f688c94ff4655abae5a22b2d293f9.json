@@ -1,0 +1,10 @@
+{
+  "guid": "838f688c94ff4655abae5a22b2d293f9",
+  "name": "DungeonKey",
+  "slot": "artifact",
+  "attributes": [
+    "item",
+    "artifact",
+    "rare"
+  ]
+}

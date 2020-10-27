@@ -1,0 +1,13 @@
+{
+  "guid": "68b9197b9def414dba65f8cbf877aadc",
+  "name": "Strength",
+  "displayName": "Strength",
+  "wiki": "Strength",
+  "description": "Some are blessed with intelligence, but that's not going to help you when staring down a raging Bobo.",
+  "effect": "Deal more swing damage",
+  "slot": "blessing",
+  "attributes": [
+    "blessing",
+    "common"
+  ]
+}

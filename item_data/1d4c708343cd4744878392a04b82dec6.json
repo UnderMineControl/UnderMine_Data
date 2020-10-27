@@ -1,0 +1,10 @@
+{
+  "guid": "1d4c708343cd4744878392a04b82dec6",
+  "name": "TG_HealthS",
+  "slot": "food",
+  "attributes": [
+    "item",
+    "health",
+    "common"
+  ]
+}

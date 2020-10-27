@@ -1,0 +1,15 @@
+{
+  "guid": "e25c4adfa3e04022ae18673db8f83276",
+  "name": "CausticVial",
+  "displayName": "Caustic Vial",
+  "wiki": "Caustic_Vial",
+  "description": "A vile vial of liquid that rests in the pickaxe head. A mechanism injects victims upon impact.",
+  "effect": "Enemies hit with the thrown pickaxe explode on death",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

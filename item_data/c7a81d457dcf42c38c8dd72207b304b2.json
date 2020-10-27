@@ -1,0 +1,13 @@
+{
+  "guid": "c7a81d457dcf42c38c8dd72207b304b2",
+  "name": "Thorium3",
+  "displayName": "Thorium",
+  "wiki": "Thorium",
+  "description": "",
+  "effect": "",
+  "slot": "none",
+  "attributes": [
+    "resource",
+    "common"
+  ]
+}

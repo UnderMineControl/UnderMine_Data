@@ -1,0 +1,15 @@
+{
+  "guid": "81b81569168949aeaea9412aea00601d",
+  "name": "FoodPopcorn",
+  "displayName": "Seasoned Popcorn",
+  "wiki": "Seasoned_Popcorn",
+  "description": "A third enchanted kernel, dusted ever so gently in cayenne, salt, and black pepper.",
+  "effect": "Food will sometimes duplicate itself",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

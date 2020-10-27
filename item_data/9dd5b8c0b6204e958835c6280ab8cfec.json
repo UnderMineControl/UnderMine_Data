@@ -1,0 +1,13 @@
+{
+  "guid": "9dd5b8c0b6204e958835c6280ab8cfec",
+  "name": "Gold100",
+  "displayName": "Gold",
+  "wiki": "Gold",
+  "description": "",
+  "effect": "",
+  "slot": "none",
+  "attributes": [
+    "resource",
+    "common"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "0533edf2633049baa08a73d7ba5ef518",
+  "name": "GoldFrenzy",
+  "displayName": "Gold Frenzy",
+  "wiki": "Gold_Frenzy",
+  "description": "Do not underestimate the lengths one will go to to defend their fortune",
+  "effect": "Gain temporary damage when picking up gold",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

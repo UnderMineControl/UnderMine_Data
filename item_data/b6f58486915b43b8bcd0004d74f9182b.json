@@ -1,0 +1,15 @@
+{
+  "guid": "b6f58486915b43b8bcd0004d74f9182b",
+  "name": "BottledLightning",
+  "displayName": "Bottled Lightning",
+  "wiki": "Bottled_Lightning",
+  "description": "\"Bottling lightning isn't something you do twice, because it kills you.\" - Dirk, the Alchemist",
+  "effect": "Chance on hit to chain lightning",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

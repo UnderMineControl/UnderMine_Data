@@ -1,0 +1,15 @@
+{
+  "guid": "44cd9c54d22c4ab289b5edf7b4fe40f4",
+  "name": "CleaveSerumPotion",
+  "displayName": "Sundering Serum",
+  "wiki": "Sundering Serum",
+  "description": "A common potion found in goblin logging camps.",
+  "effect": "Temporarily increases swing size",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

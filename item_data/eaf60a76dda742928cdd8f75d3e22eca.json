@@ -1,0 +1,15 @@
+{
+  "guid": "eaf60a76dda742928cdd8f75d3e22eca",
+  "name": "Clover",
+  "displayName": "Four Leaf Clover",
+  "wiki": "Four_Leaf_Clover",
+  "description": "Much luckier than a three leaf clover. Not nearly as lucky as a five leaf clover.",
+  "effect": "Hit the gold right out of your enemies' pockets",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

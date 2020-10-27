@@ -1,0 +1,15 @@
+{
+  "guid": "637c8bf20a8d4e6da5bcd6bbbac68f12",
+  "name": "KeyBlade",
+  "displayName": "Key Blade",
+  "wiki": "Key_Blade",
+  "description": "A sword in the shape of a dull key. Not practical as a key or a blade.",
+  "effect": "Increases swing damage for each key you have",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "b68c50e2d9584edea52fae690c472ee7",
+  "name": "BloodOffering",
+  "displayName": "Blood Offering",
+  "wiki": "Blood_Offering",
+  "description": "The pilfers have grown tired of gold and now demand a greater sacrifice for their wares.",
+  "effect": "Shop costs are converted to health",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

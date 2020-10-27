@@ -1,0 +1,10 @@
+{
+  "guid": "3a2eea11831e483587794f82632a4da5",
+  "name": "LibraryKey",
+  "slot": "artifact",
+  "attributes": [
+    "item",
+    "artifact",
+    "rare"
+  ]
+}

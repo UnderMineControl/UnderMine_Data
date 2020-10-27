@@ -1,0 +1,14 @@
+{
+  "guid": "5d1d5865fd7b4353b3b43fe0d81b7960",
+  "name": "HealthM",
+  "displayName": "Fish Kebab",
+  "wiki": "Fish_Kebab",
+  "description": "A food imported from a far away island of paradise.",
+  "effect": "Restores a moderate amount of health",
+  "slot": "food",
+  "attributes": [
+    "item",
+    "health",
+    "common"
+  ]
+}

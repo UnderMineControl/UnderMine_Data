@@ -1,0 +1,13 @@
+{
+  "guid": "535a312a1fec48b985eb491d5ac20571",
+  "name": "MightyHurl",
+  "displayName": "Mighty Hurl",
+  "wiki": "Mighty_Hurl",
+  "description": "\"Some say it's a disadvantage, I say 'there's no problem if you hit your target.'\" - Gronk, Champion Pickaxe Thrower",
+  "effect": "Increases throw range",
+  "slot": "blessing",
+  "attributes": [
+    "blessing",
+    "common"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "f83096ef1b674f6c832dec65a4a3d758",
+  "name": "PotionPotion",
+  "displayName": "Bottles in a Bottle",
+  "wiki": "Bottles_in_a_Bottle",
+  "description": "Made by an artisan with a good sense of irony.",
+  "effect": "Drop two potions",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

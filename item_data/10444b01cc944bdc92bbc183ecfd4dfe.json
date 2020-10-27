@@ -1,0 +1,15 @@
+{
+  "guid": "10444b01cc944bdc92bbc183ecfd4dfe",
+  "name": "KnightPendant",
+  "displayName": "Knight's Pendant",
+  "wiki": "Knight%27s_Pendant",
+  "description": "An award for courage, and a symbol of valor.",
+  "effect": "Deal more swing damage at high health",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

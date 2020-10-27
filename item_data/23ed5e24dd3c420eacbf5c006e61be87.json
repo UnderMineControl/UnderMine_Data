@@ -1,0 +1,15 @@
+{
+  "guid": "23ed5e24dd3c420eacbf5c006e61be87",
+  "name": "ReflectProjectiles",
+  "displayName": "Grimhilde's Mirror",
+  "wiki": "Grimhilde%27s_Mirror",
+  "description": "\"Discussions with the mirror are unwise.\" - Arkanos, the Archmage",
+  "effect": "Return projectiles with an attack",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

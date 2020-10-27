@@ -1,0 +1,15 @@
+{
+  "guid": "25cb114d9617483a8be3c9c7ddb8ee39",
+  "name": "Spirit",
+  "displayName": "Spirit",
+  "wiki": "Spirit",
+  "description": "A tormented spirit that was found haunting a cask of wine.",
+  "effect": "Aged and fermented for eons",
+  "slot": "none",
+  "attributes": [
+    "egg",
+    "item",
+    "familiar",
+    "common"
+  ]
+}

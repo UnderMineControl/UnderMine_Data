@@ -1,0 +1,13 @@
+{
+  "guid": "f44c5301ab9442378690d17cee43074b",
+  "name": "GoldSandwich",
+  "displayName": "Gold",
+  "wiki": "Gold",
+  "description": "",
+  "effect": "",
+  "slot": "none",
+  "attributes": [
+    "resource",
+    "common"
+  ]
+}

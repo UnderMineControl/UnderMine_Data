@@ -1,0 +1,15 @@
+{
+  "guid": "e21cf8a29a6b4277b40ba59cb04c299b",
+  "name": "CrownQueens",
+  "displayName": "Queen's Crown",
+  "wiki": "Queen%27s_Crown",
+  "description": "The land that is now Delvmore was once ruled by giants. The old giant king's crown was forged into two complimentary crowns for the King and Queen.",
+  "effect": "Increase throw damage, swing size, and swing speed",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

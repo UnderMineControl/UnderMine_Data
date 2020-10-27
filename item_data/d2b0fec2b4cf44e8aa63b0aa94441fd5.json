@@ -1,0 +1,15 @@
+{
+  "guid": "d2b0fec2b4cf44e8aa63b0aa94441fd5",
+  "name": "FloatBoots",
+  "displayName": "Float Boots",
+  "wiki": "Float_Boots",
+  "description": "Walking out onto the abyss can be fairly disconcerting at first. It's fairly disconcerting the hundredth time too.",
+  "effect": "Walk on air",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

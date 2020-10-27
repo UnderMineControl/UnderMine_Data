@@ -1,0 +1,15 @@
+{
+  "guid": "e161e4e3083948eaa22f9830394b1235",
+  "name": "VorpalBlade",
+  "displayName": "Vorpal Blade",
+  "wiki": "Vorpal_Blade",
+  "description": "The blade cuts through the air with a crack and the sound of snicker-snack.",
+  "effect": "Attack quickly without stopping",
+  "slot": "weapon",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

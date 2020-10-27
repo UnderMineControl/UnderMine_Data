@@ -1,0 +1,15 @@
+{
+  "guid": "05ad55b489ff4af28e34ab471ecd0640",
+  "name": "Masa",
+  "displayName": "Masa",
+  "wiki": "Masa",
+  "description": "A short blade of legend, wielded by the brother. What it lacked in reach, it made up for in power.",
+  "effect": "Reduces throw damage and increases swing damage",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "dc421ae2fb974a01b8cc4b2a9093244e",
+  "name": "ItemPopcornPotion",
+  "displayName": "Popcorn Kernels",
+  "wiki": "Popcorn_Kernels",
+  "description": "A vial of popcorn kernels. They vibrate with anticipation.",
+  "effect": "Duplicate all basic items in the room",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

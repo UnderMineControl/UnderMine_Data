@@ -1,0 +1,13 @@
+{
+  "guid": "aa7de59e30cd473783df2d2e1879cdde",
+  "name": "Wealth",
+  "displayName": "Wealth",
+  "wiki": "Wealth",
+  "description": "The prospector has always understood the true value of the earth.",
+  "effect": "Increase gold income",
+  "slot": "blessing",
+  "attributes": [
+    "blessing",
+    "rare"
+  ]
+}

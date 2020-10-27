@@ -1,0 +1,14 @@
+{
+  "guid": "8138983272d648e9b47995a8c7b5324c",
+  "name": "HauntedLocks",
+  "displayName": "Haunted Locks",
+  "wiki": "Haunted_Locks",
+  "description": "Peering through the keyhole reveals a colorful and twisting gateway into another realm.",
+  "effect": "Costs health to use a key",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

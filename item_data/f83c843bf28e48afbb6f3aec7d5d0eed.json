@@ -1,0 +1,15 @@
+{
+  "guid": "f83c843bf28e48afbb6f3aec7d5d0eed",
+  "name": "CreditCardGold",
+  "displayName": "Pilfer Credit Card Gold",
+  "wiki": "Pilfer_Credit_Card_Gold",
+  "description": "Not so fine print: This contract is not void in the case of death or dismemberment. Your next of kin will be responsible for repayment.",
+  "effect": "A 5,000 limit at 0% interest!",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "32d2db84cca547699565e949c6815f06",
+  "name": "KeyRing",
+  "displayName": "Key Ring",
+  "wiki": "Key_Ring",
+  "description": "Jangles pleasantly.",
+  "effect": "Full of keys",
+  "slot": "item",
+  "attributes": [
+    "key",
+    "item",
+    "basic",
+    "common"
+  ]
+}

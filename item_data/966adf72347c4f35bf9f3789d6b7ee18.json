@@ -1,0 +1,15 @@
+{
+  "guid": "966adf72347c4f35bf9f3789d6b7ee18",
+  "name": "Sylph",
+  "displayName": "Sylph",
+  "wiki": "Sylph",
+  "description": "Sylphs are elusive creatures. It is rumored that they commune with the gods.",
+  "effect": "A blessed creature",
+  "slot": "none",
+  "attributes": [
+    "egg",
+    "item",
+    "familiar",
+    "common"
+  ]
+}

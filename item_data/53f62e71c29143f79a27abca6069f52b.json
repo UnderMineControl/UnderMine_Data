@@ -1,0 +1,15 @@
+{
+  "guid": "53f62e71c29143f79a27abca6069f52b",
+  "name": "Pauldron",
+  "displayName": "Pauldron",
+  "wiki": "Pauldron",
+  "description": "It's common knowledge that the larger the shoulder pads, the more experience the warrior.",
+  "effect": "Adds a point of armor to the health bar",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

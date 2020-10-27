@@ -1,0 +1,14 @@
+{
+  "guid": "3bf7b541f02f4bbb9c7bafebdb7fd41e",
+  "name": "SweatyFingers",
+  "displayName": "Sweaty Fingers",
+  "wiki": "Sweaty_Fingers",
+  "description": "The rest of the hands are dry. It is just the fingers that are sweaty.",
+  "effect": "Chance to lose a key when you take damage",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "e8cff42469714a73b49def4009b3dfd9",
+  "name": "Ineptitude",
+  "displayName": "Ineptitude",
+  "wiki": "Ineptitude",
+  "description": "\"Where did I leave my goldsack?\" - Unemployed peasant",
+  "effect": "Lose more gold on death",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

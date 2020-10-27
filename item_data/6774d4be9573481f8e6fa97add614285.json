@@ -1,0 +1,15 @@
+{
+  "guid": "6774d4be9573481f8e6fa97add614285",
+  "name": "AdventurersHat",
+  "displayName": "Adventurer's Hat",
+  "wiki": "Adventurer%27s_Hat",
+  "description": "Suitable attire for spelunking in dank caverns, exploring dusty tombs, and that's about it...",
+  "effect": "Discover more secret rooms",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

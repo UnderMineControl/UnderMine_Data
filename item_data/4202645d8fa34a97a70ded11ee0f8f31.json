@@ -1,0 +1,15 @@
+{
+  "guid": "4202645d8fa34a97a70ded11ee0f8f31",
+  "name": "KarmicScale",
+  "displayName": "Karmic Scale",
+  "wiki": "Karmic_Scale",
+  "description": "A powerful relic that restores balance and order to the world. Positive and negative become one.",
+  "effect": "Health, damage, and healing become small and even",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

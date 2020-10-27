@@ -1,0 +1,15 @@
+{
+  "guid": "c0ee06997e624cd88c68171930159fa1",
+  "name": "ArmorShard",
+  "displayName": "Armor Shard",
+  "wiki": "Armor_Shard",
+  "description": "\"Just a few hundred more of these bad boys and you'll have a real piece of armor.\" - Wayland, the Blacksmith",
+  "effect": "Refills a point of armor",
+  "slot": "item",
+  "attributes": [
+    "item",
+    "armorshard",
+    "basic",
+    "common"
+  ]
+}

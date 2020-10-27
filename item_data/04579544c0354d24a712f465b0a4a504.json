@@ -1,0 +1,15 @@
+{
+  "guid": "04579544c0354d24a712f465b0a4a504",
+  "name": "IncendiaryBombs",
+  "displayName": "Seer's Blood",
+  "wiki": "Seer%27s_Blood",
+  "description": "Blood of the salamander. Kept only in check, by the blood of her brother.",
+  "effect": "Bombs explode in a shower of fire",
+  "slot": "bomb",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

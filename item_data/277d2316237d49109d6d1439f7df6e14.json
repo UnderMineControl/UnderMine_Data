@@ -1,0 +1,15 @@
+{
+  "guid": "277d2316237d49109d6d1439f7df6e14",
+  "name": "Conductor",
+  "displayName": "Conductor",
+  "wiki": "Conductor",
+  "description": "Created with the golden entrails of a monster whose arrogance was unbound.",
+  "effect": "Electrify your enemies when picking up gold",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

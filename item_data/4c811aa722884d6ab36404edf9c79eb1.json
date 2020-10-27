@@ -1,0 +1,14 @@
+{
+  "guid": "4c811aa722884d6ab36404edf9c79eb1",
+  "name": "Mimephobia",
+  "displayName": "Metamfiezomaiophobia",
+  "wiki": "Metamfiezomaiophobia",
+  "description": "One's mind races and paranoia abounds, but is it paranoia when even the chests are out to get you?",
+  "effect": "More mimics than you would like",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

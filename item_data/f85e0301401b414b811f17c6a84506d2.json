@@ -1,0 +1,15 @@
+{
+  "guid": "f85e0301401b414b811f17c6a84506d2",
+  "name": "Phoenix",
+  "displayName": "Sol's Phoenix",
+  "wiki": "Sol%27s_Phoenix",
+  "description": "An ancient creature that performs a cycle of rebirth once every hundred years.",
+  "effect": "A guardian of the weak",
+  "slot": "none",
+  "attributes": [
+    "egg",
+    "item",
+    "familiar",
+    "rare"
+  ]
+}

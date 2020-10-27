@@ -1,0 +1,15 @@
+{
+  "guid": "6a41bdb034dd45549825a7b4f9198362",
+  "name": "BiscuitsPotion",
+  "displayName": "Biscuits",
+  "wiki": "Biscuits",
+  "description": "Beltrame, as part of her apprenticeship, developed a treat loved by all small creatures",
+  "effect": "Increse experience gain for a familiar.",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

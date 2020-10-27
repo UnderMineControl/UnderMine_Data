@@ -1,0 +1,15 @@
+{
+  "guid": "6ca902940c004d7c957fe367f77e7337",
+  "name": "UrsaMajor",
+  "displayName": "Ursa Major",
+  "wiki": "Ursa_Major",
+  "description": "Consume now, for the winter is long and the landscape desolate.",
+  "effect": "Increases max health after eating food",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

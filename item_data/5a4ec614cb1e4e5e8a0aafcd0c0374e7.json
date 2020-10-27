@@ -1,0 +1,13 @@
+{
+  "guid": "5a4ec614cb1e4e5e8a0aafcd0c0374e7",
+  "name": "Explosiveness",
+  "displayName": "Explosiveness",
+  "wiki": "Explosiveness",
+  "description": "\"Explosive\" can mean a lot of things, like being fast on foot, but here it is quite literal.",
+  "effect": "Deal more bomb damage",
+  "slot": "blessing",
+  "attributes": [
+    "blessing",
+    "common"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "6851f6a8812f4bcbabaa9a2414ec70d5",
+  "name": "Leftovers",
+  "displayName": "Leftovers",
+  "wiki": "Leftovers",
+  "description": "\"Food in a chest is downright normal compared to storing a turkey in the wall.\" - Dungeon Chef",
+  "effect": "Find old, gross food in chests",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

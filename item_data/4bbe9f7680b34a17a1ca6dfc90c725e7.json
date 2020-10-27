@@ -1,0 +1,15 @@
+{
+  "guid": "4bbe9f7680b34a17a1ca6dfc90c725e7",
+  "name": "ToxinPotion",
+  "displayName": "Toxin",
+  "wiki": "Toxin",
+  "description": "A thick, black oil consisting of venom from the kingdom's deadliest creatures. This poison acts quickly, reducing movement and inflicting pain.",
+  "effect": "Coat your weapon with poison",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

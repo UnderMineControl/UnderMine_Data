@@ -1,0 +1,10 @@
+{
+  "guid": "b1b125655e2c49d0bb911b5b85144918",
+  "name": "CollectorBook",
+  "slot": "artifact",
+  "attributes": [
+    "item",
+    "artifact",
+    "rare"
+  ]
+}

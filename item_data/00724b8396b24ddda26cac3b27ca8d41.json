@@ -1,0 +1,14 @@
+{
+  "guid": "00724b8396b24ddda26cac3b27ca8d41",
+  "name": "LowStock",
+  "displayName": "Low Stock",
+  "wiki": "Low_Stock",
+  "description": "Supply chains have been crushed, and the kingdom's river of goods run dry.",
+  "effect": "Reduced shop options",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

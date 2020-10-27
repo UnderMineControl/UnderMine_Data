@@ -1,0 +1,13 @@
+{
+  "guid": "c03f30d5004249e094562277dd286e8a",
+  "name": "Gust",
+  "displayName": "Gust",
+  "wiki": "Gust",
+  "description": "A tribe in the Storm Hills use a hunting technique that stuns animals with the force radiating from their arrows. Why they intentionally miss the animal is a mystery.",
+  "effect": "Increase throw attack size",
+  "slot": "blessing",
+  "attributes": [
+    "blessing",
+    "rare"
+  ]
+}

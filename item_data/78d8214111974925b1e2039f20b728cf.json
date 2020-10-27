@@ -1,0 +1,15 @@
+{
+  "guid": "78d8214111974925b1e2039f20b728cf",
+  "name": "Mune",
+  "displayName": "Mune",
+  "wiki": "Mune",
+  "description": "A long blade of legend, wielded by the sister. What it lacked in power, it made up for in reach.",
+  "effect": "Reduces swing damage and increases throw damage",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

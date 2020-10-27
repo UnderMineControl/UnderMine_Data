@@ -1,0 +1,14 @@
+{
+  "guid": "038c0066e235445a84153e8c9c450522",
+  "name": "PeasantJournal",
+  "displayName": "Journal",
+  "wiki": "Journal",
+  "description": "A blank journal enchanted by Arkanos. It automatically inscribes everything its bearer senses, so there is no need to put pen to paper. It is passed on to new peasants by the canary along with the goldsack. This way peasants can know what their predecessors witnessed, and maybe not share in their fate.",
+  "effect": "An enchanted journal",
+  "slot": "artifact",
+  "attributes": [
+    "item",
+    "artifact",
+    "rare"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "7dc2f7af7fd34fe3b6d5d92f30d20acd",
+  "name": "Imbalance",
+  "displayName": "Imbalance",
+  "wiki": "Imbalance",
+  "description": "Every wobbly step, every flinch of the arm worms its way into the brain and feeds a lack of confidence.",
+  "effect": "Deal less throw damage",
+  "slot": "minor_curse",
+  "attributes": [
+    "curse",
+    "minor",
+    "common"
+  ]
+}

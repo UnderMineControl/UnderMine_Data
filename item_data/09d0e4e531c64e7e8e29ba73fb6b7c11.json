@@ -1,0 +1,14 @@
+{
+  "guid": "09d0e4e531c64e7e8e29ba73fb6b7c11",
+  "name": "BloodiedLocks",
+  "displayName": "Bloodied Locks",
+  "wiki": "Bloodied_Locks",
+  "description": "In the catacombs many walls have shallow ruts in the shape of a hand, and dozens of spines facing outwards at the base of those ruts.",
+  "effect": "Lock costs are converted to health",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

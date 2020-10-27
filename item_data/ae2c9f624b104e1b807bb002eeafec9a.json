@@ -1,0 +1,13 @@
+{
+  "guid": "ae2c9f624b104e1b807bb002eeafec9a",
+  "name": "Torment",
+  "displayName": "Siegfried's Torment",
+  "wiki": "Siegfried%27s_Torment",
+  "description": "While his shield may be purified, the memory of the nightmare lives on.",
+  "effect": "Adds an indestructible curse on every floor",
+  "slot": "hex",
+  "attributes": [
+    "hex",
+    "common"
+  ]
+}

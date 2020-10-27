@@ -1,0 +1,15 @@
+{
+  "guid": "15c7f082e7454fc38695e6152782bbf9",
+  "name": "ChestInABottle",
+  "displayName": "Chest in a Bottle",
+  "wiki": "Chest_in_a_Bottle",
+  "description": "A big fad during the Enlightenment was to have a replica chest in a bottle on your bookshelf.",
+  "effect": "Drop a random chest",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

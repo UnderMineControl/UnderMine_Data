@@ -1,0 +1,15 @@
+{
+  "guid": "69994ce940d94e439ab01d04a9c176e7",
+  "name": "Tent",
+  "displayName": "Tent",
+  "wiki": "Tent",
+  "description": "Sometimes, the best thing to do is just take a nap.",
+  "effect": "Adds a tent to the starting room of a floor, one use only",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

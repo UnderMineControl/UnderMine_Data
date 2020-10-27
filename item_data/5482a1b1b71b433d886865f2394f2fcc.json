@@ -1,0 +1,15 @@
+{
+  "guid": "5482a1b1b71b433d886865f2394f2fcc",
+  "name": "ElectrifiedOrb",
+  "displayName": "Electrified Orb",
+  "wiki": "Electrified_Orb",
+  "description": "The orb has no preference on its owner. Its only desire is to orbit something.",
+  "effect": "Orbits the peasant and shocks enemies on contact",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

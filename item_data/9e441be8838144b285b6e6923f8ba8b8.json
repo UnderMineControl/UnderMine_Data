@@ -1,0 +1,14 @@
+{
+  "guid": "9e441be8838144b285b6e6923f8ba8b8",
+  "name": "BottleStopper",
+  "displayName": "Bottle Stopper",
+  "wiki": "Bottle_Stopper",
+  "description": "Derived by a straight-edge wizard that enjoyed ruining everyone's fun.",
+  "effect": "Carry fewer potions",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

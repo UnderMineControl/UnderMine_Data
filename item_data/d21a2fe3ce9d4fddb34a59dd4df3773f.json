@@ -1,0 +1,15 @@
+{
+  "guid": "d21a2fe3ce9d4fddb34a59dd4df3773f",
+  "name": "Devotion",
+  "displayName": "Devotion",
+  "wiki": "Devotion",
+  "description": "Din is a god of gifts, but requires loyalty from his subjects.",
+  "effect": "Pray twice at altars",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

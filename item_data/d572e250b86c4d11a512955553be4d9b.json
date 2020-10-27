@@ -1,0 +1,13 @@
+{
+  "guid": "d572e250b86c4d11a512955553be4d9b",
+  "name": "Demolition",
+  "displayName": "Demolition",
+  "wiki": "Demolition",
+  "description": "Be careful what you pray for.",
+  "effect": "Increases bomb size",
+  "slot": "blessing",
+  "attributes": [
+    "blessing",
+    "common"
+  ]
+}

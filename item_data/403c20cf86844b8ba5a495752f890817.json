@@ -1,0 +1,15 @@
+{
+  "guid": "403c20cf86844b8ba5a495752f890817",
+  "name": "ShortWicks",
+  "displayName": "Short Wicks",
+  "wiki": "Short_Wicks",
+  "description": "A bundle of wicks, all cut short by a bombardier that lived dangerously.",
+  "effect": "Reduces the bomb cooldown",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

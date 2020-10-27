@@ -1,0 +1,13 @@
+{
+  "guid": "6c6b1f43ea8d43e0ba473b4080c5dac6",
+  "name": "Savagery",
+  "displayName": "Savagery",
+  "wiki": "Savagery",
+  "description": "Channel the lust for blood. Aim it at an enemy. Destroy them entirely.",
+  "effect": "Increase chance to critical strike",
+  "slot": "blessing",
+  "attributes": [
+    "blessing",
+    "common"
+  ]
+}

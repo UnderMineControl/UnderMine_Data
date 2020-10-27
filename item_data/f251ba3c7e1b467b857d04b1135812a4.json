@@ -1,0 +1,10 @@
+{
+  "guid": "f251ba3c7e1b467b857d04b1135812a4",
+  "name": "MapHall",
+  "slot": "artifact",
+  "attributes": [
+    "item",
+    "artifact",
+    "rare"
+  ]
+}

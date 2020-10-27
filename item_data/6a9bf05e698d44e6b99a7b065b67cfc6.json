@@ -1,0 +1,13 @@
+{
+  "guid": "6a9bf05e698d44e6b99a7b065b67cfc6",
+  "name": "Ferocity",
+  "displayName": "Ferocity",
+  "wiki": "Ferocity",
+  "description": "\"Despite all my rage, I'm still just a rat in a cage.\"",
+  "effect": "Increase critical strike damage",
+  "slot": "blessing",
+  "attributes": [
+    "blessing",
+    "common"
+  ]
+}

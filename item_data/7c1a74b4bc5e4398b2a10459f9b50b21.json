@@ -1,0 +1,15 @@
+{
+  "guid": "7c1a74b4bc5e4398b2a10459f9b50b21",
+  "name": "UnstableConcoction",
+  "displayName": "Unstable Concoction",
+  "wiki": "Unstable_Concoction",
+  "description": "A substance that combines with gold and force to create devastating effects.",
+  "effect": "Gold hits the floor with explosive force",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

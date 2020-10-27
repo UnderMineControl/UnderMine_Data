@@ -1,0 +1,15 @@
+{
+  "guid": "27497c3cdd91494ba066eb45ee59d528",
+  "name": "PartyPopcornPotion",
+  "displayName": "Rainbow Kernels",
+  "wiki": "Rainbow_Kernels",
+  "description": "These kernels are ready to party.",
+  "effect": "Duplicate almost everything in the room",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

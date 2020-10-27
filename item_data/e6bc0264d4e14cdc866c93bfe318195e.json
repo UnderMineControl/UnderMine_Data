@@ -1,0 +1,15 @@
+{
+  "guid": "e6bc0264d4e14cdc866c93bfe318195e",
+  "name": "Monkey",
+  "displayName": "Nikko",
+  "wiki": "Nikko",
+  "description": "Was once a pet to Baba. Nikko escaped, and it is rumored he has been plotting his revenge ever since.",
+  "effect": "A hard punching apeian",
+  "slot": "none",
+  "attributes": [
+    "egg",
+    "item",
+    "familiar",
+    "rare"
+  ]
+}

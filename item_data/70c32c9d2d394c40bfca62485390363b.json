@@ -1,0 +1,14 @@
+{
+  "guid": "70c32c9d2d394c40bfca62485390363b",
+  "name": "Enfeebled",
+  "displayName": "Enfeebled",
+  "wiki": "Enfeebled",
+  "description": "Age catches up with us all.",
+  "effect": "Reduced maximum health",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

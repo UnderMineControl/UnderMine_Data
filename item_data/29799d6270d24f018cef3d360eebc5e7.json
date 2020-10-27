@@ -1,0 +1,15 @@
+{
+  "guid": "29799d6270d24f018cef3d360eebc5e7",
+  "name": "DemonRing",
+  "displayName": "Demon Ring",
+  "wiki": "Demon_Ring",
+  "description": "A ring passed down from generation to generation until it was lost by a careless child demon.",
+  "effect": "Increase swing damage",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

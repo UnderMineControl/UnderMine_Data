@@ -1,0 +1,15 @@
+{
+  "guid": "3776afb876a74e50911b6d3080f0388d",
+  "name": "RatBond",
+  "displayName": "Rat Bond",
+  "wiki": "Rat_Bond",
+  "description": "A token of friendship between peasant and pest.",
+  "effect": "Become charming to rats",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

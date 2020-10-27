@@ -1,0 +1,14 @@
+{
+  "guid": "b578c14ad2b4493a8e8187c46e675f16",
+  "name": "FastMetabolism",
+  "displayName": "Fast Metabolism",
+  "wiki": "Fast_Metabolism",
+  "description": "Blessed with a cut jawline and sinewy limbs, but cursed with the inability to maintain a buzz.",
+  "effect": "Decreases potion duration",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

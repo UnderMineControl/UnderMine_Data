@@ -1,0 +1,13 @@
+{
+  "guid": "db74061ad7994cfe81f8bd40d276b544",
+  "name": "CrystalLightning",
+  "displayName": "Electrorock",
+  "wiki": "Electrorock",
+  "description": "Originally discovered by the geologist Moog, who was later able to synthesize it using custom built tools.",
+  "effect": "Imbue your weapon with lightning",
+  "slot": "none",
+  "attributes": [
+    "misc",
+    "common"
+  ]
+}

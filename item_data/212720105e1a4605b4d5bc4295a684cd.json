@@ -1,0 +1,15 @@
+{
+  "guid": "212720105e1a4605b4d5bc4295a684cd",
+  "name": "DoomBlade",
+  "displayName": "Doom Blade",
+  "wiki": "Doom_Blade",
+  "description": "Sword of the greater demon Zodd. It only grants its power to cursed individuals.",
+  "effect": "Gain damage for each carried curse",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

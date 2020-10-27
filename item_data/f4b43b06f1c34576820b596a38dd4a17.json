@@ -1,0 +1,14 @@
+{
+  "guid": "f4b43b06f1c34576820b596a38dd4a17",
+  "name": "Mediocrity",
+  "displayName": "Mediocrity",
+  "wiki": "Mediocrity",
+  "description": "Live up to the challenge, or die in mediocrity.",
+  "effect": "Can no longer critical strike",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

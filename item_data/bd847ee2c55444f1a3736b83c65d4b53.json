@@ -1,0 +1,13 @@
+{
+  "guid": "bd847ee2c55444f1a3736b83c65d4b53",
+  "name": "CanisMajorBuff",
+  "displayName": "Canis Major",
+  "wiki": "Canis_Major",
+  "description": "The dogs of dogs. Strong, loyal, and above all else, fierce.",
+  "effect": "Crits temporarily increase crit chance",
+  "slot": "none",
+  "attributes": [
+    "misc",
+    "common"
+  ]
+}

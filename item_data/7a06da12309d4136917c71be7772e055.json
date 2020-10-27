@@ -1,0 +1,15 @@
+{
+  "guid": "7a06da12309d4136917c71be7772e055",
+  "name": "TsarBomba",
+  "displayName": "Tsar Bomba",
+  "wiki": "Tsar_Bomba",
+  "description": "A strange duplication device that attaches to any kind of bomb. Beware of side effects.",
+  "effect": "Killing enemies with a bomb spawns a new bomb. Carried bombs decrease swing and throw damage.",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

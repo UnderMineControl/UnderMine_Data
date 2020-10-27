@@ -1,0 +1,15 @@
+{
+  "guid": "df251e38396f44119823faa3840db809",
+  "name": "DecursePotion",
+  "displayName": "Holy Water",
+  "wiki": "Holy_Water",
+  "description": "Apothecaries often overcharge for holy water knowing they have the market cornered.",
+  "effect": "Remove a curse",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

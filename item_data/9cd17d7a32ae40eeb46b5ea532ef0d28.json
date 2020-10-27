@@ -1,0 +1,10 @@
+{
+  "guid": "9cd17d7a32ae40eeb46b5ea532ef0d28",
+  "name": "BasicGloves",
+  "displayName": "Gloves",
+  "slot": "none",
+  "attributes": [
+    "misc",
+    "common"
+  ]
+}

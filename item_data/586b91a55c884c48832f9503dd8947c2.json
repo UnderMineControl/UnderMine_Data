@@ -1,0 +1,15 @@
+{
+  "guid": "586b91a55c884c48832f9503dd8947c2",
+  "name": "CaramelPopcorn",
+  "displayName": "Caramel Popcorn",
+  "wiki": "Caramel_Popcorn",
+  "description": "Sweet and savory meet.",
+  "effect": "Duplicated food packs a surprise",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

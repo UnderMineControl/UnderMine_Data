@@ -1,0 +1,14 @@
+{
+  "guid": "cbb64a4dc4da4587b3273a50c2a53cc3",
+  "name": "ExplosiveDecompression",
+  "displayName": "Explosive Decompression",
+  "wiki": "Explosive_Decompression",
+  "description": "The explosion can be heard by Pilfers for miles.",
+  "effect": "All ore is mined when entering a room",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

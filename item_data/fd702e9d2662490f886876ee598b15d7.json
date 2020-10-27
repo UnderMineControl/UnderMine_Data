@@ -1,0 +1,15 @@
+{
+  "guid": "fd702e9d2662490f886876ee598b15d7",
+  "name": "Battlestandard",
+  "displayName": "Battle Standard",
+  "wiki": "Battle_Standard",
+  "description": "Even peasants can intimidate their enemies with the correct livery.",
+  "effect": "Increases move, attack, and throw speed at the beginning of battle",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

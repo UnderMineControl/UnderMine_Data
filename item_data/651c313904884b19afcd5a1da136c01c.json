@@ -1,0 +1,15 @@
+{
+  "guid": "651c313904884b19afcd5a1da136c01c",
+  "name": "MediocreRing",
+  "displayName": "Mediocre Ring",
+  "wiki": "Mediocre_Ring",
+  "description": "This ring could never decide what it wanted to be, so now it's just okay at a couple of things.",
+  "effect": "Increases health and damage",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

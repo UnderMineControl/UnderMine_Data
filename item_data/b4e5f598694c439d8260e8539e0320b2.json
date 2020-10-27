@@ -1,0 +1,15 @@
+{
+  "guid": "b4e5f598694c439d8260e8539e0320b2",
+  "name": "Guidance",
+  "displayName": "Guidance",
+  "wiki": "Guidance",
+  "description": "A comforting force that ensures everything is where it needs to be.",
+  "effect": "Ricochet the thrown pickaxe",
+  "slot": "gloves",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

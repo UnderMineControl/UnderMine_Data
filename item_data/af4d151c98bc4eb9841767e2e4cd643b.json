@@ -1,0 +1,14 @@
+{
+  "guid": "af4d151c98bc4eb9841767e2e4cd643b",
+  "name": "RelicEater",
+  "displayName": "Relic Eater",
+  "wiki": "Relic_Eater",
+  "description": "A curse that thirsts for power, but is left unsatisfied when it tastes it.",
+  "effect": "Killing enemies destroys a relicKilling enemies destroys a relic",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

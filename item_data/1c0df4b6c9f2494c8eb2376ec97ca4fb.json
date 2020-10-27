@@ -1,0 +1,15 @@
+{
+  "guid": "1c0df4b6c9f2494c8eb2376ec97ca4fb",
+  "name": "AuglycerinPotion",
+  "displayName": "Auglycerin",
+  "wiki": "Auglycerin",
+  "description": "This potion was created at the request of a very wealthy lord who wanted to hide his vast fortune.",
+  "effect": "Drop gold continuously",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "993daf5814304f9da36d0080fe4b9cbc",
+  "name": "Sagitta",
+  "displayName": "Sagitta",
+  "wiki": "Sagitta",
+  "description": "A drawn arrow holds the energy to destroy its target. Guide it.",
+  "effect": "Enemies explode in arrows after a critical strike",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

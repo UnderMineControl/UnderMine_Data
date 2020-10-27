@@ -1,0 +1,14 @@
+{
+  "guid": "8396a93bb7214647a3dc381a94ca193d",
+  "name": "BottleBlight",
+  "displayName": "Bottle Blight",
+  "wiki": "Bottle_Blight",
+  "description": "An odd affliction that takes issue with bottle substances. Or is it the bottles themselves?",
+  "effect": "Take damage for each of your potions, each room",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

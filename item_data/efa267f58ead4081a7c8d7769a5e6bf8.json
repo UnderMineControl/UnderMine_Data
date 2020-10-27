@@ -1,0 +1,15 @@
+{
+  "guid": "efa267f58ead4081a7c8d7769a5e6bf8",
+  "name": "SalamanderTail",
+  "displayName": "Salamander Tail",
+  "wiki": "Salamander_Tail",
+  "description": "Separated from the legendary creature Seer, the tail still writhes in agony.",
+  "effect": "Chance on hit to ignite your enemies",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

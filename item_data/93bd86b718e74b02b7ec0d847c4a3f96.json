@@ -1,0 +1,14 @@
+{
+  "guid": "93bd86b718e74b02b7ec0d847c4a3f96",
+  "name": "MapCavernWarp",
+  "displayName": "Caverns Map",
+  "wiki": "Caverns_Map",
+  "description": "Beyond the Halls of Din are the Shimmering Caverns, a labyrinth of bright crystal and sparkling sand. The caverns have seen very little human activity, but there are remnants of some civilization, long dead, or long left. After some study, it seems the sand in the caverns may be the remnants of Scales, pulverized over the centuries into shimmering dust.",
+  "effect": "Unlocks fast travel to The Shimmering Caverns",
+  "slot": "artifact",
+  "attributes": [
+    "item",
+    "artifact",
+    "common"
+  ]
+}

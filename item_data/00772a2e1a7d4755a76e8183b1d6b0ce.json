@@ -1,0 +1,15 @@
+{
+  "guid": "00772a2e1a7d4755a76e8183b1d6b0ce",
+  "name": "AlacrityPotion",
+  "displayName": "Alacrity Serum",
+  "wiki": "Alacrity_Serum",
+  "description": "Some say that the origins of this potion lead back to a goblin alchemist and that the recipe was stolen by the human kingdom of Delvemore.",
+  "effect": "Temporarily increases attack speed",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "1e7be481409349c9bfd91d83372ca68b",
+  "name": "Illness",
+  "displayName": "Illness",
+  "wiki": "Illness",
+  "description": "Even the mightiest of kings succumbs to illness.",
+  "effect": "Healing is less effective",
+  "slot": "minor_curse",
+  "attributes": [
+    "curse",
+    "minor",
+    "common"
+  ]
+}

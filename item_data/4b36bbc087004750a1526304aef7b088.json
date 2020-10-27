@@ -1,0 +1,15 @@
+{
+  "guid": "4b36bbc087004750a1526304aef7b088",
+  "name": "108Beads",
+  "displayName": "108 Beads",
+  "wiki": "108_Beads",
+  "description": "Smells of sandalwood.",
+  "effect": "Heal when praying at an altar",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

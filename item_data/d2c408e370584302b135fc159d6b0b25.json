@@ -1,0 +1,15 @@
+{
+  "guid": "d2c408e370584302b135fc159d6b0b25",
+  "name": "GhostlyIchorPotion",
+  "displayName": "Ghostly Ichor",
+  "wiki": "Ghostly_Ichor",
+  "description": "Scentless fumes arise from the liquid, rejuvenating tired bones.",
+  "effect": "Heal over time for each curse",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

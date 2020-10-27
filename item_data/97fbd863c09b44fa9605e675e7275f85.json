@@ -1,0 +1,15 @@
+{
+  "guid": "97fbd863c09b44fa9605e675e7275f85",
+  "name": "CosmicEgg",
+  "displayName": "Cosmic Egg",
+  "wiki": "Cosmic_Egg",
+  "description": "An egg, rumored to exist since before creation, births and nurtures fantastic creatures",
+  "effect": "Increases experience gain for a familiar",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

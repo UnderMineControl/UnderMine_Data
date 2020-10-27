@@ -1,0 +1,15 @@
+{
+  "guid": "cda68d3762ef4aa6bc5b00e2f8eeec6d",
+  "name": "TransmuterInABottle",
+  "displayName": "TRANSMUT3 in a Bottle",
+  "wiki": "TRANSMUT3_in_a_Bottle",
+  "description": "\"Miniaturization technology and transmutation technology? What a time to be alive.\" -- Unknown Alchemist",
+  "effect": "Add a TRANSMUT3 to the room",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

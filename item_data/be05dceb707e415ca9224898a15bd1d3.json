@@ -1,0 +1,15 @@
+{
+  "guid": "be05dceb707e415ca9224898a15bd1d3",
+  "name": "Duplicator",
+  "displayName": "Duplicator",
+  "wiki": "Duplicator",
+  "description": "It's quite easy to make two of something. You first take one of something, then you double it.",
+  "effect": "Relic rooms present a tantalizing choice",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

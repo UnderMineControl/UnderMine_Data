@@ -1,0 +1,15 @@
+{
+  "guid": "189b6fc98b1849ea848523610481af7d",
+  "name": "ButchersClover",
+  "displayName": "Four Leaf Cleaver",
+  "wiki": "Four_Leaf_Cleaver",
+  "description": "Much luckier than a Four Leaf Clover. Much deadlier too.",
+  "effect": "Sometimes drop golden meat from your enemies",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

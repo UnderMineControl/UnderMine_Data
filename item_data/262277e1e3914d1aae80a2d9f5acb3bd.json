@@ -1,0 +1,15 @@
+{
+  "guid": "262277e1e3914d1aae80a2d9f5acb3bd",
+  "name": "MinersFlask",
+  "displayName": "Miner's Flask",
+  "wiki": "Miner%27s_Flask",
+  "description": "A sneaky little vessel with something left over for the new owner.",
+  "effect": "Feel the effects of a potion for longer",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

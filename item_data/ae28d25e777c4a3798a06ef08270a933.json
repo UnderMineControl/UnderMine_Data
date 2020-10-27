@@ -1,0 +1,13 @@
+{
+  "guid": "ae28d25e777c4a3798a06ef08270a933",
+  "name": "CrystalFire",
+  "displayName": "Seertooth",
+  "wiki": "Seertooth",
+  "description": "Named after the legendary fire lord, this rare rock is extremely hot to the touch.",
+  "effect": "Imbue your weapon with fire",
+  "slot": "none",
+  "attributes": [
+    "misc",
+    "common"
+  ]
+}

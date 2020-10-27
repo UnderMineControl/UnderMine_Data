@@ -1,0 +1,15 @@
+{
+  "guid": "25a2fe2d57a34b6598d34cbbb58fdeb0",
+  "name": "Galoshes",
+  "displayName": "Galoshes",
+  "wiki": "Galoshes",
+  "description": "The first galoshes were just two oil jumpers strapped to your feet.",
+  "effect": "Walk and jump on oil",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

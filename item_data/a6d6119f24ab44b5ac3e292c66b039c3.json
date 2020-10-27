@@ -1,0 +1,14 @@
+{
+  "guid": "a6d6119f24ab44b5ac3e292c66b039c3",
+  "name": "BlessingEater",
+  "displayName": "Blessing Eater",
+  "wiki": "Blessing_Eater",
+  "description": "A spiteful curse that hungers for favor.",
+  "effect": "Killing enemies destroys a blessing",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

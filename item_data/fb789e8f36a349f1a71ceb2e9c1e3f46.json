@@ -1,0 +1,15 @@
+{
+  "guid": "fb789e8f36a349f1a71ceb2e9c1e3f46",
+  "name": "StrengthPotion",
+  "displayName": "Strength Serum",
+  "wiki": "Strength_Serum",
+  "description": "Developed by the goblin alchemist Wrix who studied and was inspired by the strength of the feral orcs.",
+  "effect": "Temporarily increases swing damage",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

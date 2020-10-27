@@ -1,0 +1,15 @@
+{
+  "guid": "1cfe53e981a24b7cbbad91669f5ac52e",
+  "name": "StarlightSip",
+  "displayName": "Starlight Sip",
+  "wiki": "Starlight_Sip",
+  "description": "A stern warning adorns the bottle: \"More than a sip may cause extinction!\"",
+  "effect": "Pull the heavens down onto your foes",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

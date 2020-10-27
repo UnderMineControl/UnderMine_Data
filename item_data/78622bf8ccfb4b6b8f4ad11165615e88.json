@@ -1,0 +1,15 @@
+{
+  "guid": "78622bf8ccfb4b6b8f4ad11165615e88",
+  "name": "QueenBombs",
+  "displayName": "Queen's Bomb",
+  "wiki": "Queen%27s_Bomb",
+  "description": "Queen taught her sons everything she knows. but they were schooled on alternating days.",
+  "effect": "Death in all directions",
+  "slot": "bomb",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

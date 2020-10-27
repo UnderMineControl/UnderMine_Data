@@ -1,0 +1,15 @@
+{
+  "guid": "84e344cdca10420a9db29efbd3d1dc72",
+  "name": "ProteinPotion",
+  "displayName": "Protein Shake",
+  "wiki": "Protein_Shake",
+  "description": "It's not so much about bulking up, it's more about surviving winter.",
+  "effect": "Drop some protein",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

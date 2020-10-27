@@ -1,0 +1,14 @@
+{
+  "guid": "a73024497040468a9daf7790a9167b1e",
+  "name": "SweatyPalms",
+  "displayName": "Sweaty Palms",
+  "wiki": "Sweaty_Palms",
+  "description": "The first rule of transporting explosives to make sure they are fastened securely.",
+  "effect": "Chance to lose a bomb when you take damage",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

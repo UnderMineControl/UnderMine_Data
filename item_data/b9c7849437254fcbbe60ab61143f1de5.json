@@ -1,0 +1,15 @@
+{
+  "guid": "b9c7849437254fcbbe60ab61143f1de5",
+  "name": "GhostPepperSauce",
+  "displayName": "Ghost Pepper Sauce",
+  "wiki": "Ghost_Pepper_Sauce",
+  "description": "Protects against physical burns, but not emotional ones.",
+  "effect": "Become immune to fire damage and ignite yourself",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

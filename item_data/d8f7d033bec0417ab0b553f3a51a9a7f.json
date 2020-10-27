@@ -1,0 +1,15 @@
+{
+  "guid": "d8f7d033bec0417ab0b553f3a51a9a7f",
+  "name": "SewingKit",
+  "displayName": "Sewing Kit",
+  "wiki": "Sewing_Kit",
+  "description": "The best investment for the future is a needle and some thread.",
+  "effect": "Keep all your gold when you die",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

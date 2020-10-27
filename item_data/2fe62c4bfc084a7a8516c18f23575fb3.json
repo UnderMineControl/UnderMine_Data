@@ -1,0 +1,15 @@
+{
+  "guid": "2fe62c4bfc084a7a8516c18f23575fb3",
+  "name": "AxeThrowersPendant",
+  "displayName": "Axe Thrower's Pendant",
+  "wiki": "Axe_Thrower%27s_Pendant",
+  "description": "A simple metal choker inscribed with the crest of the hill troll tribe.",
+  "effect": "Deal more throw damage at low health",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

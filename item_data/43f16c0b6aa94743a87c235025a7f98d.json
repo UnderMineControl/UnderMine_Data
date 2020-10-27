@@ -1,0 +1,15 @@
+{
+  "guid": "43f16c0b6aa94743a87c235025a7f98d",
+  "name": "ChurchbellNectarPotion",
+  "displayName": "Churchbell Nectar",
+  "wiki": "Churchbell_Nectar",
+  "description": "An aromatic oil that wards off harm in small doses.",
+  "effect": "Creates a temporary Churchbell shield",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

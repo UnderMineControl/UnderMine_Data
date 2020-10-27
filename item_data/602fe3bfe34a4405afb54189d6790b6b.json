@@ -1,0 +1,14 @@
+{
+  "guid": "602fe3bfe34a4405afb54189d6790b6b",
+  "name": "HealthMCooked",
+  "displayName": "Cajun Fish Kebab",
+  "wiki": "Cajun_Fish_Kebab",
+  "desription": "Some call it burned, others call it caramelized.",
+  "effect": "Restores a moderate amount of health",
+  "slot": "food",
+  "attributes": [
+    "item",
+    "health",
+    "common"
+  ]
+}

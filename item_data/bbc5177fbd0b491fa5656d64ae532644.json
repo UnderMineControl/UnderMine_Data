@@ -1,0 +1,14 @@
+{
+  "guid": "bbc5177fbd0b491fa5656d64ae532644",
+  "name": "Arthritis",
+  "displayName": "Arthritis",
+  "wiki": "Arthritis",
+  "description": "The pains of time crawl through the bones, slowing the once quick reflexes of youth.",
+  "effect": "Decreases swing speed",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

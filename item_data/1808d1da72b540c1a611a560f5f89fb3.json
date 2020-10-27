@@ -1,0 +1,15 @@
+{
+  "guid": "1808d1da72b540c1a611a560f5f89fb3",
+  "name": "SequenceBreaker",
+  "displayName": "Sequence Breaker",
+  "wiki": "Sequence_Breaker",
+  "description": "A contraption that allows the wearer to skip forward in time unbeknownst to others.",
+  "effect": "Teleport to your pickaxe",
+  "slot": "gloves",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

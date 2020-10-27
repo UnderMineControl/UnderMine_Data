@@ -1,0 +1,13 @@
+{
+  "guid": "dda07778dd344b97a662927089fcaf67",
+  "name": "CircinusBuff",
+  "displayName": "Circinus Buff",
+  "wiki": "Circinus",
+  "description": "An explorer's tool that reveals any and all secrets.",
+  "effect": "Temporarily reveals secret rooms, secret rooms can have secret rooms",
+  "slot": "none",
+  "attributes": [
+    "misc",
+    "common"
+  ]
+}

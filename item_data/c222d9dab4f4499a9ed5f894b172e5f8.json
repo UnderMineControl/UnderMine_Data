@@ -1,0 +1,14 @@
+{
+  "guid": "c222d9dab4f4499a9ed5f894b172e5f8",
+  "name": "PowderShortage",
+  "displayName": "Powder Shortage",
+  "wiki": "Powder_Shortage",
+  "description": "A generation ago, three sulfur mines ran dry almost simultaneously. Bomb smiths made due, but mining operations slowed down considerably.",
+  "effect": "Dropping a bomb costs 2 bombs",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}

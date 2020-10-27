@@ -1,0 +1,15 @@
+{
+  "guid": "ed388fc9c09943bc987cf1c3388e8755",
+  "name": "SpareOrdinance",
+  "displayName": "Spare Ordinance",
+  "wiki": "Spare_Ordinance",
+  "description": "Normally it's unwise to use old, unstable explosives found in long forgotten chests. Normally.",
+  "effect": "Discover a bomb in every chest",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

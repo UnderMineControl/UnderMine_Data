@@ -1,0 +1,15 @@
+{
+  "guid": "5d26fe1e897249d080d4875b0c88fe66",
+  "name": "HealthLGolden",
+  "displayName": "Golden Ham",
+  "wiki": "Golden_Ham",
+  "description": "Not to be confused with a honey baked ham.",
+  "effect": "Gain even more gold",
+  "slot": "food",
+  "attributes": [
+    "resource",
+    "item",
+    "health",
+    "common"
+  ]
+}

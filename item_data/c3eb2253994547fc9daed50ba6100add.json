@@ -1,0 +1,14 @@
+{
+  "guid": "c3eb2253994547fc9daed50ba6100add",
+  "name": "MapHallWarp",
+  "displayName": "Halls Map",
+  "wiki": "Halls_Map",
+  "description": "The haunted halls have served many purposes and many masters over the centuries. They were originally built as a mausoleum for the royal family. Centuries later, and long after the royal family changed over, mages and alchemists setup libraries and labs. They had been run aground for their twisted ideas and propensity for the dark arts. Now the halls are home to no one, other than the twisted creations of blasphemers.",
+  "effect": "Unlocks fast travel to The Halls of Din",
+  "slot": "artifact",
+  "attributes": [
+    "item",
+    "artifact",
+    "common"
+  ]
+}

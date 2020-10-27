@@ -1,0 +1,13 @@
+{
+  "guid": "f2b806ffefcc4fd0b61b445852b877a9",
+  "name": "Nether1",
+  "displayName": "Nether",
+  "wiki": "Nether",
+  "description": "",
+  "effect": "Required for entering Othermine",
+  "slot": "none",
+  "attributes": [
+    "resource",
+    "common"
+  ]
+}

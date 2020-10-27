@@ -1,0 +1,15 @@
+{
+  "guid": "815f242a079240b8833a32c5f408e03a",
+  "name": "BrambleVest",
+  "displayName": "Bramble Vest",
+  "wiki": "Bramble_Vest",
+  "description": "The barbs are sharp and cruel. They dig into flesh and cloth alike.",
+  "effect": "Return damage but amplified",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

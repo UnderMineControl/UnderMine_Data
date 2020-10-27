@@ -1,0 +1,15 @@
+{
+  "guid": "49e257bc3ed04cde9e5b0a7089d7af10",
+  "name": "Mjolnir",
+  "displayName": "Mj�lnir",
+  "wiki": "Mj�lnir",
+  "description": "A hammer comprised entirely of thorium grants the power and wrath of the gods.",
+  "effect": "Summon lightning when the pickaxe is caught",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

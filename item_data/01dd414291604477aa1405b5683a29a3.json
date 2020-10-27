@@ -1,0 +1,15 @@
+{
+  "guid": "01dd414291604477aa1405b5683a29a3",
+  "name": "BrandingBombs",
+  "displayName": "Branding Bomb",
+  "wiki": "Branding_Bomb",
+  "description": "You have now been marked with the brand of sacrifice. The lives of those who bear the brand will be consumed.",
+  "effect": "Bombs brand enemies for sacrifice, +10 bombs",
+  "slot": "bomb",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

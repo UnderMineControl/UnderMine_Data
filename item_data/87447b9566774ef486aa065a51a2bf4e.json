@@ -1,0 +1,15 @@
+{
+  "guid": "87447b9566774ef486aa065a51a2bf4e",
+  "name": "Hyperstone",
+  "displayName": "Hyperstone",
+  "wiki": "Hyperstone",
+  "description": "The stone vibrates at such a frequency as to be mildly annoying.",
+  "effect": "Increase attack speed",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

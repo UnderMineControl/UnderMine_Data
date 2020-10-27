@@ -1,0 +1,15 @@
+{
+  "guid": "80242154d4284cc6aab221292cb0ae93",
+  "name": "HolyGuacamole",
+  "displayName": "Holy Guacamole",
+  "wiki": "Holy_Guacamole",
+  "description": "\"The most sacred food item is the avocado. The second most is the lime.\" - Griswold, The Collector",
+  "effect": "Find more altar rooms",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "rare"
+  ]
+}

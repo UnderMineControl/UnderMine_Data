@@ -1,0 +1,15 @@
+{
+  "guid": "fb374cc41c744cdbbbe227889cf001c4",
+  "name": "DoubleDoubler",
+  "displayName": "Double Doubler",
+  "wiki": "Double_Doubler",
+  "description": "When a single single isn't enough.",
+  "effect": "Chance to drop a key and bomb when using either",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

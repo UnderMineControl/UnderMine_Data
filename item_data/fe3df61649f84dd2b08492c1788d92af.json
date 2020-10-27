@@ -1,0 +1,15 @@
+{
+  "guid": "fe3df61649f84dd2b08492c1788d92af",
+  "name": "AphoticCharm",
+  "displayName": "Aphotic Charm",
+  "wiki": "Aphotic_Charm",
+  "description": "In the darkness there is light.",
+  "effect": "Heal in each new room for each curse",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

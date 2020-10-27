@@ -1,0 +1,15 @@
+{
+  "guid": "77af6531c8294f249cf55fd69c74bd8a",
+  "name": "ArchersPendant",
+  "displayName": "Archer's Pendant",
+  "wiki": "Archer%27s_Pendant",
+  "description": "Once a year an archery tournament is held in Delvemore. This pendant is the prize.",
+  "effect": "Deal more throw damage at high health",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

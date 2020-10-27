@@ -1,0 +1,15 @@
+{
+  "guid": "db4baf760be740b99ff679a838ee3ee4",
+  "name": "MirrorShield",
+  "displayName": "Mirror Shield",
+  "wiki": "Mirror_Shield",
+  "description": "Impervious to the passage of time, this ancient aegis has survived the rise and fall of countless kingdoms.",
+  "effect": "Automatically reflect projectiles",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

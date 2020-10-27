@@ -1,0 +1,15 @@
+{
+  "guid": "b0dd99d6f5184fb49df441af4bf298a5",
+  "name": "BombDoublingPotion",
+  "displayName": "Doubling Saison",
+  "wiki": "Doubling_Saison",
+  "description": "A farmhouse style brew, with a clean taste and low alcohol content. Served as a clean source of hydration for peasants.",
+  "effect": "Double your bombs",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

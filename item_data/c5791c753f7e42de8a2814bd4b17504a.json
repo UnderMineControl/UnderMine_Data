@@ -1,0 +1,15 @@
+{
+  "guid": "c5791c753f7e42de8a2814bd4b17504a",
+  "name": "Masamune",
+  "displayName": "Masamune",
+  "wiki": "Masamune",
+  "description": "\"If on your journey, you should encounter a god, a god will be cut.\"",
+  "effect": "Instantly kills enemies sometimes",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "bfe7c47be6fc4bdbb86e364a6b1cf076",
+  "name": "RegenPotion",
+  "displayName": "Troll Sweat",
+  "wiki": "Troll_Sweat",
+  "description": "\"You want to make sure your troll is hydrated if you're to extract the good stuff.\" - Dirk, the Alchemist",
+  "effect": "Regenerate health over time",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "guid": "7ca4f0f6567c4b348fd6ccae072dbded",
+  "name": "Aether",
+  "displayName": "Aether",
+  "wiki": "Aether",
+  "description": "An exceptionally hard to find potion, as there is only a single alchemist in the kingdom that knows its recipe.",
+  "effect": "Remove a specific curse",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "common"
+  ]
+}

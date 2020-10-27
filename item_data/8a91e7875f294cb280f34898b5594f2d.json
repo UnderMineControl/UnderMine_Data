@@ -1,0 +1,15 @@
+{
+  "guid": "8a91e7875f294cb280f34898b5594f2d",
+  "name": "CircleTransmutePotion",
+  "displayName": "Circle of Transmutation",
+  "wiki": "Circle_of_Transmutation",
+  "description": "Bends matter in a small area, but the process is increadibly strenuous.",
+  "effect": "Transmutes items in a small circle, but makes them fragile",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

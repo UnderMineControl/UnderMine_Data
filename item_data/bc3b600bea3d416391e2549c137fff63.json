@@ -1,0 +1,15 @@
+{
+  "guid": "bc3b600bea3d416391e2549c137fff63",
+  "name": "GoldenIdol",
+  "displayName": "Golden Idol",
+  "wiki": "Golden_Idol",
+  "description": "A golden idol of the god Din. Probably belongs in a museum.",
+  "effect": "Discover more rooms and get rich",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

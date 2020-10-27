@@ -1,0 +1,15 @@
+{
+  "guid": "17392f3e7d05485a800ddcd201bfb98c",
+  "name": "MidasTouchPotion",
+  "displayName": "Midas Touch",
+  "wiki": "Midas_Touch",
+  "description": "A label affixed to the bottom reads: \"Warning: Do not ingest.\"",
+  "effect": "All enemies are turned to gold",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

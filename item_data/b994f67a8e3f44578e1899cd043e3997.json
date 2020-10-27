@@ -1,0 +1,15 @@
+{
+  "guid": "b994f67a8e3f44578e1899cd043e3997",
+  "name": "SeltsBlood",
+  "displayName": "Selt's Blood",
+  "wiki": "Selt%27s_Blood",
+  "description": "A drop of Selt's blood was used to synthesize a potion that can replicate her reproductive capabilities.",
+  "effect": "Spawn Larvae",
+  "slot": "potion",
+  "attributes": [
+    "recipe",
+    "potion",
+    "item",
+    "rare"
+  ]
+}

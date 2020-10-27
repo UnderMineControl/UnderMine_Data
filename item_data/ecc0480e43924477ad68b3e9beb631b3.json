@@ -1,0 +1,15 @@
+{
+  "guid": "ecc0480e43924477ad68b3e9beb631b3",
+  "name": "Ara",
+  "displayName": "Ara",
+  "wiki": "Ara",
+  "description": "Also known as \"The Altar.\" This constellation protects against bad omens, for a while.",
+  "effect": "Consumes a future curse after praying",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

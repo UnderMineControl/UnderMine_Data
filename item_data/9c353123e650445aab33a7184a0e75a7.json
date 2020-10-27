@@ -1,0 +1,15 @@
+{
+  "guid": "9c353123e650445aab33a7184a0e75a7",
+  "name": "HealthSGolden",
+  "displayName": "Golden Steak",
+  "wiki": "Golden_Steak",
+  "description": "Not particularly appetizing, but can buy something that is.",
+  "effect": "Gain some gold",
+  "slot": "food",
+  "attributes": [
+    "resource",
+    "item",
+    "health",
+    "common"
+  ]
+}

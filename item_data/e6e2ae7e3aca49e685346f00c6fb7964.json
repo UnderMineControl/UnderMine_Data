@@ -1,0 +1,13 @@
+{
+  "guid": "e6e2ae7e3aca49e685346f00c6fb7964",
+  "name": "Balance",
+  "displayName": "Balance",
+  "wiki": "Balance",
+  "description": "A firm stance, and controlled movements do wonders to improve one's throwing capabilities.",
+  "effect": "Deal more throw damage",
+  "slot": "blessing",
+  "attributes": [
+    "blessing",
+    "common"
+  ]
+}

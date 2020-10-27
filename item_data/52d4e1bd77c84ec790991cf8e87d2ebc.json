@@ -1,0 +1,15 @@
+{
+  "guid": "52d4e1bd77c84ec790991cf8e87d2ebc",
+  "name": "LuckyLockpick",
+  "displayName": "Lucky Lockpick",
+  "wiki": "Lucky_Lockpick",
+  "description": "\"I don't know what you are talking about. This baby never breaks.\" - Black Rabbit",
+  "effect": "A chance to not die, and no chance to break",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "legendary"
+  ]
+}

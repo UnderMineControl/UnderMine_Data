@@ -1,0 +1,13 @@
+{
+  "guid": "ad0424584fae467c9f89f7a9e4bdf0d7",
+  "name": "Heartiness",
+  "displayName": "Heartiness",
+  "wiki": "Heartiness",
+  "description": "Normally a healthy lifestyle makes for a healthy body, but peasants make due with what they got.",
+  "effect": "Healing is more effective",
+  "slot": "blessing",
+  "attributes": [
+    "blessing",
+    "common"
+  ]
+}

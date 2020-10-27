@@ -1,0 +1,15 @@
+{
+  "guid": "3693999de5e94fcd81b5fcd53c13e8b4",
+  "name": "BerserkerPendant",
+  "displayName": "Berserker's Pendant",
+  "wiki": "Berserker%27s_Pendant",
+  "description": "A necklace of gnarled orc fangs, caked in blood.",
+  "effect": "Deal more swing damage at low health",
+  "slot": "relic",
+  "attributes": [
+    "schematic",
+    "item",
+    "relic",
+    "common"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "guid": "44fb9ed14905472ba6e2e9bd2c28c840",
+  "name": "MapCoreWarp",
+  "displayName": "Core Map",
+  "wiki": "Core_Map",
+  "description": "The Golden Core has been a source of mystery for all of recorded history. Many expeditions of brave adventurers have been sent off to explore it, but none return. Its dangers are countless. The heat is intense, the creatures are aggressive and deadly, and it is as deep as the Undermine goes. At least, as far as anyone knows.",
+  "effect": "Unlocks fast travel to The Golden Core",
+  "slot": "artifact",
+  "attributes": [
+    "item",
+    "artifact",
+    "common"
+  ]
+}

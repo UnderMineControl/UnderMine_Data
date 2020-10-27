@@ -1,0 +1,13 @@
+{
+  "guid": "7a431a1136014ef88efe8a530a2716b3",
+  "name": "Toughness",
+  "displayName": "Toughness",
+  "wiki": "Toughness",
+  "description": "An important attribute for when the raging Bobo barrels over you.",
+  "effect": "Increased maximum health",
+  "slot": "blessing",
+  "attributes": [
+    "blessing",
+    "common"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "guid": "fa316b4c8f0143a78721a4de9582f428",
+  "name": "Rebirth",
+  "displayName": "Rebirth",
+  "wiki": "Sol%27s_Phoenix",
+  "effect": "The Phoenix will resurrect the peasant once when they fall",
+  "slot": "none",
+  "attributes": [
+    "misc",
+    "common"
+  ]
+}

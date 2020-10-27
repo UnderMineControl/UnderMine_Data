@@ -1,0 +1,14 @@
+{
+  "guid": "cef6755dbc2e415e8cdff8cfbe1a4a58",
+  "name": "PilferNightmare",
+  "displayName": "Pilfer's Nightmare",
+  "wiki": "Pilfer%27s_Nightmare",
+  "description": "Typical Pilfers can be a nuisance, but these... these little edge lords are a nightmare.",
+  "effect": "New and more dangerous Pilfers",
+  "slot": "curse",
+  "attributes": [
+    "curse",
+    "major",
+    "common"
+  ]
+}
